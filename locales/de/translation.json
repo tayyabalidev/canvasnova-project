@@ -1,0 +1,1688 @@
+{
+    "artworkPreview": "Vorschau des Kunstwerks",
+    "customize": "Passen Sie Ihren Druck an",
+    "total": "Gesamtbetrag",
+    "selectedOptions": "Ausgewählte Optionen",
+    "step": "Schritt",
+    "of": "von",
+    "availableColor": "Verfügbare Farben",
+    "overallSize": "Gesamtgröße",
+    "choosePassePartoutColor": "Wählen Sie eine Passepartout-Farbe",
+    "setPassePartoutWidth": "Passepartout-Breite einstellen",
+    "incl": "inkl.",
+    "excl": "exkl.",
+    "vat": "MwSt.",
+    "inclFreeShipping": "inkl. Versandkosten",
+    "oops": "Ups!",
+    "somethingWrong": "Etwas ist schiefgelaufen.",
+
+    "passePartoutExplanation": "Das Passepartout fügt Ihrem Kunstwerk einen dekorativen Rahmen hinzu, der das Motiv hervorhebt und für eine elegante Präsentation sorgt.",
+    "acrylglassExplanation": "Acrylglas schützt Ihre Kunstwerke und verstärkt gleichzeitig ihre Tiefe und Farbbrillanz für einen atemberaubenden visuellen Effekt.",
+    "laminationExplanation": "Durch die Laminierung wird Ihr Druck auf dem Träger fixiert, wodurch Stabilität und Haltbarkeit gewährleistet werden und die Qualität erhalten bleibt.",
+    "materialfinishExplanation": "Wählen Sie die Oberflächenbeschaffenheit, die am besten zu Ihrem Kunstwerk passt, von glänzend bis matt für eine optimale Präsentation.",
+    "hanginghardwareExplanation": "Wählen Sie die passenden Wandbefestigungen für eine sichere und einfache Installation Ihres Kunstwerks aus.",
+    "motifborderExplanation": "Passen Sie den Rand um Ihr Motiv an, um zwischen dem Bild und dem Rahmen Platz für ein ausgewogenes Aussehen zu schaffen.",
+    "cornerExplanation": "Passen Sie die Form der Ecken Ihres Kunstwerks an, von scharfen Kanten bis hin zu abgerundeten Abschlüssen für ein maßgeschneidertes Design.",
+
+    "next": "Weiter",
+    "previous": "Zurück",
+    "edit": "Bearbeiten",
+    "addToCart": "In den Warenkorb legen",
+    "viewSelections": "Auswahl anzeigen",
+    "photoprintC": "Kunstdrucke, farbig",
+    "photoprintBW": "Kunstdrucke, schwarz-weiß",
+    "fineart": "Kunstdrucke",
+    "backHome": "Zurück zur Startseite",
+
+    "stepNames": {
+        "product": {
+            "name": "Produkt"
+        },
+        "size": {
+            "name": "Größe"
+        },
+        "mounting": {
+            "name": "Aufhängung"
+        },        
+        "imagecarrier": {
+            "name": "Bildträger"
+        },        
+        "frame": {
+            "name": "Rahmen",
+            "moreDetailed": "Rahmenprofil und Farbe"
+        },        
+        "passepartoutcw": {
+            "name": "Passe-Partout",
+            "moreDetailed": "Passepartout-Farbe und -Breite"
+        },        
+        "acrylglass": {
+            "name": "Acrylglas"
+        },        
+        "paper": {
+            "name": "Papier"
+        },        
+        "lamination": {
+            "name": "Laminierung"
+        },        
+        "materialfinish": {
+            "name": "Materialoberfläche"
+        },        
+        "glass": {
+            "name": "Glas"
+        },        
+        "hanginghardware": {
+            "name": "Aufhängung"
+        },        
+        "motifborder": {
+            "name": "Motivrand"
+        },        
+        "corners": {
+            "name": "Ecken"
+        },        
+        "stretcherframe": {
+            "name": "Trägerrahmen"
+        },        
+        "sideappearance": {
+            "name": "Seitenansicht"
+        },        
+        "summary": {
+            "name": "Zusammenfassung"
+        },        
+        "passepartoutColor": {
+            "name": "Passepartout-Farbe"
+        },        
+        "passepartoutWidth": {
+            "name": "Passepartout-Breite"
+        },
+        "frameColor": {
+            "name": "Rahmenfarbe"
+        }
+    },
+    "product": {
+        "acrylic1": {
+            "name": "Kunst-Abzug hinter Acrylglas glänzend",
+            "description": "Stabile Acrylglasbilder mit Aluminiumrückwand, perfekt für zeitlose und hochwertige Präsentationen.",
+            "detailedDescription": [
+                {
+                    "title": "Verarbeitungsdetails: Dreischichtsystem für maximale Wirkung",
+                    "text": "<ul><li><b>Acrylic glass:</b> Glänzendes, kristallklares Acrylglas in 2mm, 4mm oder 6mm Dicke verstärkt die Tiefenwirkung und bringt die Farben zum Leuchten.</li><li><b>High-quality print:</b> Präzise Belichtung auf speziellem Fotopapier, das Details und Farbintensität hervorhebt, versiegelt mit dauerhaft elastischem Silikon für eine blasen- und rissfreie Laminierung.</li><li><b>Alu-Dibond-Rückwand:</b> Stabile Trägerplatte mit glatter Oberfläche für maximale Haltbarkeit und Formstabilität.</li></ul>"
+                },
+                {
+                    "title": "Warum glänzendes Acryl?",
+                    "text": "<p>Glänzendes Acryl unterstreicht die Farbintensität und den Kontrast Ihrer Kunstwerke und erzeugt gleichzeitig einen faszinierenden Tiefeneffekt. Es eignet sich besonders für farbenfrohe und detaillierte Motive wie abstrakte Kunst, Landschaften oder moderne Designs.</p><ul><li><b>2mm Dicke:</b> Dezente Effekte für kleinere Formate oder dezente Präsentationen. </li><li><b>4mm Stärke:</b> Der Standard für Galeriequalität – perfekt für mittlere bis große Formate.</li><li><b>6mm Stärke:</b> Maximale Tiefenwirkung für beeindruckende 3D-Effekte bei exklusiven Kunstwerken.</li></ul>"
+                },
+                {
+                    "title": "Benutzerdefinierte Formate",
+                    "text": "<p>Jedes Kunstwerk wird millimetergenau nach Ihren Vorgaben gefertigt – von kleinen Formaten bis hin zu beeindruckenden XXL-Größen.</p><ul><li><b>Mindestgröße:</b> 9 x 9 cm</li><li><b>Maximalgröße: </b><ul><li>240 x 122 cm bei 2mm Stärke</li><li>195 x 122 cm bei 4mm Stärke</li><li>180 x 122 cm bei 6mm Stärke</li></ul></li></ul><p>Ob quadratisch, im Panorama- oder Rundformat – Ihre Kunst wird genauso präsentiert, wie Sie es sich vorstellen.</p>"
+                },
+                {
+                    "title": "Welche Kunstwerke eignen sich für Acrylglas?",
+                    "text": "Glänzendes Acrylglas eignet sich ideal für lebendige, farbintensive Motive, die durch die Leuchtkraft und Tiefe des Materials verstärkt werden sollen. Abstrakte Werke, urbane Szenen oder detailreiche Naturmotive profitieren besonders von der brillanten Optik. Für Werke mit dezenten Farben oder einem minimalistischen Stil kann auch eine matte Oberfläche gewählt werden, um Reflexionen zu vermeiden und eine ruhige Wirkung zu erzielen."
+                },
+                {
+                    "title": "Langlebigkeit und Schutz",
+                    "text": "Die langlebige Silikondichtung schützt Ihre Kunstwerke vor Blasen und Rissen, während das Acrylglas kratz- und bruchsicher ist. Die Kombination hochwertiger Materialien sorgt dafür, dass Ihre Kunstwerke viele Jahre lang glänzen werden – perfekt für Sammler und Liebhaber hochwertiger Präsentationen."
+                }
+            ],
+            "recursiveDescription": "Lassen Sie Ihre Kunstwerke mit glänzendem Acrylglas erstrahlen – eine Präsentation in Galeriequalität, die jeden Raum aufwertet!"
+        },
+        "acrylic2": {
+            "name": "Kunst-Abzug hinter Acrylglas ultraHD",
+            "description": "UltraHD-Drucke unter Acrylglas bieten brillante Farben, Tiefe und Stabilität mit einer 3mm starken Alu-Dibond-Rückwand.",
+            "detailedDescription": [
+                {
+                  "title": "UltraHD-Drucke hinter Acrylglas: Perfektion für Ihre Kunstwerke",
+                  "text": "Unsere UltraHD-Drucke hinter Acrylglas setzen neue Maßstäbe in der Kunstpräsentation. Das Zusammenspiel von modernster Belichtungstechnik, hochwertigem Fotopapier und glänzendem Acrylglas sorgt für außergewöhnliche Farbbrillanz, Detailtreue und eine beeindruckende Tiefenwirkung. Die stabile Rückwand aus Aluminium-Dibond verleiht dem Werk zusätzliche Langlebigkeit und unterstreicht die hochwertige Verarbeitung."
+                },
+                {
+                  "title": "Höchste Präzision und Farbintensität",
+                  "text": "Dank der innovativen Belichtung auf speziellem Fotopapier werden selbst feinste Details sichtbar – ideal für großformatige Kunstwerke oder Werke mit komplexen Strukturen.<ul><li><b>21 % größerer Farbraum:</b> Farben erscheinen intensiver und lebendiger.</li><li><b>Erhöhte Maximaldichte:</b> Schärfere Kontraste und tiefere Schwarztöne.</li><li><b>Perfekt für: </b>Kunstwerke mit vielen Farben, Details oder Kontrasten.</li></ul>"
+                },
+                {
+                  "title": "Maßgeschneidert für jedes Kunstwerk",
+                  "text": "Jedes Kunstwerk wird millimetergenau nach Ihren Vorgaben gefertigt – von kleinen Formaten bis hin zu beeindruckenden XXL-Größen.<ul><li><b>Mindestgröße:</b> 9 x 9 cm</li><li><b>Maximalgröße: </b><ul><li>240 x 122 cm bei 2mm Stärke</li><li>195 x 122 cm bei 4mm Stärke</li><li>180 x 122 cm bei 6mm Stärke</li></ul></li></ul>\nOb quadratisch, im Panorama- oder Rundformat – Ihre Kunst wird genauso präsentiert, wie Sie es sich vorstellen."
+                },
+                {
+                  "title": "Welche Kunstwerke eignen sich für Acrylglas?",
+                  "text": "Glänzendes Acrylglas eignet sich ideal für lebendige, farbintensive Motive, die durch die Leuchtkraft und Tiefe des Materials verstärkt werden sollen. Abstrakte Werke, urbane Szenen oder detailreiche Naturmotive profitieren besonders von der brillanten Optik. Für Werke mit dezenten Farben oder einem minimalistischen Stil kann auch eine matte Oberfläche gewählt werden, um Reflexionen zu vermeiden und eine ruhige Wirkung zu erzielen."
+                },
+                {
+                  "title": "Langlebigkeit und Schutz",
+                  "text": "Die langlebige Silikondichtung schützt Ihre Kunstwerke vor Blasen und Rissen, während das Acrylglas kratz- und bruchsicher ist. Die Kombination hochwertiger Materialien sorgt dafür, dass Ihre Kunstwerke viele Jahre lang glänzen werden – perfekt für Sammler und Liebhaber hochwertiger Präsentationen."
+                }
+              ],
+              "recursiveDescription": "UltraHD-Drucke hinter Acrylglas sind die perfekte Wahl für alle, die höchste Qualität und eine beeindruckende Präsentation ihrer Kunstwerke suchen – ideal für Sammler, Galerien und Liebhaber zeitloser Ästhetik."
+        },
+        "acrylic3": {
+            "name": "Metallic-Abzug hinter Acrylglas ultraHD",
+            "description": "UltraHD-Druck auf Metallic-Papier mit 2mm Acrylglas und 3mm Alu-Dibond-Rückwand für Stabilität.",
+            "detailedDescription": [
+                {
+                  "title": "UltraHD-Metallic-Druck hinter Acrylglas: schimmernde Eleganz und räumliche Tiefe",
+                  "text": "Unsere UltraHD-Metallic-Drucke hinter Acrylglas vereinen brillante Farbintensität mit edlem, perlmuttartigem Schimmer. Fuji Crystal Pearl-Papier verstärkt Kontraste und lässt helle Bereiche besonders lebendig erscheinen. In Kombination mit glänzendem Acrylglas und einer stabilen Aluminium-Dibond-Rückwand entsteht eine hochwertige Präsentation, die Ihre Kunstwerke in außergewöhnlicher Qualität erstrahlen lässt."
+                },
+                {
+                  "title": "Maximale Farbbrillanz und Detailschärfe",
+                  "text": "Dank der Belichtung auf speziellem Metallic-Fotopapier sind selbst feinste Details sichtbar – ideal für farbintensive, kontrastreiche oder schillernde Kunstwerke.<br><br><ul><li><b>Metallic-Glanz:</b> Verleiht Ihrem Kunstwerk einen glamourösen Look.</li><li><b>Verstärkte Highlights:</b> Helle Bereiche erscheinen besonders lebendig.</li><li><b>Perfekt für: </b>Dynamische Motive wie Stadtansichten, Nachtaufnahmen oder abstrakte Kunst.</li></ul>"
+                },
+                {
+                  "title": "Individuelle Formate für jede Arbeit",
+                  "text": "Ihr UltraHD-Metalldruck wird millimetergenau im Format 9:16, 16:9 oder 1:1 produziert. Ob hochformatige Werke, beeindruckende Panoramen oder harmonische quadratische Designs – Ihre Kunst wird perfekt in Szene gesetzt."
+                },
+                {
+                  "title": "Hochwertige Verarbeitung für eine lange Lebensdauer",
+                  "text": "Ihr Werk wird hinter 2mm starkem Acrylglas montiert, das leicht und bruchsicher ist. Eine dauerhafte Silikondichtung schützt vor Blasen und Rissen, während die Aluminium-Dibond-Rückseite für Stabilität sorgt.<ul><li><b>Langlebige Materialien:</b> Sorgt für lang anhaltende Brillanz.</li><li><b>Kratzfestes Acryl:</b> Schützt Ihr Kunstwerk und bewahrt gleichzeitig die Klarheit.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "UltraHD-Metallic-Drucke hinter Acrylglas sind die perfekte Wahl für alle, die ihre Kunstwerke mit einem modernen, glamourösen Finish präsentieren möchten – eine Präsentation in Galeriequalität, die jeden Raum aufwertet."
+        },
+        "acrylic4": {
+            "name": "Abzug hinter Acrylglas matt",
+            "description": "Matte Acrylglasplatte mit haltbarer Alu-Dibond-Rückseite minimiert Reflexionen und ist ideal für helle Räume.",
+            "detailedDescription": [
+                    {
+                    "title": "Kunst hinter mattem Acrylglas: Eleganz ohne Spiegelungen",
+                    "text": "Unsere Kunstwerke hinter mattem Acrylglas bieten eine stilvolle, reflexionsfreie Präsentation, die sich besonders für Räume mit starkem Lichteinfall eignet. Das matte Acrylglas minimiert Reflexionen und absorbiert Licht, während es gleichzeitig die Tiefenwirkung und Farbbrillanz verstärkt – selbst bei sanften Farben oder Schwarz-Weiß-Werken. Die Kombination aus hochwertigem Druck, einer stabilen Aluminium-Dibond-Rückwand und einer dauerelastischen Silikondichtung garantiert eine langlebige und professionelle Präsentation."
+                    },
+                    {
+                    "title": "Verarbeitungsdetails",
+                    "text": "<ul><li><b>Mattes Acrylglas:</b> 2mm Stärke sorgen für eine dezente, nicht reflektierende Oberfläche, die Ihr Kunstwerk unabhängig vom Betrachtungswinkel deutlich hervorhebt.</li><li><b>Hochwertiger Druck:</b> Auf Spezialfotopapier belichtet und mit einer haltbaren Silikondichtung laminiert, frei von Blasen und Rissen. </li><li><b>Aluminium-Dibond-Rückwand:</b> Zwei Aluminiumschichten mit einem Polyethylenkern bieten maximale Stabilität bei geringem Gewicht.</li></ul>"
+                    },
+                    {
+                    "title": "Individuelle Formate für jede Arbeit",
+                    "text": "Ihre Kaschierung hinter mattem Acrylglas wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Ob hochformatige Motive, Panoramen oder quadratische Kunstwerke – jedes Format wird präzise an Ihre Vorgaben angepasst.<ul><li><b>Maximale Größe:</b> 180 x 122 cm</li></ul>Auch größere Werke sind möglich, die durch die matte Oberfläche dezent und elegant wirken."
+                    },
+                    {
+                    "title": "Welche Arten von Kunstwerken eignen sich für mattes Acrylglas?",
+                    "text": "Matte Acrylglasplatten sind ideal für Kunstwerke, bei denen Reflexionen vermieden werden sollten. Sie eignen sich besonders für Schwarz-Weiß-Motive mit hohem Schwarzanteil, minimalistische Designs oder Pastelltöne, die durch die matte Oberfläche eine ruhige und zurückhaltende Wirkung erhalten. Sie sind perfekt für gegenüberliegende Fenster oder in hellen Räumen, in denen glänzende Oberflächen ablenken könnten."
+                    },
+                    {
+                    "title": "Langlebigkeit und Schutz",
+                    "text": "<ul><li><b>Langlebige Silikondichtmasse:</b> Schützt Ihre Kunstwerke vor Blasen und Rissen.</li><li><b>Robustes Material:</b> Mattes Acrylglas ist bruchsicher und kratzfest.</li></ul>Die Kombination hochwertiger Materialien sorgt dafür, dass Ihre Werke über Jahre hinweg glänzen werden – eine Präsentation in Galeriequalität für jeden Raum."
+                    }
+                    ],
+            "recursiveDescription": "Matte Acrylglasplatten sind die ideale Wahl für alle, die ihre Kunstwerke mit schlichter Eleganz präsentieren möchten – zeitlos, hochwertig und perfekt verarbeitet."               
+        },
+        "acrylic5": {
+            "name": "Ilford S/W-Abzug hinter Acrylglas",
+            "description": "Schwarz-Weiß-Kunstwerke erstrahlen auf hochwertigem monochromem Papier, hinter Acrylglas in Galeriequalität versiegelt.",
+            "detailedDescription": [
+                {
+                  "title": "Schwarz-Weiß-Kunst hinter Acrylglas: zeitlose Eleganz und beeindruckende Tiefe",
+                  "text": "Unsere Schwarz-Weiß-Kunstwerke hinter Acrylglas verbinden klassische Ästhetik mit moderner Präsentation. Durch die Verwendung von erstklassigem Ilford-Schwarz-Weiß-Fotopapier und die Montage hinter 2mm starkem Acrylglas entstehen faszinierende Kontraste und eine einzigartige Tiefenwirkung. Die stabile Rückwand aus Aluminium-Dibond sorgt für Langlebigkeit, während die dauerhafte Silikonversiegelung das Werk schützt und eine makellose Präsentation garantiert."
+                },
+                {
+                  "title": "Verarbeitungsdetails",
+                  "text": "<ul><li><b>Ilford Schwarz-Weiß-Fotopapier:</b> Ermöglicht feinste Grauabstufungen und präzise Details. </li><li><b>Acrylglas:</b> Erhältlich mit glänzender oder matter Oberfläche, um die Tiefe zu verstärken oder Reflexionen zu reduzieren.</li><li><b>Aluminium-Dibond-Rückwand:</b> Sorgt für Stabilität und schützt das Werk vor Verformung.</li><li><b>Transparentes Silikon:</b> Sorgt für eine langlebige, blasenfreie Verbindung zwischen den Materialien.</li></ul>"
+                },
+                {
+                  "title": "Individuelle Formate für Ihre Kunst",
+                  "text": "Jedes schwarz-weiße Kunstwerk wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Ob hochformatige Motive, breite Panoramen oder quadratische Designs – Ihre Kunst wird perfekt in Szene gesetzt.<ul><li><b>Maximale Größe:</b> 240 x 122 cm für glänzendes Acrylglas, 180 x 122 cm für mattes Acrylglas.</li></ul>Auch großformatige Werke sind möglich."
+                },
+                {
+                  "title": "Für welche Kunstwerke eignen sich schwarze und weiße Acrylglasplatten?",
+                  "text": "Die reduzierte Ästhetik der Schwarz-Weiß-Kunst profitiert besonders von der Kaschierung hinter Acrylglas. Glänzendes Acrylglas verstärkt Kontraste und verleiht dem Werk eine beeindruckende Tiefenwirkung, während mattes Acrylglas Reflexionen reduziert und eine ruhige, elegante Präsentation ermöglicht. Ideal für minimalistische Designs, Architekturaufnahmen oder Porträts, bei denen jede Nuance optimal zur Geltung kommen soll."
+                },
+                {
+                  "title": "Haltbarkeit und Schutz",
+                  "text": "<ul><li><b>Robustes Acrylglas:</b> Schützt vor UV-Strahlen, Feuchtigkeit und Staub.</li><li><b>Langlebige Silikondichtung:</b> Gewährleistet eine blasenfreie Laminierung, die jahrelang makellos bleibt.</li></ul>Die Kombination hochwertiger Materialien garantiert dauerhafte Brillanz – perfekt für Sammler und Liebhaber zeitloser Eleganz."
+                }
+              ],
+              "recursiveDescription": "Ein Schwarz-Weiß-Werk hinter Acrylglas ist die ideale Wahl für alle, die klassische Schönheit mit moderner Ausstrahlung verbinden möchten – ein Statement für jede Wand."
+        },
+        "acrylic6": {
+            "name": "Fine Art Pigmentdruck hinter Acrylglas",
+            "description": "Brillante Farben und langlebige Qualität mit modernstem Druck hinter Acrylglas. Nahtlose Formate bis zu 290 x 180 cm möglich.",
+            "detailedDescription": [
+                {
+                  "title": "Kunstdruck hinter Acrylglas: brillante Farben und beeindruckende Tiefe",
+                  "text": "Unsere Kunstdrucke hinter Acrylglas setzen neue Maßstäbe in der Kunstpräsentation. Modernste Pigmentdrucktechnik auf hochwertigem Fine-Art-Papier schafft Werke mit außergewöhnlich großem Farbraum, beeindruckender Detailtiefe und intensiver Farbbrillanz. Die Kaschierung hinter Acrylglas verstärkt die Tiefenwirkung und schützt das Kunstwerk dauerhaft."
+                },
+                {
+                  "title": "Verarbeitungsdetails",
+                  "text": "<ul><li><b>Pigmentdruck:</b> Lösemittelfreier Druck auf alterungsbeständigem Fine-Art-Papier für brillante Farben und Detailwiedergabe. </li><li><b>Acrylglas:</b> Erhältlich in 2mm oder 4mm Stärke, mit glänzender oder matter Oberfläche, je nach Ihrem Stil.</li><li><b>Aluminium-Dibond-Rückwand:</b> Sorgt für zusätzliche Haltbarkeit und Schutz.</li><li><b>Langlebige Silikondichtung:</b> Gewährleistet eine blasenfreie und langlebige Laminierung.</li></ul>"
+                },
+                {
+                  "title": "Individuelle Formate für Ihre Kunst",
+                  "text": "Jeder Kunstdruck wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Ob Sie kleine Formate für dezente Akzente oder beeindruckende Großformate bis zu 290 x 180 cm suchen, Ihre Kunst wird perfekt in Szene gesetzt. Diese Technik ermöglicht es, auch großformatige Werke ohne Beschnitt des Motivs umzusetzen."
+                },
+                {
+                  "title": "Welche Art von Kunstwerken eignet sich für den Kunstdruck hinter Acrylglas?",
+                  "text": "Der Kunstdruck hinter Acrylglas eignet sich ideal für farbintensive und detailreiche Werke, die durch die Tiefenwirkung des Acrylglases verstärkt werden sollen. Glänzendes Acrylglas erhöht die Farbbrillanz und -lebendigkeit, während mattes Acrylglas Reflexionen reduziert und eine ruhige, elegante Wirkung erzielt. Besonders geeignet für abstrakte Kunst, urbane Szenen oder großformatige Landschaften, die in voller Größe ihre volle Wirkung entfalten."
+                },
+                {
+                  "title": "Haltbarkeit und Schutz",
+                  "text": "<ul><li><b>UV-Schutz:</b> Acrylglas schützt Ihre Arbeit vor schädlichen Strahlen.</li><li><b>Feuchtigkeits- und Staubbeständigkeit:</b> Schützt Ihre Kunstwerke unter allen Bedingungen. </li><li><b>Aluminium-Dibond-Rückwand:</b> Sorgt für Stabilität und verhindert Verformungen.</li><li><b>Langlebige Silikondichtung:</b> Garantiert eine langlebige, blasenfreie Präsentation.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Kunstdrucke hinter Acrylglas sind die ideale Wahl für alle, die ihre Kunstwerke mit maximaler Farbbrillanz und -tiefe präsentieren möchten – zeitlos, hochwertig und individuell angepasst."
+            
+        },
+        "aludibond1": {
+            "name": "Kunst-Druck auf Alu-Dibond",
+            "description": "Der Direktdruck mit 7-Farben-Technologie bietet eine matte Oberfläche und einen dezenten Schimmer, unterstützt durch langlebiges Alu-Dibond.",
+            "detailedDescription": [
+                {
+                "title": "Direktdruck auf Aluminium-Dibond: robust, reflexionsfrei und vielseitig",
+                "text": "Der Direktdruck auf Alu-Dibond bietet eine hochwertige und langlebige Möglichkeit, Kunstwerke in matter Optik zu präsentieren. Dank moderner 7-Farben-Drucktechnik entstehen brillante Farben mit hoher Sättigung und feinen Tonwertabstufungen. Die matte Oberfläche sorgt für eine reflexfreie Optik, helle und weiße Flächen schimmern dezent."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Direktdruck:</b> Ihr Motiv wird direkt auf eine 3mm starke Aluminium-Dibondplatte gedruckt.</li><li><b>Materialaufbau:</b> Zwei beschichtete Aluminiumschichten mit einem schwarzen Polyethylenkern für maximale Stabilität und geringes Gewicht.</li><li><b>Wasserfester UV-Druck:</b> Feuchtigkeitsresistent und ideal für geschützte Außenbereiche oder Feuchträume.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr Direktdruck auf Alu-Dibond wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Großformaten bis 190 x 145 cm ist alles möglich – perfekt für jedes Motiv und jede Wand."
+                },
+                {
+                "title": "Welche Art von Kunstwerken eignet sich für den Direktdruck auf Aluminium-Dibond?",
+                "text": "Der Direktdruck ist ideal für moderne, minimalistische Werke oder Motive mit klaren Linien und kräftigen Farben. Dank der entspiegelten Oberfläche eignet er sich besonders für Räume mit starker Lichteinstrahlung oder als robuste Variante für Badezimmer und geschützte Außenbereiche."
+                },
+                {
+                "title": "Langlebigkeit und Vielseitigkeit",
+                "text": "<ul><li><b>Wasserfeste Oberfläche:</b> Schützt Ihre Arbeit vor Feuchtigkeit und Staub.</li><li><b>UV-Beständigkeit:</b> Sorgt für Farbbrillanz auch bei Sonneneinstrahlung.</li><li><b>Robustes Material:</b> Geeignet für langlebige Präsentationen im Innen- und Außenbereich.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Der Direktdruck auf Aluminium-Dibond verbindet moderne Ästhetik mit höchster Funktionalität – robust, hochwertig und perfekt anpassbar an Ihre individuellen Anforderungen."
+        },
+        "aludibond2": {
+            "name": "Kunst-Abzug auf Alu-Dibond",
+            "description": "Hochwertige Papiere, Laserbelichtung und UV-Laminierung auf Alu-Dibond sorgen für zeitlose, galeriewürdige Qualität.",
+            "detailedDescription": [
+                {
+                "title": "Kunstdruck auf Aluminium-Dibond: zeitlose Eleganz und maximale Stabilität",
+                "text": "Ein Kunstdruck auf Aluminium-Dibond verbindet schlichte, moderne Ästhetik mit langlebiger Qualität. Durch die Kaschierung auf eine stabile Aluminium-Verbundplatte wird Ihr Motiv optimal geschützt und in einem hochwertigen Galerieformat präsentiert. Die matte oder glänzende UV-Schutzfolie bewahrt die Farbbrillanz und sorgt für ein reflexionsfreies oder strahlendes Erscheinungsbild – perfekt für jedes Motiv."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Hochwertiges Fotopapier:</b> Ihr Motiv wird auf eine 3mm starke Aluminium-Dibondplatte belichtet und aufgezogen.</li><li><b>Materialaufbau:</b> Zwei beschichtete Aluminiumschichten umschließen einen schwarzen Polyethylenkern für Stabilität.</li><li><b>UV-Schutzfolie:</b> Transparente Schicht schützt vor UV-Strahlen, Staub und Feuchtigkeit.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr Alu-Dibond-Druck wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Großformaten bis zu 240 x 122 cm – Ihre Kunst wird präzise und individuell umgesetzt."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für Aluminium-Dibond-Drucke?",
+                "text": "Die Aluminium-Dibond-Montage ist ideal für minimalistische Präsentationen, bei denen das Motiv im Mittelpunkt steht. Ob farbintensive Werke, Schwarz-Weiß-Fotografien oder detaillierte Landschaftsaufnahmen – die matte Oberfläche sorgt für einen dezenten Look, während die glänzende Version die Farben intensiviert und sie lebendig wirken lässt."
+                },
+                {
+                "title": "Langlebigkeit und Vielseitigkeit",
+                "text": "<ul><li><b>Robuste Aluminium-Verbundplatte:</b> Schützt Ihre Arbeit vor äußeren Einflüssen.</li><li><b>Erhalt der Farbbrillanz:</b> Sorgt für leuchtende Farben über viele Jahre.</li><li><b>Leichte Konstruktion:</b> Geeignet für größere Formate und einfach aufzuhängen.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Ein Alu-Dibond-Druck ist die ideale Wahl für alle, die ihre Motive modern, hochwertig und langlebig präsentieren möchten – zeitloses Design in Galeriequalität!"        },
+        "aludibond4": {
+            "name": "Ilford S/W-Abzug auf Alu-Dibond",
+            "description": "Modernste Technologie und Alu-Dibond sorgen für makellose Schwarz-Weiß-Präsentationen, optional mit Rahmen.",
+            "detailedDescription": [
+                {
+                "title": "Schwarz-Weiß-Drucke auf Aluminium-Dibond: monochrome Perfektion in moderner Präsentation",
+                "text": "Schwarz-Weiß-Kunst lebt von den feinen Nuancen zwischen Licht und Schatten. Mit einer Kaschierung auf Alu-Dibond präsentieren Sie Ihre Schwarz-Weiß-Fotografie in Galeriequalität – stabil, langlebig und zeitlos elegant. Das hochwertige Ilford Schwarz-Weiß-Fotopapier sorgt für präzise Grauabstufungen und beeindruckende Details, während die matte oder glänzende Oberfläche die Wirkung Ihres Motivs perfekt zur Geltung bringt."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Ilford Schwarz-Weiß-Fotopapier:</b> Sorgt für präzise Grauabstufungen und beeindruckende Details.</li><li><b>Aluminium-Dibond-Rückwand:</b> Zwei beschichtete Aluminiumschichten umschließen einen schwarzen Kunststoffkern für Stabilität.</li><li><b>UV-Schutzfolie:</b> Verhindert das Ausbleichen von Farbnuancen und schützt vor Schmutz.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "YUnser Schwarz-Weiß-Druck auf Aluminium-Dibond wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Ob Sie kleine Formate für dezente Akzente oder beeindruckende Großformate bis zu 240 x 122 cm suchen, jedes Werk wird präzise und individuell umgesetzt, ohne dass ein Beschnitt erforderlich ist."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für Schwarz-Weiß-Drucke auf Aluminium-Dibond?",
+                "text": "Diese Form der Präsentation eignet sich ideal für minimalistische Motive, Architekturaufnahmen oder Porträts, bei denen die Grautöne im Mittelpunkt stehen. Glänzende Oberflächen verstärken Kontraste und verleihen dem Werk einen lebendigen Look, während matte Oberflächen Reflexionen vermeiden und eine ruhige Eleganz erzeugen."
+                },
+                {
+                "title": "Haltbarkeit und Schutz",
+                "text": "<ul><li><b>Robuste Aluminium-Dibond-Rückwand:</b> Schützt Ihre Arbeit vor Verformung.</li><li><b>UV-Schutzfolie:</b> Erhält die feinen Nuancen Ihrer Schwarz-Weiß-Kunst über Jahrzehnte hinweg.</li></ul>Diese Kombination macht Schwarz-Weiß-Drucke auf Aluminium-Dibond zur perfekten Wahl für private Sammlungen, Galerien oder Ausstellungen."
+                }
+            ],
+            "recursiveDescription": "Ein Schwarz-Weiß-Druck auf Aluminium-Dibond verbindet klassische Ästhetik mit moderner Stabilität – eine zeitlose Präsentation für anspruchsvolle Kunstwerke!"
+        },
+        "aludibond5": {
+            "name": "Fine Art Print auf Alu-Dibond",
+            "description": "Fine Art Prints bieten höchste Qualität mit verschiedenen Papieroptionen, die für eine perfekte Präsentation auf Alu-Dibond laminiert sind.",
+            "detailedDescription": [
+                {
+                "title": "Kunstdruck auf Aluminium-Dibond: Kunst in Perfektion und moderner Eleganz",
+                "text": "Präsentieren Sie Ihre Kunstwerke in höchster Qualität mit einem Kunstdruck, der auf Aluminium-Dibond aufgezogen ist. Der detaillierte Pigmentdruck auf hochwertigen Papieren von Hahnemühle und Canson erzeugt Werke mit außergewöhnlicher Farbbrillanz, beeindruckender Detailtiefe und einzigartiger Oberflächenstruktur. Die stabile Rückseite aus Aluminium-Dibond sorgt dafür, dass Ihr Werk perfekt flach liegt und verleiht ihm einen modernen, minimalistischen Look – ideal für private Sammlungen, Galerien oder Ausstellungen."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Pigmentdruck:</b> Lösungsmittelfreier Druck auf einem von vier hochwertigen Fine-Art-Papieren mit außergewöhnlicher Textur und Farbwiedergabe. </li><li><b>Aluminium-Dibond-Rückwand:</b> 3mm dicke Platte mit zwei beschichteten Aluminiumschichten und einem schwarzen Kunststoffkern für maximale Stabilität.</li><li><b>Glasfreie Präsentation:</b> Sorgt dafür, dass die natürliche Textur des Papiers sichtbar bleibt.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr Kunstdruck auf Alu-Dibond wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Großformaten bis 240 x 105 cm – jedes Werk wird präzise und individuell umgesetzt, ohne dass das Motiv beschnitten werden muss."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für den Kunstdruck auf Aluminium-Dibond?",
+                "text": "Diese Präsentationsform eignet sich ideal für detailreiche Fotografien, minimalistische Designs oder abstrakte Kunstwerke, die durch die Textur des Papiers und die matte Optik der Oberfläche eine besondere Wirkung entfalten sollen. Die unversiegelte Papieroberfläche lässt die Farben besonders lebendig erscheinen, erfordert aber eine sorgfältige Handhabung, um die Qualität langfristig zu erhalten."
+                },
+                {
+                "title": "Haltbarkeit und Schutz",
+                "text": "<ul><li><b>Robuste Aluminium-Dibond-Rückwand:</b> Schützt Ihre Arbeit vor Verformung und sorgt für eine glatte, gleichmäßige Präsentation.</li><li><b>Langlebige Laminierung:</b> Kombiniert hochwertigen Druck mit stabiler Befestigung für Ergebnisse in Galeriequalität.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Ein Kunstdruck auf Aluminium-Dibond verbindet moderne Ästhetik mit präziser Handwerkskunst – eine zeitlose Präsentation für anspruchsvolle Kunstwerke!"        },
+        "aludibond6": {
+            "name": "Kunst-Druck auf gebürstetem Alu-Dibond",
+            "description": "Gebürstetes Aluminium verleiht hellen Bereichen einen metallischen Glanz mit silbernen oder goldenen Oberflächen und ist für den Außenbereich wasserdicht.",
+            "detailedDescription": [
+                {
+                "title": "Gebürstetes Aluminium: Einzigartige Effekte für Ihre Kunstwerke",
+                "text": "Präsentieren Sie Ihre Kunstwerke auf gebürstetem Aluminium und verleihen Sie ihnen einen modernen, metallischen Look. Die horizontal gebürstete Oberfläche sorgt dafür, dass helle und weiße Bereiche Ihres Designs in Silber oder Gold schimmern, während die bedruckten Bereiche mit einer matten, nicht reflektierenden Oberfläche beeindrucken. Der hochwertige UV-Druck macht das Kunstwerk wasserfest und langlebig – perfekt für den Einsatz in Innenräumen, im geschützten Außenbereich oder im Badezimmer."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Direktdruck:</b> Ihr Motiv wird direkt auf eine 3mm starke Aluminium-Verbundplatte gedruckt.</li><li><b>Materialaufbau:</b> Zwei beschichtete Aluminiumschichten mit einem schwarzen Polyethylenkern sorgen für Stabilität. </li><li><b>Gebürstete Oberfläche:</b> Erhältlich in Silber oder Gold, mit hellen Bereichen, die für einen auffälligen Metallic-Effekt unbedruckt bleiben.</li><li><b>7-farbiger UV-Druck:</b> Sorgt für intensive Farbbrillanz und Langlebigkeit.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihre Wandkunst auf gebürstetem Aluminium wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Großformaten bis zu 190 x 145 cm – jedes Werk wird präzise und individuell umgesetzt."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für gebürstetes Aluminium?",
+                "text": "Der metallische Effekt von Alu-Dibond Butlerfinish ist ideal für minimalistische Designs, Architekturaufnahmen oder technische Motive, die durch den Kontrast zwischen Druck und Metall besonders eindrucksvoll zur Geltung kommen. Silberne Oberflächen eignen sich für eine kühle, moderne Ästhetik, während goldene Oberflächen einen warmen, luxuriösen Akzent setzen. Von abstrakten Werken bis hin zu Landschaften – jedes Motiv hat eine einzigartige Wirkung."
+                },
+                {
+                "title": "Langlebigkeit und Vielseitigkeit",
+                "text": "<ul><li><b>Wasser- und UV-beständig:</b> Schützt Ihre Kunstwerke vor Feuchtigkeit und Sonnenlicht.</li><li><b>Robustes Material:</b> Verhindert Verformungen und sorgt für lang anhaltende Brillanz.</li></ul>Damit eignet sich gebürstetes Aluminium perfekt für private Sammlungen, Galerien oder geschützte Außenbereiche."
+                }
+            ],
+            "recursiveDescription": "Ein Wandbild auf gebürstetem Aluminium vereint moderne Eleganz mit außergewöhnlicher Stabilität – ein Highlight für jeden Raum!"
+        },
+        "aludibond7": {
+            "name": "ChromaLuxe HD Metal Print",
+            "description": "Premium-Metalldrucke sind robust, wasserfest, leicht und eignen sich perfekt für lebendige Großformat-Displays, sogar im Freien.",
+            "detailedDescription": [
+                {
+                "title": "ChromaLuxe HD Metal Print: Premium-Druck auf Metall für die anspruchsvollsten Kunden",
+                "text": "Erleben Sie Ihr Kunstwerk auf Aluminium in einer neuen Dimension. Der ChromaLuxe HD Metal Print verbindet außergewöhnliche Farbbrillanz mit extremer Stabilität und Eleganz. Dank der innovativen Thermosublimationstechnologie werden die Farben dauerhaft in die beschichtete Oberfläche der 1mm dünnen Aluminiumplatte eingedampft, was zu einer beeindruckenden Haltbarkeit und einem faszinierenden Glanz führt. Ideal für farbintensive und kontrastreiche Motive, die sowohl im Innenbereich als auch im geschützten Außenbereich zur Geltung kommen."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Thermosublimation:</b> Spiegelverkehrter Druck auf Transferpapier, das unter Hitze und Druck in die Spezialbeschichtung übertragen wird.</li><li><b>Langlebige Oberfläche:</b> Wasserfest und kratzfest mit brillanten Farben und hervorragender Bildschärfe.</li><li><b>Leichtes Aluminium:</b> 1mm dünne Platte, stabil und ideal für kleine und große Formate.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr ChromaLuxe HD Metal Print wird millimetergenau im Format 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Großformaten bis zu 150 x 100 cm wird jedes Werk präzise an Ihre Vorgaben angepasst."
+                },
+                {
+                "title": "Welche Art von Kunstwerken eignet sich für ChromaLuxe HD Metal Print?",
+                "text": "Dieser Premium-Druck ist ideal für farbenfrohe Motive, kontrastreiche Designs oder moderne Kunstwerke, die Sie mit metallischem Glanz und brillanter Farbwiedergabe aufwerten möchten. Die glänzende Oberfläche eignet sich besonders für dynamische Szenen, während gebürstetes Aluminium einen subtileren Metalleffekt bietet, bei dem die Struktur des Metalls durchscheint."
+                },
+                {
+                "title": "Langlebigkeit und Vielseitigkeit",
+                "text": "<ul><li><b>Wasserfest und UV-beständig:</b> Schützt Ihre Arbeit vor Feuchtigkeit, Sonnenlicht und Kratzern.</li><li><b>Integriertes Aufhängesystem:</b> Sorgt dafür, dass Ihre Kunstwerke sofort ausgestellt werden können.</li></ul>Damit ist ChromaLuxe HD Metal Print ideal für geschützte Außenbereiche oder anspruchsvolle Innenräume."
+                }
+            ],
+            "recursiveDescription": "Ein ChromaLuxe HD Metal Print bietet eine einzigartige Kombination aus Leichtigkeit, Stabilität und Farbbrillanz – eine zeitlose Präsentation für Ihre anspruchsvollsten Werke!"
+        },
+        "framed1": {
+            "name": "Magnet-Wechselrahmen",
+            "description": "Magnetische Bilderrahmen machen das Austauschen von Bildern zum Kinderspiel und bieten eine einfache Lösung, um Ihren Raum jederzeit aufzufrischen.",
+            "detailedDescription": [
+                {
+                "title": "Magnetische Wechselrahmen: Flexibilität und Eleganz für Ihre Kunstwerke",
+                "text": "Mit unseren magnetischen Fertigrahmen können Sie Ihre Kunstwerke stilvoll und flexibel präsentieren. Das innovative Magnetsystem ermöglicht einen schnellen und einfachen Austausch der Motive – ohne Werkzeug und ohne Beschädigungen. Der hochwertige Aluminiumrahmen sorgt in Kombination mit verschiedenen Passepartout- und Glasoptionen für eine professionelle Präsentation Ihrer Werke."
+                },
+                {
+                "title": "Details zum magnetischen Fertigrahmen",
+                "text": "<ul><li><b>Rahmenkomponenten:</b> Stabiler Rücken mit integriertem Aufhängesystem, hochwertiger Druck, präzise geschnittenes Passepartout, Auswahl an Glasscheiben und Aluminiumprofil mit Magnetstreifen.</li><li><b>Sichere Konstruktion:</b> Hält Ihr Motiv sicher und schützt es vor Staub und Beschädigungen.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate und Materialien",
+                "text": "<ul><li><b>Größen:</b> Erhältlich von 11 x 11 cm bis 110 x 70 cm.</li><li><b>Rahmenfarben:</b> Wählen Sie zwischen Silber, Schwarz oder Weiß.</li><li><b>Glasoptionen:</b> Glänzendes Floatglas, mattes Glas, entspiegeltes Museumsglas oder Acrylglas. </li><li><b>Passepartout:</b> Hochwertiger Museumskarton oder Leinen in verschiedenen Farben und Breiten.</li></ul>"
+                },
+                {
+                "title": "Welche Art von Kunstwerken eignet sich für magnetische Fertigrahmen?",
+                "text": "Diese Rahmen sind ideal für wechselnde Präsentationen von Fotografien, Kunstdrucken oder anderen Kunstwerken. Dank der flexiblen Gestaltungsmöglichkeiten können Sie Ihre Wände regelmäßig neu gestalten und Ihre besten Werke immer wieder neu in Szene setzen. Sie eignen sich besonders für Galerien, Ausstellungen oder private Sammlungen, die Abwechslung lieben."
+                },
+                {
+                "title": "Langlebigkeit und einfacher Austausch",
+                "text": "<ul><li><b>Robuste Konstruktion:</b> Garantiert eine lange Lebensdauer.</li><li><b>Magnetsystem:</b> Ermöglicht einen schnellen und werkzeuglosen Bildwechsel.</li><li><b>Wandschutz:</b> Filz-Eckenschoner schützen Ihre Wand vor Kratzern.</li></ul>Durch die einfache Montage hängt Ihr Rahmen schnell und gerade."
+                }
+            ],
+            "recursiveDescription": "Ein Magnetrahmen bietet die perfekte Kombination aus Eleganz, Funktionalität und Flexibilität – ideal für alle, die ihre Kunstwerke professionell präsentieren möchten!"
+        },
+        "framed2": {
+            "name": "Design Edition by Studio Besau-Marguerre",
+            "description": "Präsentieren Sie Ihre Kunstwerke in den lebendigen Rahmen der Design Edition von Studio Besau-Marguerre mit einzigartigen Farbverläufen in Gelb, Lila oder Grün.",
+            "detailedDescription": [
+                {
+                "title": "Design Edition Frames: Farbenfrohe Eleganz für Ihre Kunstwerke",
+                "text": "Setzen Sie Ihre Kunstwerke mit den neuen Rahmen der Design Edition ins Rampenlicht. Diese Rahmen wurden in Zusammenarbeit mit dem renommierten Atelier Besau-Marguerre entwickelt und vereinen modernes Design mit perfekter Handwerkskunst. Jede der drei Editionen – grün, gelb und violett – besteht aus vier verschiedenfarbigen Lamellen innerhalb eines Farbschemas, das durch sanfte Abstufungen und eine matt lackierte Oberfläche eine harmonische Dynamik erzeugt."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Fertigung in Galeriequalität:</b> Die Rahmen der Design Edition werden mit millimetergenauer Präzision gefertigt. </li><li><b>20mm Hamburger Profil:</b> Aus hochwertigem Holz für einen stabilen und eleganten Rahmen.</li><li><b>Farbnuancen:</b> Dezente Abstufungen innerhalb des Rahmens lenken die Aufmerksamkeit auf das Motiv, ohne aufdringlich zu wirken.</li><li><b>Integrierte Wandhalterung:</b> Sorgt für eine einfache Montage.</li></ul>"
+                },
+                {
+                "title": "Individuelle Gestaltungsmöglichkeiten",
+                "text": "<ul><li><b>Rahmenkaschierung:</b> Präsentieren Sie Ihr Kunstwerk hinter Acrylglas oder auf Alu-Dibond, geeignet für Formate bis 180 x 120 cm. </li><li><b>Foto- oder Kunstdruck mit Passepartout:</b> Ideal für Formate bis 110 x 70 cm.</li><li><b>Weiße Kanten:</b> Schaffen Sie optional einen dezenten Abstand zwischen Bild und Rahmen.</li></ul>"
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für die Design-Edition?",
+                "text": "Design Edition-Rahmen eignen sich ideal für Porträts, Architekturfotografien oder abstrakte Motive, die Sie mit der farbenfrohen Rahmung aufwerten möchten. Ob als einzelner Blickfang oder in Kombination mit anderen Werken, diese Rahmen harmonieren sowohl mit klassischen als auch mit modernen Inneneinrichtungen und verleihen jedem Raum eine angenehme Atmosphäre."
+                },
+                {
+                "title": "Langlebigkeit und Qualität",
+                "text": "<ul><li><b>Hochwertige Verarbeitung:</b> Garantiert Stabilität und Langlebigkeit.</li><li><b>Präzise Farbanpassung:</b> Schafft eine zeitlose Eleganz.</li></ul>Die Design Edition macht Ihr Kunstwerk zu einem echten Highlight, ob als Einzelstück oder als Teil einer Galeriedarstellung."
+                }
+            ],
+            "recursiveDescription": "Ein Rahmen der Design Edition verbindet farbenfrohe Extravaganz mit moderner Ästhetik – die perfekte Wahl für eine ausdrucksstarke Präsentation Ihrer Kunstwerke!"        },
+        "framed3": {
+            "name": "Kunst im Schattenfugen-Rahmen",
+            "description": "Präsentieren Sie Ihr Kunstwerk in einem Galerierahmen mit einer Schattenfuge von 7mm, wodurch ein schwebender Effekt innerhalb des Holzfurnierrahmens entsteht.",
+            "detailedDescription": [
+                {
+                "title": "Rahmen mit schwebendem Abstand: elegante Präsentation Ihrer Kunstwerke",
+                "text": "Präsentieren Sie Ihre Kunstwerke in einem Schattenfugenrahmen, der Ihrem Motiv einen einzigartigen Schwebeeffekt verleiht. Der Abstand zwischen Bild und Rahmen – die sogenannte Schattenfuge – sorgt für eine moderne und elegante Präsentation, wie sie auf führenden Kunstmessen üblich ist. Der Rahmen besteht aus hochwertigem Echtholz und ist in verschiedenen Farben und Profilbreiten erhältlich, perfekt abgestimmt auf Ihr Motiv und Ihren Raum."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Massivholzkonstruktion:</b> Präzise maßgefertigt für eine perfekte Passform.</li><li><b>Schattenfuge:</b> Eine Fuge von 7mm (optional 20mm bei Sondermodellen) erzeugt den schwebenden Effekt.</li><li><b>Integrierte Wandhalterung:</b> Sorgt für eine einfache und sofortige Aufhängung.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate und Materialien",
+                "text": "<ul><li><b>Formate:</b> Millimetergenau gefertigt im Verhältnis 9:16, 16:9 oder 1:1.</li><li><b>Trägermaterialien:</b> Wählen Sie zwischen Acrylglas, Aluminium oder Leinwand.</li><li><b>Rahmenoptionen:</b> Passen Sie Farbe und Profilbreite an Ihr Motiv an.</li></ul>"
+                },
+                {
+                "title": "Für welche Art von Kunstwerken eignet sich ein Schattenfugenrahmen?",
+                "text": "Rahmen mit Schattenfuge sind ideal für minimalistische Designs, moderne Kunstwerke oder Fotografien, die durch die schwebende Optik besonders hervorgehoben werden sollen. Sie eignen sich sowohl für farbintensive als auch für monochrome Motive und sind eine elegante Wahl für private Sammlungen, Galerien oder Ausstellungen."
+                },
+                {
+                "title": "Langlebigkeit und einfache Installation",
+                "text": "<ul><li><b>Hochwertige Verarbeitung:</b> Garantiert eine lange Lebensdauer des Rahmens.</li><li><b>Integrierte Wandhalterung:</b> Vereinfacht die Montage für einen professionellen Look.</li></ul>Ob als Einzelstück oder als Teil einer Galeriedekoration – ein Schattenfugenrahmen verleiht jedem Kunstwerk einen professionellen Look."
+                }
+            ],
+            "recursiveDescription": "Ein Schattenfugenrahmen vereint zeitlose Eleganz mit moderner Ästhetik – die perfekte Wahl für Ihre anspruchsvollsten Werke!"
+        },
+        "framed4": {
+            "name": "Kunst in ArtBox aus Aluminium",
+            "description": "Die ArtBox aus satiniertem Aluminium in Silber oder Schwarz ist in verschiedenen Tiefen und Ausführungen erhältlich und macht aus Ihrem Kunstwerk ein skulpturales Herzstück.",
+            "detailedDescription": [
+                {
+                  "title": "ArtBox aus Aluminium: Ihre Kunst als Designobjekt mit Tiefenwirkung",
+                  "text": "Die ArtBox aus Aluminium verwandelt Ihre Kunstwerke in skulpturale Galerieobjekte. Der filigrane, satinierte Aluminiumrahmen in Silber oder Schwarz verleiht Ihren Werken eine moderne, dreidimensionale Ästhetik. Die Schattenfuge zwischen Bild und Rahmen lässt Ihr Motiv schweben und schützt und betont es gleichzeitig durch den hochwertigen Rahmen."
+                },
+                {
+                  "title": "Details der Verarbeitung",
+                  "text": "<ul><li><b>Stabiler Aluminiumrahmen:</b> In verschiedenen Tiefen erhältlich, von dezent bis beeindruckend (z. B. 75mm).</li><li><b>Optionen für Bildträger:</b> Wählen Sie Acrylglas für zusätzliche Tiefe oder Aluminium-Dibond für einen schlichten und eleganten Look.</li><li><b>Präzise Verarbeitung:</b> Garantiert eine perfekt ebene Oberfläche und eine hochwertige Präsentation. </li></ul>"
+                },
+                {
+                  "title": "Individuelle Formate für Ihre Kunst",
+                  "text": "Die ArtBox aus Aluminium wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Großformaten von bis zu 200 x 122 cm wird jedes Werk individuell angepasst, um Ihre Kunst von ihrer besten Seite zu zeigen."
+                },
+                {
+                  "title": "Welche Kunstwerke eignen sich für die ArtBox aus Aluminium?",
+                  "text": "Die ArtBox ist ideal für moderne, minimalistische Werke oder Fotografien, die Sie mit einem schwebenden Look und einem metallischen Rahmen hervorheben möchten. Sie eignet sich perfekt für farbintensive Motive, kontrastreiche Designs oder abstrakte Kunstwerke, die durch die Tiefenwirkung des Rahmens noch intensiver wirken."
+                },
+                {
+                  "title": "Langlebigkeit und einfache Installation",
+                  "text": "<ul><li><b>Vormontierte Wandhalterung:</b> Sorgt für eine sofortige Aufhängung.</li><li><b>Einfache Montage:</b> Geeignet für Nägel, Schrauben oder Haken.</li></ul>Die unkomplizierte Installation macht die Präsentation Ihrer Kunstwerke einfach und sicher."
+                }
+              ],
+            "recursiveDescription": "Eine ArtBox aus Aluminium vereint zeitlose Eleganz mit moderner Ästhetik und macht Ihr Kunstwerk zu einem echten Hingucker – ein Designobjekt mit Galeriecharakter!"
+        },
+        "framed5": {
+            "name": "Kunst in ArtBox aus Holz",
+            "description": "Die hölzerne ArtBox kombiniert elegante Frontansichten mit einer Tiefe von 35mm und bietet natürliche Eleganz in vier Rahmenfarben.",
+            "detailedDescription": [
+                {
+                "title": "ArtBox aus Holz: natürliche Eleganz und dreidimensionaler Effekt",
+                "text": "Die hölzerne ArtBox bietet eine einfache, aber eindrucksvolle Präsentation Ihrer Kunstwerke. Von vorne betrachtet wirkt der Rahmen filigran, während die Seitenansicht mit einer Tiefe von 35mm einen skulpturalen, dreidimensionalen Effekt hat. Das Echtholzfurnier verleiht Ihrem Motiv eine natürliche Ausstrahlung und macht es zu einem echten Designobjekt."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Handgefertigte Präzision:</b> Die hölzerne ArtBox wird millimetergenau gefertigt.</li><li><b>Rahmenoptionen:</b> Erhältlich in sechs Farben und kompatibel mit Bildträgern wie Acrylglas oder Aluminium.</li><li><b>Integrierte Wandhalterung:</b> Eine eingefräste Nut auf der Rückseite sorgt für eine einfache Installation.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Die hölzerne ArtBox wird in den Formaten 9:16, 16:9 oder 1:1 präzise gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Größen von bis zu 180 x 120 cm wird jede ArtBox individuell angefertigt, um Ihre Kunst bestmöglich zu präsentieren."
+                },
+                {
+                "title": "Für welche Art von Kunstwerken eignet sich die hölzerne ArtBox?",
+                "text": "Die natürliche Optik des Echtholzfurniers eignet sich besonders für warme, emotionale Motive oder minimalistische Designs. Ob Landschaften, Porträts oder abstrakte Werke – die ArtBox aus Holz verleiht jedem Kunstwerk eine dezente Eleganz und setzt es stilvoll in Szene."
+                },
+                {
+                "title": "Langlebigkeit und einfache Montage",
+                "text": "<ul><li><b>Hochwertige Verarbeitung:</b> Garantiert Stabilität und Langlebigkeit.</li><li><b>Integriertes Aufhängesystem:</b> Vereinfacht die Montage und gewährleistet eine sichere Installation.</li><li><b>Option für Galerieschiene:</b> Ermöglicht eine repräsentative Präsentation in jedem Raum.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Eine ArtBox aus Holz vereint natürliche Materialien mit moderner Ästhetik – die perfekte Wahl für eine zeitlose Präsentation Ihrer Kunstwerke!"
+
+        },
+        "framed6": {
+            "name": "Kunst im Holz-Rahmen",
+            "description": "Unsere handgefertigten Rahmen vereinen Kunstfertigkeit und Detailtreue, werten Ihre Kunstwerke auf und ergänzen Ihren Einrichtungsstil.",
+            "detailedDescription": [
+                {
+                  "title": "Holzrahmen: Zeitlose Eleganz für Ihre Kunstwerke",
+                  "text": "Ein Holzrahmen verleiht Ihrem Kunstwerk eine dekorative und elegante Präsentation. Aus hochwertigem Echtholzfurnier gefertigt, strahlt er Wärme und Natürlichkeit aus und bietet gleichzeitig Stabilität und Schutz. Ob minimalistisch oder klassisch, der Rahmen ist ein entscheidender Faktor für die Wirkung Ihres Motivs und lässt sich perfekt an Ihren Einrichtungsstil anpassen."
+                },
+                {
+                  "title": "Verarbeitungsdetails",
+                  "text": "<ul><li><b>Handgefertigte Präzision:</b> Holzrahmen werden mit Millimetergenauigkeit gefertigt. </li><li><b>Verschiedene Holzarten:</b> Wählen Sie zwischen Eiche, Erle, Kirsche, Ahorn und Walnuss.</li><li><b>Individuelle Profile und Farben:</b> Die Rahmen können perfekt auf Ihr Motiv zugeschnitten werden.</li><li><b>Vormontierte Wandhalterung:</b> Ermöglicht das sofortige Aufhängen bei Lieferung.</li></ul>"
+                },
+                {
+                  "title": "Individuelle Formate für Ihre Kunst",
+                  "text": "Die Holzrahmen werden präzise in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Größen von bis zu 180 x 120 cm – mit einem Druck unter Acrylglas sogar bis zu 270 x 180 cm – wird jedes Werk individuell angepasst, um Ihre Kunst optimal zu präsentieren."
+                },
+                {
+                  "title": "Welche Kunstwerke eignen sich am besten für Holzrahmen?",
+                  "text": "Holzrahmen sind ideal für warme, emotionale Motive wie Porträts, Stillleben oder Landschaften. In Kombination mit einem Passepartout wird der Fokus noch stärker auf das Motiv gelenkt. Auch Leinwanddrucke profitieren von der natürlichen Ausstrahlung des Rahmens und sehen aus wie klassische Gemälde – perfekt, um eine gemütliche Atmosphäre in Ihrem Zuhause zu schaffen."
+                },
+                {
+                  "title": "Langlebigkeit und Vielseitigkeit",
+                  "text": "<ul><li><b>Hochwertige Verarbeitung:</b> Garantiert Stabilität und Langlebigkeit.</li><li><b>Unendliche Gestaltungsmöglichkeiten:</b> Wählen Sie aus verschiedenen Profilen, Farben und Kombinationen mit Passepartouts oder Acrylglas.</li></ul>Ein Holzrahmen setzt Ihr Kunstwerk stilvoll in Szene und bietet gleichzeitig dauerhaften Schutz."
+                }
+              ],
+              "recursiveDescription": "Ein Holzrahmen vereint natürliche Materialien mit zeitloser Eleganz – die perfekte Wahl für eine warme und hochwertige Präsentation Ihrer Kunstwerke!"
+                    },
+        "framed7": {
+            "name": "Kunst im Passepartout-Rahmen",
+            "description": "Präsentieren Sie Ihre Kunstwerke in einer klassischen Einfassung mit hochwertigen Passepartouts und einem maßgefertigten Holzrahmen!",
+            "detailedDescription": [
+                {
+                "title": "Holzrahmen: Zeitlose Eleganz für Ihre Kunstwerke",
+                "text": "Ein Holzrahmen verleiht Ihrem Kunstwerk eine dekorative und elegante Präsentation. Aus hochwertigem Echtholzfurnier gefertigt, strahlt er Wärme und Natürlichkeit aus und bietet gleichzeitig Stabilität und Schutz. Ob minimalistisch oder klassisch, der Rahmen ist ein entscheidender Faktor für die Wirkung Ihres Motivs und lässt sich perfekt an Ihren Einrichtungsstil anpassen."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Handgefertigte Präzision:</b> Holzrahmen werden mit Millimetergenauigkeit gefertigt. </li><li><b>Verschiedene Holzarten:</b> Wählen Sie zwischen Eiche, Erle, Kirsche, Ahorn und Walnuss.</li><li><b>Individuelle Profile und Farben:</b> Die Rahmen können perfekt auf Ihr Motiv zugeschnitten werden.</li><li><b>Vormontierte Wandhalterung:</b> Ermöglicht das sofortige Aufhängen bei Lieferung.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Die Holzrahmen werden präzise in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Größen von bis zu 180 x 120 cm – mit einem Druck unter Acrylglas sogar bis zu 270 x 180 cm – wird jedes Werk individuell angepasst, um Ihre Kunst optimal zu präsentieren."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich am besten für Holzrahmen?",
+                "text": "Holzrahmen sind ideal für warme, emotionale Motive wie Porträts, Stillleben oder Landschaften. In Kombination mit einem Passepartout wird der Fokus noch stärker auf das Motiv gelenkt. Auch Leinwanddrucke profitieren von der natürlichen Ausstrahlung des Rahmens und sehen aus wie klassische Gemälde – perfekt, um eine gemütliche Atmosphäre in Ihrem Zuhause zu schaffen."
+                },
+                {
+                "title": "Langlebigkeit und Vielseitigkeit",
+                "text": "<ul><li><b>Hochwertige Verarbeitung:</b> Garantiert Stabilität und Langlebigkeit.</li><li><b>Unendliche Gestaltungsmöglichkeiten:</b> Wählen Sie aus verschiedenen Profilen, Farben und Kombinationen mit Passepartouts oder Acrylglas.</li></ul>Ein Holzrahmen setzt Ihr Kunstwerk stilvoll in Szene und bietet gleichzeitig dauerhaften Schutz."
+                }
+            ],
+            "recursiveDescription": "Ein Holzrahmen vereint natürliche Materialien mit zeitloser Eleganz – die perfekte Wahl für eine warme und hochwertige Präsentation Ihrer Kunstwerke!"
+        },
+        "framed8": {
+            "name": "Kunst hinter Acryl in Slimline-Einfassung",
+            "description": "Der schlanke Aluminiumrahmen hebt Ihr Kunstwerk dezent hervor und ist in vier Farben erhältlich, die perfekt zu Ihrem Motiv passen.",
+            "detailedDescription": [
+                {
+                "title": "Schmale Kanten: Minimalistischer Rahmen für Acrylbilder mit edler Optik",
+                "text": "Der schlanke Aluminiumrahmen bietet eine dezente und moderne Veredelung für Ihre Kunstwerke hinter Acrylglas. Mit seiner schmalen Leiste von nur 1mm Breite und einer Rahmentiefe von 5 bis 7mm setzt er Ihr Motiv stilvoll in Szene, ohne aufdringlich zu wirken. Wählen Sie aus vier Farben – Silber, Gold, Weiß oder Schwarz – und verleihen Sie Ihrem Werk eine zeitlose Eleganz."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Rahmenkompatibilität:</b> Erhältlich für Acrylglasbilder mit einer Stärke von 2, 4 oder 6mm.</li><li><b>Minimale Rahmentiefe:</b> Sorgt dafür, dass das Bild leicht hervorsteht, um einen dreidimensionalen Effekt zu erzielen.</li><li><b>Langlebige Konstruktion:</b> Kombiniert kristallklares Acrylglas mit einer stabilen Aluminium-Dibond-Rückseite für langlebige Qualität.</li></ul>"
+                },
+                {
+                "title": "Individuelle Größen für Ihre Kunst",
+                "text": "Ihr Werk wird millimetergenau im Seitenverhältnis 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Größen von bis zu 270 x 180 cm wird jedes Bild individuell angepasst, um Ihre Kunst von ihrer besten Seite zu zeigen."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für den Slimline-Rahmen?",
+                "text": "Slimline ist ideal für moderne, minimalistische Werke oder Fotografien, die Sie mit der schlichten Eleganz des Rahmens hervorheben möchten. Glänzendes Acrylglas verstärkt die Farbbrillanz und Tiefenwirkung, während mattes Acrylglas Reflexionen reduziert und einen weichen Look erzeugt – perfekt für farbintensive oder kontrastreiche Motive."
+                },
+                {
+                "title": "Langlebigkeit und einfache Montage",
+                "text": "<ul><li><b>Elastische Silikondichtung:</b> Schützt vor Verformung und Beschädigung und gewährleistet eine blasenfreie Montage.</li><li><b>Vormontierte Aluminiumschienen:</b> Ermöglicht eine direkte, sichere und einfache Aufhängung.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Der schlanke Rahmen vereint minimalistisches Design mit hochwertiger Verarbeitung – die perfekte Wahl für eine zeitlose Präsentation Ihrer Kunstwerke!"        },
+        "framed9": {
+            "name": "Vitrinenrahmen",
+            "description": "Der Rahmen verleiht dem Schaukasten eine galerieähnliche Note, mit tiefen Abständen für eine optimale visuelle Wirkung.",
+            "detailedDescription": [
+                {
+                "title": "Präsentationsrahmen: Galeriecharakter für Ihre Kunstwerke",
+                "text": "Ein Schaukasten verleiht Ihren Kunstwerken eine beeindruckende Tiefenwirkung und einen exklusiven Ausstellungscharakter. Der extra tiefe Rahmen und der Abstand zwischen Motiv und Glas sorgen für eine dreidimensionale Präsentation, die Ihre Arbeit besonders hervorhebt. Wählen Sie aus verschiedenen Designoptionen, Passepartout-Varianten und Rahmenfarben, um Ihre Kunst individuell in Szene zu setzen."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Laminierung auf Alu-Dibond:</b> Stabilität und leuchtende Farben, ideal für große Formate.</li><li><b>Fotodruck oder Kunstdruck:</b> Hochwertige Papiere wie Hahnemühle oder Fuji Crystal DP II sorgen für exquisite Details und Farbbrillanz. </li><li><b>Schwebender Kunstdruck auf Aluminium-Dibond:</b> Ein Abstand von 1 cm zur Rückwand erzeugt einen schwebenden Effekt.</li><li><b>Schwebendes Passepartout:</b> Der Abstand zwischen Passepartout und Hintergrund verstärkt die Tiefenwirkung und lenkt den Fokus auf das Motiv.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr Schaufensterrahmen wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 gefertigt. Von kleinen Formaten bis hin zu beeindruckenden Größen von bis zu 120 x 80 cm – jedes Werk wird individuell angepasst, um Ihre Kunst bestmöglich zu präsentieren."
+                },
+                {
+                "title": "Für welche Kunstwerke eignet sich der Vitrinenrahmen?",
+                "text": "Der Schaukastenrahmen ist ideal für besondere Werke, die Sie durch eine dreidimensionale Präsentation hervorheben möchten. Ob farbenfrohe Fotos, Schwarz-Weiß-Bilder oder Kunstdrucke – der Rahmen betont die Eigenständigkeit des Motivs und verleiht ihm einen exklusiven Look."
+                },
+                {
+                "title": "Langlebigkeit und einfache Montage",
+                "text": "<ul><li><b>Stabile Konstruktion:</b> Garantiert eine lange Lebensdauer.</li><li><b>Vormontierte Metallhalterung:</b> Erleichtert die Installation.</li><li><b>Option für Galerieschiene:</b> Ermöglicht eine repräsentative Präsentation in jedem Raum.</li></ul>"
+                }
+            ],
+        "recursiveDescription": "Ein Schaukastenrahmen vereint zeitlose Eleganz mit einem modernen Gefühl von Tiefe – die perfekte Wahl für anspruchsvolle Kunstwerke mit Galeriecharakter!"
+
+        },
+        "canvas1": {
+            "name": "Kunst-Leinwand matt",
+            "description": "Um die besten Ergebnisse zu erzielen, verwenden wir hochwertige Leinwände, die den höchsten Standards in Bezug auf Detailgenauigkeit und Handwerkskunst entsprechen.",
+            "detailedDescription": [
+                {
+                "title": "Leinwanddruck auf Trägerrahmen: Klassische Eleganz für Ihr Kunstwerk",
+                "text": "Ein Leinwanddruck verbindet die natürliche Ästhetik klassischer Gemälde mit moderner Drucktechnik. Die matte Oberfläche und die typische Struktur der Baumwollmischung verleihen Ihrem Motiv eine lebendige und authentische Wirkung. Er eignet sich perfekt für Porträts, Stillleben oder andere Werke, die Sie mit einer warmen, wohnlichen Atmosphäre hervorheben möchten."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Hochwertige Leinwand:</b> Bedruckt mit der neuesten Inkjet-Technologie.</li><li><b>Lösungsmittelfreie Tinten:</b> Epson Ultrachrome® RS Resin-Tinten sorgen für satte Farben und feine Details.</li><li><b>Stabiler Stützrahmen:</b> Aus nachhaltigem Fichtenholz, erhältlich in drei Stärken: 2 cm (dezent), 4 cm (stabil), 6 cm (Objektcharakter).</li></ul>"
+                },
+                {
+                "title": "Anpassbare Designoptionen",
+                "text": "<ul><li><b>Gefaltete Kanten:</b> Der Rand des Motivs wird an den Seiten umgefaltet – ideal für Motive mit ausreichend Bildmaterial an den Rändern.</li><li><b>Gespiegelte Kanten:</b> Der Rand des Bildes wird gespiegelt und umgefaltet – perfekt für Werke ohne Verschnitt.</li></ul>"
+                },
+                {
+                "title": "Anpassbare Formate für Ihre Kunst",
+                "text": "Ihr Leinwanddruck wird millimetergenau im Format 9:16, 16:9 oder 1:1 angefertigt. Von kleinen Formaten bis hin zu beeindruckenden Größen wird jedes Werk individuell angepasst, um Ihre Kunst bestmöglich zu präsentieren."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für einen Leinwanddruck?",
+                "text": "Die natürliche Struktur der Leinwand eignet sich besonders für Porträts, Stillleben oder Landschaften, die durch die matte Oberfläche und den malerischen Charakter eine warme und emotionale Ausstrahlung vermitteln sollen."
+                },
+                {
+                "title": "Langlebigkeit und einfache Montage",
+                "text": "<ul><li><b>Hochwertige Verarbeitung:</b> Garantiert Stabilität und Schutz vor Verformung.</li><li><b>Integriertes Aufhängesystem:</b> Sorgt für eine einfache Installation.</li><li><b>Optionaler Schattenfugenrahmen:</b> Verleiht Ihrer Präsentation eine elegante Note.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Ein Leinwanddruck auf einem Trägerrahmen verbindet klassische Eleganz mit moderner Präzision – die ideale Wahl für eine zeitlose Präsentation Ihres Kunstwerks!"        },
+        "canvas2": {
+            "name": "Kunst-Leinwand glänzend",
+            "description": "Ein Kunstwerk auf glänzender Leinwand verleiht Ihrem stilvollen Zuhause eine gemütliche Ästhetik und zeitlose Eleganz.",
+            "detailedDescription": [
+                {
+                "title": "Leinwand auf Trägerrahmen: stilvolle und lebendige Präsentation",
+                "text": "Sie wünschen sich ein stilvolles Zuhause mit einer warmen Atmosphäre? Ein professionelles Kunstwerk auf einer traditionellen Leinwand verbindet gemütliche Ästhetik mit schlichter Eleganz. Die glänzende Oberfläche verleiht Ihrem Leinwandbild eine besondere Ausstrahlung und Lebendigkeit, wodurch es sich besonders für kontrastreiche Motive mit satten Farben eignet."
+                },
+                {
+                "title": "Klassisch und lebendig: Ihre Leinwand mit glänzender Oberfläche",
+                "text": "<ul><li><b>Klassische Leinwandstruktur:</b> Kombiniert natürliche Ästhetik mit einer glänzenden Oberfläche.</li><li><b>Glänzende Oberfläche:</b> Verstärkt die Farbbrillanz und den Kontrast.</li><li><b>Perfekt für:</b> Motive mit hohem Kontrast und satten Farben.</li></ul>"
+                },
+                {
+                "title": "Hochwertiger Tintenstrahldruck für Ihre glänzende Leinwand",
+                "text": "<ul><li><b>Satte Farben und tiefe Töne:</b> Präzise Abstufungen bringen feinste Details zum Vorschein.</li><li><b>Langlebiger Druck:</b> Wischfeste und extrem robuste Farben auf der Leinwand.</li></ul>"
+                },
+                {
+                "title": "Die Leinwand mit einem Trägerrahmen aus hochwertigem Massivholz",
+                "text": "<ul><li><b>Nachhaltige Materialien:</b> Trägerrahmen aus Fichtenholz aus nachhaltiger Forstwirtschaft.</li><li><b>Rahmenstärken-Optionen:</b></li><ul><li>2 cm: Standardstärke für klassischen Look.</li><li>4 cm: Besonders stabil mit Objektcharakter.</li><li>6 cm: Ausgeprägter Objektcharakter für größere Formate.</li></ul></ul>"
+                },
+                {
+                "title": "Individuelle Seitengestaltung für Ihr Leinwandbild",
+                "text": "<ul><li><b>Gefaltete Kanten:</b> Geeignet für Fotos mit großzügigen Bildrändern – je nach Rahmenstärke sind 3 bis 5 cm des Motivs an den Seiten umgeschlagen.</li><li><b>Verspiegelte Kanten:</b> Druckt den Rand des Motivs, um sicherzustellen, dass das gesamte Bild von vorne sichtbar ist.</li></ul>"
+                },
+                {
+                "title": "Handgefertigte Rahmen: der besondere Feinschliff",
+                "text": "<ul><li><b>Maßgefertigte Rahmen:</b> In unserer Schreinerei hergestellt, damit sie perfekt auf Ihre Leinwand passen.</li><li><b>Große Auswahl an Optionen:</b> Wählen Sie Materialien und Farben, die Ihren Vorstellungen entsprechen, um die Besonderheit Ihres Motivs zu betonen.</li></ul>"
+                },
+                {
+                "title": "Langlebigkeit und einfache Montage",
+                "text": "<ul><li><b>Einfaches Aufhängen:</b> Verwenden Sie den Trägerrahmen direkt auf Nägeln oder Schrauben oder entscheiden Sie sich für einen Schattenfugenrahmen mit einer Aufhängevorrichtung aus Metall.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Eine glänzende Kunstleinwand auf einem Trägerrahmen verbindet klassische Eleganz mit lebendiger Farbbrillanz – die perfekte Wahl für kontrastreiche Motive in einer warmen und stilvollen Atmosphäre!"        },
+        "canvas3": {
+            "name": "Kunst-Leinwand Textil",
+            "description": "Dieser glatte, dezent strukturierte Stoff bietet eine moderne, leicht glänzende Alternative zu klassischem Canvas für lebendige Bildeffekte.",
+            "detailedDescription": [
+                {
+                  "title": "Ihr Kunstwerk auf Stoff gedruckt: Lebendige und natürliche Präsentation",
+                  "text": "Als Alternative zur klassischen Leinwand bietet der feine, glatt gewebte Stoff eine dezent strukturierte, glänzende Oberfläche. Die Textur lässt das Bild lebendiger und natürlicher wirken und verleiht Ihrem Kunstwerk eine einzigartige und wohnliche Atmosphäre."
+                },
+                {
+                  "title": "Kunststoff-Leinwand: Gewebte Oberfläche für lebendige Motives",
+                  "text": "<ul><li><b>Glänzende Oberfläche:</b> Schimmernder Effekt für lebendige Motive.</li><li><b>Textilstruktur:</b> Natürliches und lebendiges Erscheinungsbild.</li><li><b>Umweltfreundliches Material:</b> Ungiftiges Textil, zertifiziert nach Oeko-Tex Standard 100.</li></ul>"
+                },
+                {
+                  "title": "Modernste Technologie: Sublimationsdruck für Ihre Kunstleinwand",
+                  "text": "<ul><li><b>Sublimationsdruck:</b> Gestochen scharfe und brillante Farben werden auf den Stoff übertragen.</li><li><b>Langlebig und wasserfest:</b> Vor Kantenbruch geschützt und spritzwassergeschützt.</li><li><b>Detaillierte Reproduktion:</b> Klare Konturen und leuchtende Farben sorgen für hochwertige Ergebnisse.</li></ul>"
+                },
+                {
+                  "title": "Hochwertige Materialien für Ihre Textilleinwand",
+                  "text": "<ul><li><b>Trägerrahmen aus Massivholz:</b> Nachhaltiges Fichtenholz mit verstärkten Ecken, um Verformungen zu verhindern.</li><li><b>Optionen für die Rahmenstärke:</b></li><ul><li>2 cm: Standardstärke.</li><li>4 cm: Stabil mit dreidimensionalem Charakter.</li><li>6 cm: Ausgeprägter dreidimensionaler Charakter für größere Formate.</li></ul></ul>"
+                },
+                {
+                  "title": "Die Kanten Ihres Kunstleinwandtextils: gespiegelt oder umwickelt",
+                  "text": "<ul><li><b>Umgeschlagene Kanten:</b> 3 cm, 5 cm oder 7 cm des Bildes werden an den Seiten umgeschlagen, je nach Rahmendicke.</li><li><b>Gespiegelte Kanten:</b> Die äußeren Bildbereiche werden an den Seiten gespiegelt, um das gesamte Motiv auf der Vorderseite zu erhalten.</li></ul>"
+                },
+                {
+                  "title": "Schwerpunkt: eine Vielzahl von Rahmen für Ihren Kunstdruck auf Stoff",
+                  "text": "<ul><li><b>Individuelle Rahmenoptionen:</b> Wählen Sie aus einer Vielzahl von Modellen aus hochwertigen Materialien und zahlreichen Farben.</li><li><b>Option: ArtBox aus Holz:</b> Verleiht mehr Raum und Tiefe mit einem modernen dreidimensionalen Effekt.</li></ul>"
+                },
+                {
+                  "title": "Langlebigkeit und einfache Montage",
+                  "text": "<ul><li><b>Integriertes Aufhängesystem:</b> Hängen Sie die Bilder direkt an Nägeln, Schrauben oder Haken auf, ohne zusätzliche Befestigung.</li><li><b>Spritzwassergeschützt und robust:</b> Sorgt für langlebige Qualität für wohnliche Umgebungen oder Galeriewände.</li></ul>"
+                }
+              ],
+              "recursiveDescription": "Ein Textil-Leinwanddruck vereint lebendige Farben, natürliche Textur und glänzende Eleganz – die perfekte Wahl, um Ihr Kunstwerk auf warme und authentische Weise zu präsentieren!"
+                    },
+        "photoprint1": {
+            "name": "Kunst-Abzug Fuji Crystal DP II",
+            "description": "Der Druck auf Fuji Crystal DP II ist unsere klassische Option. Je nach Motiv können Sie aus vier verschiedenen Oberflächenveredelungen wählen.",
+            "detailedDescription": [
+                {
+                  "title": "Ihr Kunstwerk auf Fuji Crystal DP II – Fotodruck in Galeriequalität",
+                  "text": "Der Druck auf Fuji Crystal DP II ist unser klassischer Fotodruck. Je nach Motiv können Sie aus vier verschiedenen Oberflächen wählen. Mit einer 75-jährigen Garantie auf Farbbrillanz und präzisen Sonderformaten ist dieser Druck ideal für Präsentationen in Galeriequalität."
+                },
+                {
+                  "title": "Hochwertiges Fotopapier mit 75-jähriger Farbechtheitsgarantie",
+                  "text": "<ul><li><b>Moderne Belichtung:</b> Hergestellt durch Laserbelichtung und chemische Entwicklung.</li><li><b>Premium-Papier:</b> Fuji Crystal DP II sorgt für lebendige Farben und starke Kontraste.</li><li><b>Langlebig:</b> Garantierte Farbbrillanz für 75 Jahre.</li></ul>"
+                },
+                {
+                  "title": "Für jedes Motiv die richtige Oberfläche",
+                  "text": "<ul><li><b>Matte:</b> Leichte Textur ohne Reflexionen für ein natürliches Aussehen.</li><li><b>Glossy:</b> Schöner Glanz für maximale Farbbrillanz. </li><li><b>Seide:</b> Feine Struktur mit seidenmattem Glanz.</li><li><b>Samt:</b> Tiefmatte Oberfläche ohne Glanz für einen samtigen Effekt.</li></ul>"
+                },
+                {
+                  "title": "Ihr Druck auf Fuji Crystal DP II mit optionalem weißem Rand",
+                  "text": "<ul><li><b>Optionen für weiße Ränder:</b> Fügen Sie einen Rand von 1 cm bis 12 cm für die Verwendung als Rahmen oder Passepartout hinzu.</li></ul>"
+                },
+                {
+                  "title": "Benutzerdefinierte Formate für Ihre Kunstwerke",
+                  "text": "Ihr Lambda-Druck auf Fuji Crystal DP II ist in benutzerdefinierten Formaten von 9 x 9 cm bis 240 x 122 cm erhältlich. Wählen Sie Standardformate oder erstellen Sie einzigartige Panorama- oder Runddesigns, die alle auf Ihre Vorgaben zugeschnitten sind."
+                },
+                {
+                  "title": "Der perfekte Rahmen für Ihren Fuji Crystal DP II-Fotodruck",
+                  "text": "<ul><li><b>Rahmenstile:</b> Wählen Sie zwischen modernem, Landhaus- oder klassischem Stil.</li><li><b>Materialien:</b> Hochwertige Holzrahmen mit Echtholzfurnier oder Aluminiumrahmen.</li><li><b>Passepartout-Optionen:</b> Verleihen Sie Ihrer Präsentation eine elegante Note.</li></ul>Ein integriertes Aufhängesystem sorgt für eine einfache Montage im Hoch- und Querformat."
+                }
+              ],
+              "recursiveDescription": "Ein Fotodruck auf Fuji Crystal DP II kombiniert moderne Technologie mit traditioneller Entwicklung – die perfekte Wahl für lebendige Farben, starke Kontraste und zeitlose Präsentationen in Galeriequalität!"
+                    },
+        "photoprint2": {
+            "name": "ultraHD Kunst-Abzug",
+            "description": "Das Fuji Crystal Archive Maxima-Papier sorgt für ultraHD-Drucke mit außergewöhnlicher Farbwiedergabe, Detailreichtum und dauerhafter Qualität.",
+            "detailedDescription": [
+                {
+                  "title": "Für das ultimative Realismuserlebnis: UltraHD-Kunstdrucke",
+                  "text": "Jedes Kunstwerk ist nur so gut wie das Papier, auf dem es gedruckt wird. Mit dem neu entwickelten Fuji Crystal Professional Archive Maxima-Fotopapier von Fujifilm erfüllt Ihr UltraHD-Druck die höchsten Standards in Bezug auf Farbwiedergabe und Detailtreue. Entdecken Sie jetzt die Zukunft der Fotografie."
+                },
+                {
+                  "title": "Maximale Detailtreue und präzise Konturen mit UltraHD-Kunstdrucken",
+                  "text": "<ul><li><b>Revolutionäres Belichtungsverfahren:</b> Nutzt alle verfügbaren Bilddaten für optimale Klarheit.</li><li><b>Verbesserte Papierqualität:</b> Fuji Crystal Professional Archive Maxima erhöht die maximale visuelle Dichte um 10 % und zeigt selbst feinste Details in dunklen Schatten.</li><li><b>Außergewöhnliche Präzision:</b> Details bleiben auch bei geringer Betrachtungsentfernung klar.</li></ul>"
+                },
+                {
+                  "title": "Extreme Schärfe und höchste Auflösung",
+                  "text": "<ul><li><b>Moderne Kameras:</b> Nehmen Sie hochauflösende Bilder mit vernachlässigbarem Rauschen auf.</li><li><b>Revolutionäres Druckverfahren:</b> Bringt selbst bei großen Formaten gestochen scharfe Details zum Vorschein.</li><li><b>Fortschrittliche Technologie:</b> Umfasst Festkörperlaserbelichtung, klimatisierte Papierlagerung und proprietäre Bildoptimierungssoftware.</li></ul>"
+                },
+                {
+                  "title": "Ihre Kunst als UltraHD-Druck: Jetzt mit noch mehr Farbvolumen und Lichtstabilität",
+                  "text": "<ul><li><b>21 % größerer Farbraum:</b> Dunkle und gesättigte Farben erscheinen brillanter und detaillierter.</li><li><b>Verbesserter Dynamikbereich:</b> Größere Helligkeitsabstufungen für realistische Reproduktionen.</li><li><b>Verbesserte Lichtstabilität:</b> Lang anhaltende Farben, selbst unter LED-Galeriebeleuchtung.</li></ul>"
+                },
+                {
+                  "title": "Individuelle Formate für Ihren UltraHD-Kunstdruck",
+                  "text": "Ihr ultraHD-Kunstdruck ist in individuellen Formaten erhältlich, die zentimetergenau sind. Wählen Sie aus Standardgrößen oder geben Sie Ihre eigenen Abmessungen an, einschließlich der Eckformen. Mindestgröße: 9 x 9 cm. Maximalgröße: 240 x 122 cm."
+                },
+                {
+                  "title": "Auf Wunsch gerahmt: handgefertigt in unserer eigenen Schreinerei",
+                  "text": "<ul><li><b>Rahmenstile:</b> Modern, Landhaus oder klassisch.</li><li><b>Materialien:</b> Rahmen aus Massivholz oder Aluminium mit optionalem Passepartout.</li><li><b>Integriertes Aufhängesystem:</b> Sichere Befestigung für Hoch- und Querformate.</li></ul>"
+                }
+              ],
+              "recursiveDescription": "UltraHD-Kunstdrucke vereinen modernste Technologie mit hochwertigen Materialien, um unübertroffenen Realismus, lebendige Farben und langlebige Qualität zu bieten – die perfekte Wahl für Fotografie-Enthusiasten und Profis gleichermaßen!"
+            },
+        "photoprint3": {
+            "name": "Kunst-Abzug auf Fujiflex glänzend",
+            "description": "Ein warmer Grundton, außergewöhnlich satte Farben und eine hochglänzende Oberfläche – diese drei überzeugenden Eigenschaften machen Fujiflex High Gloss Paper zur idealen Wahl für Ihr Motiv.",
+            "detailedDescription": [
+                {
+                "title": "Hochglanz-Kunstdrucke auf Fujiflex: brillante Farben und faszinierende Tiefe",
+                "text": "Fujiflex Hochglanz-Fotopapier bietet eine außergewöhnliche Präsentation für Ihre Kunstwerke. Mit seiner spiegelglatten Oberfläche, einem warmen Grundton und besonders satten Farben sorgt es für eine beeindruckende Tiefenwirkung und brillante Details. Perfekt für farbintensive Motive oder Werke, die durch ihre Leuchtkraft bestechen sollen."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Premium-Material:</b> Fujiflex-Fotopapier mit 235 g/m² – stabil und reißfest.</li><li><b>Moderne Laserbelichtung:</b> In Kombination mit der traditionellen chemischen Entwicklung für gestochen scharfe Drucke in Galeriequalität. </li><li><b>Warmer Unterton:</b> Verstärkt die Farbintensität und sorgt für eine harmonische Graubalance.</li><li><b>Hochglänzende Oberfläche:</b> Reflektiert das Licht und erzeugt so eine besondere Tiefenwirkung.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr Fujiflex-Druck wird millimetergenau im Format 9:16, 16:9 oder 1:1 hergestellt. Von kleinen Formaten bis hin zu beeindruckenden Größen von bis zu 240 x 122 cm wird jedes Werk individuell angepasst, um Ihre Kunst optimal zur Geltung zu bringen."
+                },
+                {
+                "title": "Für welche Art von Kunstwerken eignet sich Fujiflex-Fotopapier?",
+                "text": "Fujiflex ist ideal für farbintensive Motive, Landschaften oder abstrakte Kunstwerke, die Sie mit dem Hochglanzeffekt aufwerten möchten. Auch Schwarz-Weiß-Motive profitieren von der harmonischen Graubalance und der außergewöhnlichen Schärfe des Papiers."
+                },
+                {
+                "title": "Finish und Präsentation",
+                "text": "<ul><li><b>Optionaler weißer Rand:</b> Umrahmt das Motiv optisch und eignet sich ideal für eine spätere Rahmung.</li><li><b>Hochwertige Rahmen:</b> Wählen Sie zwischen Echtholzfurnier- oder Aluminiumrahmen, kombiniert mit Passepartout-Optionen für ein perfekt abgestimmtes Finish.</li></ul>"
+                },
+                {
+                "title": "Langlebigkeit und Qualität",
+                "text": "<ul><li><b>75 Jahre Farbbrillanz-Garantie:</b> Sorgt für langanhaltende Lebendigkeit Ihrer Drucke.</li><li><b>Langlebige Lösung:</b> Perfekt für private Sammlungen, Galerien oder Ausstellungen.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Ein hochglänzender Kunstdruck auf Fujiflex vereint brillante Farben mit zeitloser Eleganz – die perfekte Wahl für eine hochwertige Präsentation Ihrer Kunstwerke!"        },
+        "photoprint4": {
+            "name": "Metallic ultraHD Kunst-Abzug",
+            "description": "Fuji Crystal Pearl-Papier liefert einen hochglänzenden Metallic-Effekt, der sich perfekt für kontrastreiche Bilder und Nachtaufnahmen eignet.",
+            "detailedDescription": [
+                {
+                "title": "Fotos mit Metallic-Effekt: leuchtende Farben und faszinierende Tiefe",
+                "text": "Erleben Sie Ihre Kunstwerke mit einem beeindruckenden Metallic-Effekt auf Fuji Crystal Pearl Fotopapier. Die hochglänzende Oberfläche mit metallischem Schimmer verstärkt die Leuchtkraft der Farben, intensiviert die Dichte der Schwarztöne und verleiht kontrastreichen Bildern eine außergewöhnliche räumliche Wirkung – ideal für Nachtaufnahmen, Stadtansichten oder abstrakte Designs."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Premium-Material:</b> Fuji Crystal Pearl-Fotopapier sorgt für Schärfe und Detailtreue mit einem hochglänzenden Metallic-Schimmer.</li><li><b>Revolutionäres Belichtungsverfahren:</b> Maximiert die Klarheit und Detailtreue in allen Bildbereichen.</li><li><b>Verbesserte Kontraste:</b> Weiße Bereiche schimmern, Farben leuchten und Schwarztöne werden intensiviert, um eine beeindruckende Tiefenwirkung zu erzielen.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr metallischer UltraHD-Kunstdruck wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 produziert. Von kleinen Formaten bis hin zu beeindruckenden Größen von bis zu 240 x 122 cm wird jedes Werk individuell angepasst, um Ihre Kunst bestmöglich zu präsentieren."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für metallisches Fotopapier?",
+                "text": "Metallic Art Paper ist ideal für kontrastreiche Motive wie Nachtszenen mit Lichtern, farbenfrohe Szenen oder Schwarz-Weiß-Werke, die Sie mit dem Schimmer und der Tiefe des Papiers aufwerten möchten. Es eignet sich perfekt für Fotos, die Sie modern und dynamisch wirken lassen möchten."
+                },
+                {
+                "title": "Finish und Präsentation",
+                "text": "<ul><li><b>Optionaler weißer Rand:</b> Umrahmt das Motiv optisch und eignet sich ideal für eine spätere Rahmung.</li><li><b>Handgefertigte Rahmen:</b> Wählen Sie zwischen Echtholz- oder Aluminiumrahmen, kombiniert mit Passepartout-Optionen für ein perfekt abgestimmtes Finish.</li></ul>"
+                },
+                {
+                "title": "Langlebigkeit und Qualität",
+                "text": "<<ul><li><b>Doppelte Auflösung:</b> UltraHD-Drucke auf Fuji Crystal Pearl-Fotopapier bieten maximale Farbbrillanz.</li><li><b>Langlebigkeit:</b> Eine langlebige Lösung für private Sammlungen, Galerien oder Ausstellungen.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Ein Kunstdruck mit Metallic-Effekt vereint brillante Farben mit moderner Eleganz – die perfekte Wahl für eine hochwertige Präsentation Ihrer Kunstwerke!"        },
+        "photoprint5": {
+            "name": "Kunst-Abzug auf Barytpapier",
+            "description": "Barytpapier bietet eine Qualität in Galeriequalität mit dicken, glänzenden Oberflächen und einem seidigen Glanz für Schwarz-Weiß-Drucke.",
+            "detailedDescription": [
+                {
+                "title": "Schwarz-Weiß-Kunstdrucke auf Ilford Baryta-Papier: klassische Eleganz in Galeriequalität",
+                "text": "Erleben Sie Ihre Schwarz-Weiß-Bilder auf Barytpapier – dem Klassiker für anspruchsvolle Fotografie. Mit seiner seidigen, glänzenden Oberfläche und der typischen Barytstruktur verleiht dieses Premiumpapier Ihren Kunstwerken außergewöhnliche Tiefe und Brillanz. Der hohe Kontrastumfang und die präzisen Tonwertabstufungen machen es zur perfekten Wahl für Schwarz-Weiß-Fotografien in Galeriequalität."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<<ul><li><b>Premium-Material:</b> Ilford Baryta-Papier mit einer Stärke von 315 g/m² sorgt für eine einzigartige Haptik und Optik.</li><li><b>Bariumsulfatbeschichtung:</b> Sorgt für strahlendes Weiß, tiefes Schwarz und nuancierte Grautöne.</li><li><b>Laserbelichtung und chemische Entwicklung:</b> Garantiert gestochen scharfe Details und eine harmonische Tonwertbalance. </li><li><b>Optionaler weißer Rand:</b> Ideal für die Rahmung oder Präsentation mit Passepartout.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr Kunstdruck auf Faserpapier wird millimetergenau in den Formaten 9:16, 16:9 oder 1:1 produziert. Von kleinen Formaten bis hin zu beeindruckenden Größen von bis zu 100 x 100 cm wird jedes Werk individuell angepasst, um Ihre Kunst optimal zu präsentieren."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für Ilford-Faserpapier?",
+                "text": "Barytpapier ist ideal für Schwarz-Weiß-Fotografien, die durch starke Kontraste, feine Grautöne und eine klassische Ästhetik beeindrucken sollen. Es eignet sich besonders für Porträts, Architekturfotografie oder künstlerische Arbeiten, die von der seidigen Oberfläche und der besonderen Papierstruktur profitieren."
+                },
+                {
+                "title": "Fertigstellung und Präsentation",
+                "text": "<ul><li><b>Rahmenoptionen:</b> Ergänzen Sie Ihren Druck mit handgefertigten Rahmen aus Echtholz oder Aluminium.</li><li><b>Passepartout-Optionen:</b> Verleihen Sie Ihrer Präsentation eine elegante Note.</li><li><b>Acrylglas-Laminierung:</b> Erzielen Sie einen beeindruckenden Tiefeneffekt mit zusätzlichem Glanz.</li></ul>"
+                },
+                {
+                "title": "Langlebigkeit und Qualität",
+                "text": "<ul><li><b>Lichtbeständigkeit:</b> Garantierte Farbbrillanz für 75 Jahre.</li><li><b>Langlebige Lösung:</b> Perfekt für private Sammlungen, Galerien oder Ausstellungen.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Ein Schwarz-Weiß-Druck auf Ilford-Baryta-Papier verbindet klassische Eleganz mit moderner Präzision – die perfekte Wahl für eine hochwertige Präsentation Ihrer monochromen Kunstwerke!"        },
+        "photoprint6": {
+            "name": "Kunst-Abzug Ilford S/W-Papier",
+            "description": "Ilford-Schwarz-Weiß-Papier liefert starke Kontraste, strahlendes Weiß und tiefes Schwarz für eine beeindruckende visuelle Wirkung.",
+            "detailedDescription": [
+                {
+                "title": "Schwarz-Weiß-Kunstdrucke auf Ilford-Fotopapier: präzise Graustufen und zeitlose Eleganz",
+                "text": "Erleben Sie Ihre Schwarz-Weiß-Bilder auf hochwertigem Ilford-Fotopapier, das durch präzise Graustufen, starke Kontraste und beeindruckende optische Dichte besticht. Mit einer Auswahl an matter oder glänzender Oberfläche und bis zu 75 Jahren Lichtbeständigkeit sind diese Drucke die perfekte Wahl für eine langlebige und professionelle Präsentation Ihrer Kunstwerke."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Original Ilford-Fotopapier:</b> Belichtet und chemisch entwickelt für perfekte Tonwertabstufungen.</li><li><b>Moderne Laserbelichtung:</b> Sorgt für gestochen scharfe Details und harmonische Grauverläufe.</li><li><b>Oberflächenoptionen:</b> Glänzend für maximale Brillanz oder matt für reduzierte Reflexionen und dezente Textur. </li><li><b>Optionaler UV-Schutzfilm:</b> Schützt vor Kratzern und Schmutz und sorgt für zusätzliche Langlebigkeit.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr Schwarz-Weiß-Druck wird millimetergenau im Format 9:16, 16:9 oder 1:1 produziert. Von kleinen Formaten bis hin zu beeindruckenden Größen von bis zu 240 x 122 cm wird jedes Stück individuell angepasst, um Ihre Kunst bestmöglich zur Geltung zu bringen."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für Ilford-Schwarz-Weiß-Fotopapier?",
+                "text": "Dieses Papier eignet sich ideal für Schwarz-Weiß-Motive, bei denen feine Grautöne, präzise Details und starke Kontraste wichtig sind. Es eignet sich besonders für Porträts, Architekturaufnahmen oder minimalistische Designs, die Sie mit der klassischen Ästhetik der Schwarz-Weiß-Fotografie hervorheben möchten."
+                },
+                {
+                "title": "Finish und Präsentation",
+                "text": "<ul><li><b>Optionaler weißer Rand:</b> Umrahmt das Motiv optisch und eignet sich ideal für eine spätere Rahmung.</li><li><b>Hochwertige Rahmen:</b> Wählen Sie zwischen Echtholz- oder Aluminiumrahmen mit Passepartout-Optionen.</li><li><b>Acrylglas-Laminierung:</b> Erzielen Sie eine beeindruckende Tiefenwirkung mit zusätzlicher Brillanz.</li></ul>"
+                },
+                {
+                "title": "Langlebigkeit und Qualität",
+                "text": "<ul><li><b>Lichtbeständigkeit:</b> Garantierte Farbbrillanz für bis zu 75 Jahre.</li><li><b>Langlebige Lösung:</b> Perfekt für private Sammlungen, Galerien oder Ausstellungen.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Ein Schwarz-Weiß-Druck auf Ilford-Fotopapier verbindet klassische Eleganz mit moderner Präzision – die perfekte Wahl für eine hochwertige Präsentation Ihrer monochromen Kunstwerke!"        },
+        "fineart": {
+            "name": "Fine Art Prints auf Hahnemühle, Canson & Epson",
+            "description": "Premium-Pigmentdrucke auf Fine-Art-Papieren von Hahnemühle, Canson und Epson erfüllen höchste künstlerische Ansprüche.",
+            "detailedDescription": [
+                {
+                "title": "Fine Art Papier: Galeriequalität mit brillanter Farbwiedergabe",
+                "text": "Canvasnova Fine Art Prints überzeugen durch eine edle, matte Oberfläche und eine herausragende Farbwiedergabe. Intensive Farben, tiefes Schwarz und exzellente Details sorgen für eine beeindruckende visuelle Wirkung. Das säurefreie und alterungsbeständige Material erfüllt höchste Galerie- und Museumsstandards."
+                },
+                {
+                "title": "Verarbeitungsdetails",
+                "text": "<ul><li><b>Premium Fine Art Papier:</b> Säurefrei, alterungsbeständig und ISO 9706-konform für lange Haltbarkeit.</li><li><b>Modernste Drucktechnologie:</b> Hochauflösender Druck sorgt für scharfe Details, präzise Farbabstufungen und beeindruckende Tiefenwirkung.</li><li><b>Matte Oberfläche:</b> Reflexionsfreie Darstellung und angenehme Haptik, ideal für professionelle Präsentationen.</li><li><b>Optionaler UV-Schutz:</b> Zusätzliche Schutzoptionen gegen Umwelteinflüsse für noch längere Haltbarkeit.</li></ul>"
+                },
+                {
+                "title": "Individuelle Formate für Ihre Kunst",
+                "text": "Ihr Fine Art Print wird exakt nach Ihren Vorgaben produziert. Canvasnova bietet individuelle Formate wie 9:16, 16:9 oder 1:1 – von kleinen Größen bis hin zu großformatigen Drucken mit beeindruckender Wirkung. Jedes Kunstwerk wird millimetergenau angepasst, um Ihre Motive optimal zur Geltung zu bringen."
+                },
+                {
+                "title": "Welche Kunstwerke eignen sich für Ilford-Schwarz-Weiß-Fotopapier?",
+                "text": "Fine Art Papier eignet sich hervorragend für farbintensive Motive, detailreiche Fotografien sowie künstlerische Illustrationen. Besonders Landschaftsbilder, Porträts und abstrakte Kunstwerke profitieren von der brillanten Farbwiedergabe und der hochwertigen Präsentation."
+                },
+                {
+                "title": "Finish und Präsentation",
+                "text": "<ul><li><b>Optionaler weißer Rand (Passepartout-Effekt):</b> Setzt Ihr Motiv elegant in Szene und erleichtert die spätere Rahmung.</li><li><b>Hochwertige Rahmenoptionen:</b> Echtholz- oder Aluminiumrahmen stehen zur Auswahl, um Ihr Kunstwerk stilvoll abzurunden.</li><li><b>Acrylglas-Veredelung (optional):</b> Verstärkt die Tiefenwirkung des Motivs und bietet zusätzlichen Schutz.</li></ul>"
+                },
+                {
+                "title": "Langlebigkeit und Qualität",
+                "text": "<ul><li><b>Langzeitstabilität:</b> Säurefreies Material garantiert dauerhafte Farbbrillanz ohne Verblassen.</li><li><b>Museumsstandard:</b> Ideal geeignet für private Sammlungen, Galerien oder Ausstellungen dank höchster Qualitätsstandards.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Ein Fine Art Print auf hochwertigem Künstlerpapier verbindet brillante Farben mit herausragender Detailtreue – die ideale Wahl für professionelle Präsentationen Ihrer Kunstwerke."
+        },
+        "digital1": {
+            "name": "Digitales Kunstwerk",
+            "description": "Dies ist die digitale Datei, die Sie herunterladen können.",
+            "detailedDescription": "Dies ist die digitale Datei, die Sie herunterladen können."
+        }
+
+    },
+    "productCategory": {
+        "acrylic": {
+            "name": "Acrylic Art Prints"
+        },
+        "metal": {
+            "name": "Metal Prints"
+        },
+        "framed": {
+            "name": "Framed Prints"
+        },
+        "canvas": {
+            "name": "Canvas Prints"
+        },
+        "photoprint": {
+            "name": "Art Prints"
+        },
+        "giclee": {
+            "name": "Giclee Prints"
+        },
+        "digital": {
+            "name": "Digital Art"
+        }
+    },
+    "mounting": {
+        "passe-partout1": {
+            "name": "Foto-Abzug / Fine Art Print mit Passepartout",
+            "description": "Passepartout-Rahmen vereinen Eleganz und Flexibilität und werten sowohl moderne als auch traditionelle Kunstwerke auf und schützen sie."
+        },
+        "canvas-stretcher": {
+            "name": "Leinwand auf Trägerrahmen 20mm",
+            "description": "Wählen Sie zwischen einer matten Oberfläche für einen natürlichen, reflexionsfreien Look oder einer glänzenden Variante, die Farben intensiviert und sie lebendig leuchten lässt."
+        },
+        "acrylic1": {
+            "name": "Kunst-Abzug hinter Acrylglas glänzend",
+            "description": "Stabile Acrylglasbilder mit Aluminiumrückwand, perfekt für zeitlose und hochwertige Präsentationen."
+        },
+        "acrylic2": {
+            "name": "Kunst-Abzug hinter Acrylglas ultraHD",
+            "description": "UltraHD-Drucke unter Acrylglas bieten brillante Farben, Tiefe und Stabilität mit einer 3mm starken Alu-Dibond-Rückwand."
+        },
+        "acrylic3": {
+            "name": "Metallic-Abzug hinter Acrylglas ultraHD",
+            "description": "Ihr UltraHD-Druck auf Metallic-Papier wird unter glänzendem, 2mm dickem Acrylglas montiert und für zusätzliche Stabilität mit einer 3mm starken Alu-Dibond-Platte hinterlegt."
+        },
+        "acrylic4": {
+            "name": "Abzug hinter Acrylglas matt",
+            "description": "Matte Acrylglasplatte mit haltbarer Alu-Dibond-Rückseite minimiert Reflexionen und ist ideal für helle Räume."
+        },
+        "acrylic5": {
+            "name": "Ilford S/W-Abzug hinter Acrylglas",
+            "description": "Schwarz-Weiß-Kunstwerke erstrahlen auf hochwertigem monochromem Papier, hinter Acrylglas in Galeriequalität versiegelt."
+        },
+        "acrylic6": {
+            "name": "Fine Art Pigmentdruck hinter Acrylglas",
+            "description": "Brillante Farben und langlebige Qualität mit modernstem Druck hinter Acrylglas. Nahtlose Formate bis zu 290 x 180 cm möglich."
+        },
+        "aludibond1": {
+            "name": "Kunst-Druck auf Alu-Dibond",
+            "description": "Der Direktdruck mit 7-Farben-Technologie bietet eine matte Oberfläche und einen dezenten Schimmer, unterstützt durch langlebiges Alu-Dibond."
+        },
+        "aludibond2": {
+            "name": "Kunst-Abzug auf Alu-Dibond",
+            "description": "Hochwertige Papiere, Laserbelichtung und UV-Laminierung auf Alu-Dibond sorgen für zeitlose, galeriewürdige Qualität."
+        },
+        "aludibond4": {
+            "name": "Ilford S/W-Abzug auf Alu-Dibond",
+            "description": "Modernste Technologie und Alu-Dibond sorgen für makellose Schwarz-Weiß-Präsentationen, optional mit Rahmen."
+        },
+        "aludibond5": {
+            "name": "Fine Art Print auf Alu-Dibond",
+            "description": "Fine Art Prints bieten höchste Qualität mit verschiedenen Papieroptionen, die für eine perfekte Präsentation auf Alu-Dibond laminiert sind."
+        },
+        "aludibond6": {
+            "name": "Kunst-Druck auf gebürstetem Alu-Dibond",
+            "description": "Gebürstetes Aluminium verleiht hellen Bereichen einen metallischen Glanz mit silbernen oder goldenen Oberflächen und ist für den Außenbereich wasserdicht."
+        },
+        "aludibond7": {
+            "name": "ChromaLuxe HD Metal Print",
+            "description": "Premium-Metalldrucke sind robust, wasserfest, leicht und eignen sich perfekt für lebendige Großformat-Displays, sogar im Freien."
+        }
+    },
+    "imagecarrier": {
+        "imagecarrier1": {
+            "name": "Kaschierung auf Alu-Dibond",
+            "detailedDescription": "<div><h3>Aluminium-Dibond mit Schaukastenrahmen</h3><p>Die Kombination aus Aluminium-Dibond und Schaukastenrahmen verleiht Ihrem Kunstwerk eine beeindruckende Tiefenwirkung und brillante Farbintensität. Das robuste Aluminium-Dibond-Substrat sorgt für Stabilität und ein geringes Eigengewicht und ist somit ideal für größere Formate.</p><h3>Hauptmerkmale</h3><ul><li><b>Robustes Aluminium-Dibond:</b> Bietet dank seiner dreilagigen Konstruktion mit zwei Aluminiumschichten und einem Kunststoffkern Formstabilität und Leichtigkeit, selbst bei großen Formaten. </li><li><b>Außergewöhnliche Tiefenwirkung:</b> Die Kombination aus Aluminium-Dibond und dem extra tiefen Schaukastenrahmen sorgt für eine moderne und langlebige Präsentation.</li><li><b>Brillante Farbintensität:</b> Sorgt für lebendige und strahlende Farben für eine wirkungsvolle Präsentation. </li></ul><h3>Optionaler weißer Rand</h3><p>Ein frei wählbarer weißer Rand zwischen 1 cm und 12 cm schafft einen eleganten Abstand zwischen Motiv und Rahmen und hebt das Werk noch mehr hervor.</p><ul><li><b>Anpassbarer Rand:</b> Verleiht Ihrem Kunstwerk eine raffinierte Note und betont seine Präsenz im Rahmen.</li></ul></div>"
+        },
+        "imagecarrier2": {
+            "name": "Fotoabzug oder Fine Art Print",
+            "detailedDescription": "<div><h3>Präsentationsrahmen mit Premium-Kunstdruckpapieren</h3><p>Präsentieren Sie Ihre Kunstwerke in einem Präsentationsrahmen, der hochwertige Kunstdruckpapiere mit präziser Handwerkskunst kombiniert. Die Drucke werden glatt auf Passepartoutkarton montiert, wodurch ein Verziehen verhindert und ein leicht erhöhter Effekt erzeugt wird. Passen Sie Ihr Werk mit sieben Passepartout-Farben und einer Randbreite von 5 bis 20 cm für eine individuelle Präsentation an.</p><h3>Hauptmerkmale</h3><ul><li><b>Glatte Montage:</b> Drucke werden auf Passepartout-Karton laminiert, um Verzerrungen zu vermeiden und einen sauberen, erhabenen Look zu erzielen.</li><li><b>Anpassbare Passepartouts: </b>Wählen Sie aus sieben Farben und einem Randabstand zwischen 5 cm und 20 cm, um Ihr Kunstwerk zu verbessern.</li></ul><h3>Premium-Kunstdruckpapiere</h3><ul><li><b>William Turner:</b> Matte Aquarellstruktur, perfekt für authentische Porträts und außergewöhnliche Konzepte.</li><li><b>Fine Art Pearl:</b> Reinweiße Oberfläche mit seidigem Schimmer, ideal für Tiefe und präzise Kontraste. </li><li><b>Photo Rag:</b> Weiche Baumwollstruktur, die sich für alle Arten von Motiven eignet und eine beeindruckende Bildtiefe bietet.</li><li><b>Torchon:</b> Grobe, leuchtend weiße Textur für dreidimensionale und extravagante Kunstwerke.</li><li><b>FineArt Baryta:</b> Glänzende Oberfläche mit einer klassischen Barytpapierstruktur für zeitlose Eleganz und Brillanz. </li></ul><h3>Benutzerdefinierte Formate</h3><p>Der Präsentationsrahmen ist in millimetergenauen Proportionen erhältlich, einschließlich der Formate 1:1, 16:9 oder 9:16. Von kleinen Formaten bis hin zu großformatigen Präsentationen kann Ihr Kunstwerk auf jede beliebige Größe zugeschnitten werden.</p></div>"
+        },
+            "imagecarrier3": {
+            "name": "Schwebendes Kunstwerk",
+            "detailedDescription": "<div><h3>Präsentationsrahmen mit schwebender Präsentation</h3><p>Ein Präsentationsrahmen mit schwebender Präsentation verleiht Ihrem Kunstwerk eine außergewöhnliche Wirkung. Der Raum zwischen dem Werk und dem Hintergrund erweckt den Eindruck, dass das Motiv im Rahmen schwebt, was die Autonomie des Werkes betont und gleichzeitig für einen eleganten visuellen Abschluss sorgt. </p><h3>Hauptmerkmale</h3><ul><li><b>Hochwertige Laminierung auf Aluminium-Dibond:</b> Das Kunstwerk wird glatt auf Aluminium-Dibond montiert, einem stabilen und leichten Material, das sich für große Formate in Proportionen wie 1:1, 16:9 oder 9:16 eignet. </li><li><b>Schwebende Wirkung:</b> Ein Abstand von 1 cm zwischen dem Kunstwerk und dem Hintergrund erzeugt einen modernen, dreidimensionalen Effekt.</li><li><b>Anpassbarer Rand:</b> Der Abstand zwischen dem Werk und dem Rand des Rahmens kann zwischen 1 cm und 12 cm frei gewählt werden, was eine individuelle Präsentation ermöglicht.</li></ul></div>"
+        },
+        "imagecarrier4": {
+            "name": "Schwebendes Passepartout",
+            "detailedDescription": "<div><h3>Präsentationsrahmen mit schwebendem Passepartout</h3><p>Ein Präsentationsrahmen mit schwebendem Passepartout verleiht Ihrem Kunstwerk eine außergewöhnliche Tiefe. Der Raum zwischen dem Passepartout und dem Hintergrund erweckt den Eindruck, dass das Passepartout schwebt, wodurch das Werk weiter zurückgesetzt erscheint. Diese Präsentation lenkt die Aufmerksamkeit auf das Motiv und erzeugt gleichzeitig einen eleganten, dreidimensionalen Look.</p><h3>Individuelles Passepartout-Design</h3><ul><li><b>Schwebeeffekt:</b> Ein Abstand von 1 cm zwischen Passepartout und Hintergrund sorgt für eine moderne Tiefenwirkung.</li><li><b>Passepartout-Breite:</b> Frei wählbar zwischen 3 cm und 30 cm, sodass eine präzise Anpassung an Ihr Kunstwerk möglich ist. </li><li><b>Farbauswahl:</b> Wählen Sie aus zehn Farben, um die Rahmung perfekt auf Ihr Werk abzustimmen.</li></ul><h3>Optionaler weißer Rand</h3><p>Ein zusätzlicher weißer Rand von 1 cm bis 12 cm kann ausgewählt werden, um Ihr Kunstwerk weiter zu betonen und seine Präsentation zu verbessern. </p><h3>Formate für Ihre Kunst</h3><p>Der Schaufensterrahmen ist in millimetergenauen Proportionen erhältlich, darunter die Formate 1:1, 16:9 oder 9:16 – ideal, um Ihre Kunstwerke stilvoll und professionell zu präsentieren.</p></div>"
+        }
+    },
+    "frameCategory": {
+        "none": {
+            "name": "Kein Rahmen"
+        },
+        "wooden": {
+            "name": "Holzrahmen"
+        },
+        "aluminium": {
+            "name": "Aluminiumrahmen"
+        },
+        "special": {
+            "name": "Spezielle Rahmen"
+        }
+    },
+    "frame": {
+        "noframe": {
+            "name": "Kein Rahmen"
+        },
+        "whamburg20": {
+            "name": "Hamburg 20mm",
+            "description": "Unser klassischer Rahmen – der Hamburg 20mm – ist ein schlichter, aber eleganter Holzrahmen, der zu allen Arten von Motiven passt. Er ist mit Echtholzfurnier und sichtbarer Maserung für einen natürlichen Look oder in matt lackierter Ausführung für einen modernen Touch erhältlich. Wählen Sie aus zehn verschiedenen Farben, die perfekt zu Ihrem Stil passen. Breite: 20mm Tiefe: 30mm"
+        },
+        "whamburg40": {
+            "name": "Hamburg 40mm",
+            "description": "Der 40mm-Rahmen von Hamburg ist die breitere Version unseres klassischen Holzrahmens und in verschiedenen Farben erhältlich. Breite: 40mm Tiefe: 30mm"
+        },
+        "wbern20": {
+            "name": "Bern 20mm",
+            "description": "Der Bern 20mm ist ein eleganter, dezenter Holzrahmen mit einer leicht gewölbten Front und einer glänzend lackierten Oberfläche. Er ist in Schwarz oder Weiß erhältlich. Breite: 20mm Tiefe: 15mm"
+        },
+        "wbern50": {
+            "name": "Bern 50mm",
+            "description": "Der Bern 50mm ist die breitere Version dieses eleganten Holzrahmens, der durch seine geschwungene Front und die hochglanzlackierte Oberfläche besticht. Er ist in Schwarz oder Weiß erhältlich. Breite: 50mm Tiefe: 25mm"
+        },
+        "wstockholm30": {
+            "name": "Stockholm 30mm",
+            "description": "Der Stockholm 30mm ist ein Holzrahmen mit sichtbarer Maserung und einer Außenkante, die niedriger ist als die Innenseite. Dieses Design lenkt den Fokus des Betrachters geschickt auf das Kunstwerk. Der Rahmen ist in drei verschiedenen Farben erhältlich. Breite: 30mm Tiefe: 25mm"
+        },
+        "wstockholm50": {
+            "name": "Stockholm 50mm",
+            "description": "Der Stockholm 50mm ist die breitere Version dieses Holzrahmens und bietet eine noch eindrucksvollere Optik. Der Rahmen ist in drei verschiedenen Farben erhältlich. Breite: 50mm Tiefe: 40mm"
+        },
+        "wvienna27": {
+            "name": "Wien 27mm",
+            "description": "Wien ist ein elegant geschwungener Holzrahmen mit klassischem Aussehen, der sich durch echtes Holzfurnier und eine natürliche, sichtbare Holzmaserung auszeichnet. Der Rahmen ist in fünf verschiedenen Farben erhältlich. Breite: 27mm Tiefe: 27mm"
+        },
+        "wbasel6": {
+            "name": "Basel 6mm",
+            "description": "Der Basel 6mm Rahmen ist die schlankere Version unseres klassischen Schattenfugenrahmens aus Holz und in acht verschiedenen Farben erhältlich. Durch die 4mm breite Schattenfuge zwischen Bild und Rahmen entsteht die Illusion, dass Ihr Motiv schwebt. Breite: 6mm Tiefe: 29mm Schattenfuge: 4mm"
+        },
+        "wbasel15": {
+            "name": "Basel 15mm",
+            "description": "Der Basel 15mm Rahmen ist ein klassischer Schattenfugenrahmen aus Holz, der in verschiedenen Farben erhältlich ist. Durch die Fuge zwischen Bild und Rahmen entsteht die Illusion, dass Ihr Motiv schwebt. Breite: 15mm Tiefe: 29mm Schattenfuge: 7mm"
+        },
+        "wbasel31": {
+            "name": "Basel 31mm",
+            "description": "Der Basel 31mm Rahmen ist die breitere Variante unseres klassischen Schattenfugenrahmens aus Holz und in vier Farben erhältlich. Durch die Fuge zwischen Bild und Rahmen entsteht der Eindruck, dass Ihr Motiv schwebt. Breite: 31mm Tiefe: 29mm Schattenfugenbreite: 7mm"
+        },
+        "wartbox4": {
+            "name": "Massivholz-ArtBox 4mm",
+            "description": "Die ArtBox aus Holz rahmt Ihr Kunstwerk von vorne mit schlichter Eleganz ein. Von der Seite beeindruckt sie mit einer Tiefe von 35mm, die eine auffällige visuelle Dimension verleiht. Das Echtholzfurnier verleiht Ihrem Bild ein natürliches Aussehen, das optional durch eine sichtbare Maserung verstärkt werden kann. Die ArtBox ist in sechs verschiedenen Farben erhältlich. Breite: 4mm Tiefe: 35mm"
+        },
+        "wtokyo20": {
+            "name": "Tokyo 20mm",
+            "description": "Der Rahmen „Tokyo“ ist breiter und Tiefer als unser klassischer Rahmen „Basel“ und verfügt außerdem über eine Schattenfuge. Er ist in hochglänzendem oder mattem Schwarz erhältlich. Der Rahmen besteht aus Holz, aber die lackierte Oberfläche lässt keine Holzmaserung erkennen. Breite: 20mm Tiefe: 48mm SCHATTENFUGENABSTAND: 7mm"
+        },
+        "wbarcelona12": {
+            "name": "Barcelona 12.5mm",
+            "description": "Barcelona ist ein schlichter Schattenfugenrahmen mit einem unverwechselbaren Erscheinungsbild. Der Holzrahmen verfügt über eine lackierte Oberfläche, wobei die Vorderkante entweder in Silber oder Gold und die Seiten in elegantem Schwarz ausgeführt sind. Der Rahmen ist in zwei Farbvarianten erhältlich. Breite: 12mm Tiefe: 45mm Schattenfuge: 7mm"
+        },
+        "wbaselplus21": {
+            "name": "Basel Plus 21mm",
+            "description": "Der Basel-Plus-Rahmen besticht durch eine außergewöhnlich breite Schattenfuge, die den schwebenden Effekt Ihres Kunstwerks noch verstärkt. Der Rahmen ist in drei verschiedenen Farben erhältlich. Breite: 21mm Tiefe: 60mm Schattenfugenbreite: 20mm"
+        },
+        "woslo12": {
+            "name": "Oslo 12mm",
+            "description": "Oslo ist die schlankere Version unseres klassischen Hamburger Holzrahmens und bietet eine dezente Rahmenoption mit sichtbarer Holzmaserung. Der Rahmen ist in fünf verschiedenen Farben erhältlich. Breite: 12mm Tiefe: 29mm"
+        },
+        "aartbox10": {
+            "name": "Aluminium ArtBox, 10mm Profil",
+            "description": "Die ArtBox 10mm aus eloxiertem Aluminium bietet einen eleganten, dezenten Rahmen für Ihr Bild. Mit ihrer relativ geringen Tiefe ist diese Variante besonders dezent. Die Schattenfuge verleiht Ihrem Kunstwerk einen schwebenden Eindruck. Erhältlich in Silber, Schwarz, Weiß oder Gold mit matter Oberfläche. Breite: 2mm Tiefe: 10mm Schattenfugenabstand: 4mm"
+        },
+        "aartbox25": {
+            "name": "Aluminium ArtBox, 25mm Profil",
+            "description": "Die ArtBox Alu 25mm aus eloxiertem Aluminium rahmt Ihr Bild mit eleganter Subtilität ein. Die Schattenfuge erzeugt den faszinierenden Eindruck, dass Ihr Kunstwerk zu schweben scheint. Wählen Sie zwischen den Farben Silber, Schwarz, Weiß oder Gold – alle mit matter Oberfläche. Breite: 2mm Tiefe: 25mm Schattenfugenabstand: 4mm"
+        },
+        "aartbox50": {
+            "name": "Aluminium ArtBox, 50mm Profil",
+            "description": "Die ArtBox Alu 50mm verwandelt Ihr Kunstwerk in ein skulpturales Galerieobjekt. Sie ist in Silber, Schwarz, Weiß oder Gold mit jeweils matter Oberfläche erhältlich.Breite: 2mm Tiefe: 50mm Schattenfugenabstand: 4mm"
+        },
+        "aartbox75": {
+            "name": "Aluminium ArtBox, 75mm Profil",
+            "description": "Diese Variante verleiht Ihrem Bild einen besonders auffälligen Objektcharakter. Erhältlich in Silber oder Schwarz mit matter Oberfläche. Breite: 2mm Tiefe: 75mm SCHATTENSPALT: 4mm"
+        },
+        "asanfrancisco30": {
+            "name": "San Francisco 30mm",
+            "description": "San Francisco zeichnet sich durch sein relativ breites Profil und die Schattenfuge aus gebürstetem, eloxiertem Aluminium aus. Der Rahmen ist in Silber oder Schwarz erhältlich. Breite: 30mm Tiefe: 30mm Schattenfugenabstand: 7mm"
+        },
+        "aslimline": {
+            "name": "Slimline Einfassung",
+            "description": "Der 1mm schmale Rand aus Aluminium sorgt für ein dezentes und dennoch auffälliges Finish. Dank seiner geringen Tiefe hebt sich Ihr Bild mit 1,5mm Abstand zum Rahmen wirkungsvoll ab. Der Rahmen ist in vier Farben erhältlich – Silber, Gold und Schwarz mit matter Oberfläche sowie Weiß mit glänzender Oberfläche. Breite: 1mm Tiefe: 5–7mm"
+        },
+        "amiami9": {
+            "name": "Miami 9mm",
+            "description": "Wechseln Sie Ihre Motive im Handumdrehen – ohne Werkzeug und Aufwand. Mit unseren magnetischen Bilderrahmen können Sie Ihre Wandgestaltung flexibel und einfach ändern. Perfekt für alle, die regelmäßig neue Akzente setzen möchten."
+        },
+        "sshadowbox21": {
+            "name": "Vitrinenrahmen 21mm",
+            "description": "Unser Vitrinenrahmen verleiht Ihrem Kunstwerk einen stilvollen Galerie-Look. Die zusätzliche Tiefe des Rahmens und der Abstand zum Glas sorgen dafür, dass Ihr Werk stilvoll präsentiert wird."
+        },
+        "shamburg20": {
+            "name": "Hamburg 20mm",
+            "description": "Modernes Design trifft auf Farbverlauf: Der Holzrahmen ist mit einem matten Lack in vier verschiedenen Farbtönen einer einzigen Farbfamilie versehen und in drei verschiedenen Farbausführungen erhältlich. Breite: 20mm Tiefe: 30mm"
+        },
+        "slondon65": {
+            "name": "London 65mm",
+            "description": "London ist ein opulenter Rahmen mit eleganten Akzenten in Gold oder Silber, der an klassische Bilderrahmen erinnert. Er eignet sich besonders gut für besondere Motive wie Stillleben. Der Rahmen ist in zwei Farbvarianten erhältlich. Breite: 65mm Tiefe: 45mm"
+        },
+        "stuscany68": {
+            "name": "Toskana 68mm",
+            "description": "Der Toskana 70mm ist ein breiter, leicht nach innen gewölbter Rahmen, der Ihrem Kunstwerk ein auffälliges und eindrucksvolles Finish verleiht. Die markante Holzmaserung ist sorgfältig um den gesamten Rahmen herum ausgerichtet und lenkt so noch mehr Aufmerksamkeit auf Ihr Bild. Der Rahmen ist in drei verschiedenen Farben erhältlich. Breite: 70mm Tiefe: 32mm"
+        },
+        "stuscany105": {
+            "name": "Toskana 105mm",
+            "description": "Der Toskana 105mm ist die breitere Version dieses Holzrahmens, der Ihre Kunstwerke besonders eindrucksvoll präsentiert. Der Rahmen ist in drei verschiedenen Farben erhältlich. Breite: 105mm Tiefe: 52mm"
+        },
+        "sbrittany54": {
+            "name": "Bretagne 54mm",
+            "description": "Bretagne ist ein breiter, geradliniger Holzrahmen in Walnussoptik, der durch seine auffällige Maserung besticht. BREITE: 54mm Tiefe: 25mm"
+        },
+        "scopenhagen14": {
+            "name": "Kopenhagen 14mm",
+            "description": "Kopenhagen ist ein Holzrahmen mit einem unverwechselbaren Look: Das schräge, schmale Profil von vorne zieht die Blicke auf sich und präsentiert Ihr Kunstwerk wie in einer Vitrine. Erhältlich in Schwarz oder Weiß. Breite: 14mm Tiefe: 60mm"
+        },
+        "spopart320": {
+            "name": "Pop Art 3mm",
+            "description": "Der Pop-Art-Rahmen bringt farbenfrohe Kunstwerke mit seinem Neon-Effekt zum Leuchten und verleiht ihnen einen dynamischen Look. Varianten in Schwarz oder Weiß setzen Werke elegant in Szene, während die integrierte Schattenfuge selbst große Formate leicht erscheinen lässt. Durch die Kombination verschiedener Farben und Größen entsteht eine spannende Hängung mit einzigartiger Ausstrahlung."
+        },
+        "spopart340": {
+            "name": "Pop Art 3mm",
+            "description": "Der Pop-Art-Rahmen bringt farbenfrohe Kunstwerke mit seinem Neon-Effekt zum Leuchten und verleiht ihnen einen dynamischen Look. Varianten in Schwarz oder Weiß setzen Werke elegant in Szene, während die integrierte Schattenfuge selbst große Formate leicht erscheinen lässt. Durch die Kombination verschiedener Farben und Größen entsteht eine spannende Hängung mit einzigartiger Ausstrahlung."
+        }
+        
+
+    },
+    "frameColor": {
+        "alder-brown": {
+            "name": "Erle braun"
+        },
+        "black-oak": {
+            "name": "Eiche schwarz"
+        },
+        "maple-natural": {
+            "name": "Ahorn naturbelassen"
+        },
+        "maple-white": {
+            "name": "Ahornweiß"
+        },
+        "natural-oak": {
+            "name": "Eiche natur"
+        },
+        "wwalnut": {
+            "name": "Walnuss"
+        },
+        "black-matte": {
+            "name": "Schwarz matt"
+        },
+        "white-matte": {
+            "name": "Weiß matt"
+        },
+        "light-gray-matte": {
+            "name": "Hellgrau matt"
+        },
+        "dark-gray-matte": {
+            "name": "Dunkelgrau Matt"
+        },
+        "black-lacquered": {
+            "name": "Schwarz lackiert"
+        },
+        "white-lacquered": {
+            "name": "Weiß lackiert"
+        },
+        "ebony": {
+            "name": "Ebenholz"
+        },
+        "wwhite": {
+            "name": "Weiß"
+        },
+        "black-glossy": {
+            "name": "Schwarz glänzend"
+        },
+        "wblack-silver": {
+            "name": "Schwarz-Silber"
+        },
+        "wblack-gold": {
+            "name": "Schwarz-Gold"
+        },
+        "oak-gray": {
+            "name": "Eiche grau"
+        },
+        "silver": {
+            "name": "Silber"
+        },
+        "black": {
+            "name": "Schwarz"
+        },
+        "gold": {
+            "name": "Gold"
+        },
+        "awhite": {
+            "name": "Weiß"
+        },
+        "design-edition-green": {
+            "name": "Design Edition Grün"
+        },
+        "design-edition-yellow": {
+            "name": "Design Edition Gelb"
+        },
+        "design-edition-purple": {
+            "name": "Design Edition Lila"
+        },
+        "sblack-silver": {
+            "name": "Schwarz-Silber"
+        },
+        "sblack-gold": {
+            "name": "Schwarz-Gold"
+        },
+        "swalnut": {
+            "name": "Walnuss"
+        },
+        "anthracite": {
+            "name": "Anthrazit"
+        },
+        "tobacco": {
+            "name": "Tabak"
+        },
+        "neon-red": {
+            "name": "Neonrot"
+        },
+        "neon-orange": {
+            "name": "Neonorange"
+        },
+        "neon-green": {
+            "name": "Neongrün"
+        },
+        "neon-blue": {
+            "name": "Neonblau"
+        }
+    },
+    "passePartoutColor": {
+        "bright-white": {
+            "name": "Passepartout, Hochweiß"
+        },
+        "natural-white": {
+            "name": "Passepartout, Naturweiß"
+        },
+        "ivory": {
+            "name": "Passepartout, Elfenbein"
+        },
+        "light-grey": {
+            "name": "Passepartout, Hellgrau"
+        },
+        "dark-grey": {
+            "name": "Passe-Partout, Dunkelgrau"
+        },
+        "anthracite": {
+            "name": "Passe-Partout, Anthrazit"
+        },
+        "black": {
+            "name": "Passe-Partout, Schwarz"
+        },
+        "linen-natural-white": {
+            "name": "Passepartout, Leinen Naturweiß"
+        },
+        "linen-ivory": {
+            "name": "Passepartout, Leinen Elfenbein"
+        },
+        "linen-black": {
+            "name": "Passe-Partout, Leinen Schwarz"
+        }
+    },
+    "passePartoutWidth": {
+        "4": {
+            "label": "4 cm Passe-Partout Breite"
+        },
+        "5": {
+            "label": "5 cm Passe-Partout Breite"
+        },
+        "6": {
+            "label": "6 cm Passe-Partout Breite"
+        },
+        "7": {
+            "label": "7 cm Passe-Partout Breite"
+        },
+        "8": {
+            "label": "8 cm Passe-Partout Breite"
+        },
+        "9": {
+            "label": "9 cm Passe-Partout Breite"
+        },
+        "10": {
+            "label": "10 cm Passe-Partout Breite"
+        }
+    },
+    "acrylglass": {
+        "a2g": {
+            "name": "Acrylglas 2mm, glänzend"
+        },
+        "a2m": {
+            "name": "Acrylglas 2mm, matt"
+        },
+        "a4g": {
+            "name": "Acrylglas 4mm, glänzend"
+        },
+        "a6g": {
+            "name": "Acrylglas 6mm, glänzend"
+        }
+    },
+    "paper": {
+        "fcrystalarchiveg": {
+            "name": "Fuji Crystal Archive, Glänzend",
+            "description": "Fuji Crystal Archive DP II ist ein Premium-Markenpapier mit neutralem Grundton. Die glänzende Version liefert lebendige Farben und auffällige Kontraste.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive DP II</h3><p>Fujicolor Crystal Archive DP II ist ein hochwertiges Silberhalogenid-Fotopapier, das speziell für den professionellen Einsatz entwickelt wurde. Es bietet eine außergewöhnliche Farbbrillanz, eine hohe maximale Dichte für Tiefe Schwarztöne und eine beeindruckende Farbsättigung. Mit einem breiten Farbspektrum und präziser Detailwiedergabe ist es ideal für anspruchsvolle Kunstwerke und Fotografien. Das Papier ist für den Digitaldruck optimiert und mit einer Haltbarkeit von bis zu 75 Jahren perfekt für Galerien, Ausstellungen oder hochwertige Kunstprodukte geeignet.</p><h3>Hauptmerkmale</h3><ul><li><b>Außergewöhnliche Farbbrillanz:</b> Lebendige Farben mit beeindruckender Sättigung und Tiefe.</li><li><b>Breiter Farbraum:</b> Gewährleistet präzise Detailwiedergabe und Tonwertgenauigkeit. </li><li><b>Langlebigkeit:</b> Farbechtheit bis zu 75 Jahre garantiert.</li></ul><h3>Verfügbare Oberflächen</h3><p>Das Papier ist in den folgenden Oberflächen erhältlich, um verschiedenen künstlerischen Stilen gerecht zu werden: </p><ul><li>Matt</li><li>Glanz</li><li>Seide</li><li>Samt</li></ul><h3>Perfekt für</h3><ul><li>Galerien und Ausstellungen</li><li>Professionelle Portfolios und hochwertige Präsentationen</li><li>Lebendige Kunstwerke mit tiefem Schwarz und scharfen Details</li></ul></div>"
+        },
+        "fcrystalarchivem": {
+            "name": "Fuji Crystal Archive, Matt",
+            "description": "Fuji Crystal Archive DP II ist ein Premium-Markenpapier mit neutralem Grundton. Feine Textur ohne störende Reflexionen",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive DP II</h3><p>Fujicolor Crystal Archive DP II ist ein hochwertiges Silberhalogenid-Fotopapier, das speziell für den professionellen Einsatz entwickelt wurde. Es bietet eine außergewöhnliche Farbbrillanz, eine hohe maximale Dichte für tiefe Schwarztöne und eine beeindruckende Farbsättigung. Mit einem breiten Farbspektrum und präziser Detailwiedergabe ist es ideal für anspruchsvolle Kunstwerke und Fotografien. Das Papier ist für den Digitaldruck optimiert und mit einer Haltbarkeit von bis zu 75 Jahren perfekt für Galerien, Ausstellungen oder hochwertige Kunstprodukte geeignet.</p><h3>Hauptmerkmale</h3><ul><li><b>Außergewöhnliche Farbbrillanz:</b> Lebendige Farben mit beeindruckender Sättigung und Tiefe.</li><li><b>Breiter Farbraum:</b> Gewährleistet präzise Detailwiedergabe und Tonwertgenauigkeit. </li><li><b>Langlebigkeit:</b> Farbechtheit bis zu 75 Jahre garantiert.</li></ul><h3>Verfügbare Oberflächen</h3><p>Das Papier ist in den folgenden Oberflächen erhältlich, um verschiedenen künstlerischen Stilen gerecht zu werden: </p><ul><li>Matt</li><li>Glanz</li><li>Seide</li><li>Samt</li></ul><h3>Perfekt für</h3><ul><li>Galerien und Ausstellungen</li><li>Professionelle Portfolios und hochwertige Präsentationen</li><li>Lebendige Kunstwerke mit tiefem Schwarz und scharfen Details</li></ul></div>"
+        },
+        "uhdphotoprint": {
+            "name": "UltraHD Kunst-Abzug",
+            "description": "Die Qualität eines Kunstdrucks ist nur so gut wie das Papier, auf dem er belichtet wird. Mit dem neu entwickelten Fuji Crystal Professional Archive Maxima-Papier von Fujifilm erfüllt Ihr UltraHD-Druck die höchsten Standards für Farbwiedergabe und Detailgenauigkeit.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive Professional Paper Maxima</h3><p>Fujicolor Crystal Archive Professional Paper Maxima ist ein UltraHD-Silberhalogenidpapier, das für anspruchsvolle Kunst- und professionelle Fotografie entwickelt wurde. Es bietet eine außergewöhnliche Farbwiedergabe, tiefes Schwarz und eine längere Haltbarkeit und ist somit ideal für Galerien, Museen und hochwertige Ausstellungen, bei denen maximale Detailtreue und Farbsättigung erforderlich sind.</p><h3>Unübertroffene Bildqualität</h3><ul><li><b>Erweiterter Farbraum:</b> 20–21 % größerer Farbbereich für lebendige und präzise Details. </li><li><b>Hohe D-Max-Dichte:</b> Liefert tiefes Schwarz und eine außergewöhnliche Farbtiefe und sorgt so für Klarheit auch in schattigen Bereichen.</li><li><b>Lichtbeständigkeit:</b> Durch die erhöhte Haltbarkeit behalten Kunstwerke über Jahrzehnte hinweg ihre Brillanz.</li></ul><h3>Verfügbare Oberflächen</h3><p>Dieses Papier ist in verschiedenen Oberflächen erhältlich, um unterschiedlichen künstlerischen Anforderungen gerecht zu werden: </p><ul><li>Matt</li><li>Glanz</li><li>Seide</li><li>Samt</li></ul><h3>Perfekt für</h3><ul><li>Drucke in Galerie- und Museumsqualität</li><li>Kunstwerke mit intensiven Farben und präzisen Details</li><li>Schwarz-Weiß-Fotografien mit hohem Kontrast</li><li>Langlebige Ausstellungsstücke</li><li>Professionelle Porträt- und kommerzielle Fotografie</li></ul><h3>Kurzübersicht</h3><ul><li><b>Hochwertiges Silberhalogenidpapier:</b> Außergewöhnliche Detail- und Farbwiedergabe.</li><li><b>Langlebigkeit:</b> Farbechtheit bis zu 75 Jahren.</li><li><b>Vielfältige Einsatzmöglichkeiten:</b> Perfekt für Galerien, Ausstellungen und professionelle Fotografie.</li></ul></div>"
+        },
+        "fcrystalarchives": {
+            "name": "Fuji Crystal Archive, Silk",
+            "description": "Fuji Crystal Archive DP II ist ein Premium-Markenpapier mit neutralem Grundton. Feine Textur für einen seidenmatten Glanz",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive DP II</h3><p>Fujicolor Crystal Archive DP II ist ein hochwertiges Silberhalogenid-Fotopapier, das speziell für den professionellen Einsatz entwickelt wurde. Es bietet eine außergewöhnliche Farbbrillanz, eine hohe maximale Dichte für tiefe Schwarztöne und eine beeindruckende Farbsättigung. Mit einem breiten Farbspektrum und präziser Detailwiedergabe ist es ideal für anspruchsvolle Kunstwerke und Fotografien. Das Papier ist für den Digitaldruck optimiert und mit einer Haltbarkeit von bis zu 75 Jahren perfekt für Galerien, Ausstellungen oder hochwertige Kunstprodukte geeignet.</p><h3>Hauptmerkmale</h3><ul><li><b>Außergewöhnliche Farbbrillanz:</b> Lebendige Farben mit beeindruckender Sättigung und Tiefe.</li><li><b>Breiter Farbraum:</b> Gewährleistet präzise Detailwiedergabe und Tonwertgenauigkeit. </li><li><b>Langlebigkeit:</b> Farbechtheit bis zu 75 Jahre garantiert.</li></ul><h3>Verfügbare Oberflächen</h3><p>Das Papier ist in den folgenden Oberflächen erhältlich, um verschiedenen künstlerischen Stilen gerecht zu werden: </p><ul><li>Matt</li><li>Glanz</li><li>Seide</li><li>Samt</li></ul><h3>Perfekt für</h3><ul><li>Galerien und Ausstellungen</li><li>Professionelle Portfolios und hochwertige Präsentationen</li><li>Lebendige Kunstwerke mit tiefem Schwarz und scharfen Details</li></ul></div>"
+        },
+        "fvelvet": {
+            "name": "Fuji Velvet",
+            "description": "Fuji Crystal Archive DP II ist ein Premium-Markenpapier mit neutralem Grundton und einer sehr matten, samtigen Oberfläche, die völlig frei von Reflexionen ist.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive DP II</h3><p>Fujicolor Crystal Archive DP II ist ein hochwertiges Silberhalogenid-Fotopapier, das speziell für den professionellen Einsatz entwickelt wurde. Es bietet eine außergewöhnliche Farbbrillanz, eine hohe maximale Dichte für tiefe Schwarztöne und eine beeindruckende Farbsättigung. Mit einem breiten Farbspektrum und präziser Detailwiedergabe ist es ideal für anspruchsvolle Kunstwerke und Fotografien. Das Papier ist für den Digitaldruck optimiert und mit einer Haltbarkeit von bis zu 75 Jahren perfekt für Galerien, Ausstellungen oder hochwertige Kunstprodukte geeignet.</p><h3>Hauptmerkmale</h3><ul><li><b>Außergewöhnliche Farbbrillanz:</b> Lebendige Farben mit beeindruckender Sättigung und Tiefe.</li><li><b>Breiter Farbraum:</b> Gewährleistet präzise Detailwiedergabe und Tonwertgenauigkeit. </li><li><b>Langlebigkeit:</b> Farbechtheit bis zu 75 Jahre garantiert.</li></ul><h3>Verfügbare Oberflächen</h3><p>Das Papier ist in den folgenden Oberflächen erhältlich, um verschiedenen künstlerischen Stilen gerecht zu werden: </p><ul><li>Matt</li><li>Glanz</li><li>Seide</li><li>Samt</li></ul><h3>Perfekt für</h3><ul><li>Galerien und Ausstellungen</li><li>Professionelle Portfolios und hochwertige Präsentationen</li><li>Lebendige Kunstwerke mit tiefem Schwarz und scharfen Details</li></ul></div>"
+        },
+        "muhdphotoprint": {
+            "name": "Metallic ultraHD Kunst-Abzug",
+            "description": "Erleben Sie Ihre Motive als Bilder mit einem auffälligen Metallic-Effekt! Kunstwerke auf Fuji Crystal Pearl bestechen durch ihre hochglänzende Oberfläche und ihren metallischen Glanz. Dieses Papier eignet sich perfekt für kontrastreiche Bilder und Nachtaufnahmen mit viel Licht.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive Pearl Paper</h3><p>Fujicolor Crystal Archive Pearl Paper ist ein Premium-Silberhalogenidpapier mit einer einzigartigen perlmuttfarbenen Oberfläche, die durch eingebettete Perlenkristalle entsteht. Dieser schimmernde Metallic-Effekt verbessert die luxuriöse Präsentation von Kunstwerken und bietet gleichzeitig eine außergewöhnliche Farbwiedergabe, tiefes Schwarz und einen erweiterten Tonwertumfang.</p><h3>Hauptmerkmale</h3><ul><li><b>Perlglanzoberfläche:</b> Eingelassene Perlenkristalle erzeugen einen metallischen Schimmer für einen edlen Look. </li><li><b>Hohe D-Max-Dichte:</b> Sorgt für tiefes Schwarz und eine verbesserte Farbtiefe für beeindruckende Bilder.</li><li><b>Erweiterter Farbraum:</b> Lebendige Farben mit hoher Sättigung und präziser Detailwiedergabe.</li><li><b>Langlebigkeit:</b> Archivtauglich mit hoher Lichtstabilität, wodurch langlebige Drucke für Galerien und Ausstellungen gewährleistet werden. </li></ul><h3>Perfekt für</h3><ul><li>Landschaftsgemälde mit leuchtenden Farben und feinen Details</li><li>Porträts mit natürlichen Hauttönen</li><li>Schwarz-Weiß-Bilder mit verbessertem Kontrast und Tiefe</li><li>Kunstwerke, die für eine luxuriöse Präsentation einen metallischen Glanz benötigen</li><li>Kommerzielle Drucke und hochwertige Displays</li></ul><h3>Kurzübersicht</h3><ul><li>< b>Perlglanz-Finish:</b> Einzigartiger metallischer Schimmer für auffällige Präsentationen.</li><li><b>Außergewöhnliche Farbwiedergabe:</b> Lebendige Farben, tiefes Schwarz und gestochen scharfe Details.</li><li><b>Archivierungsqualität:</b> Langlebige Drucke, ideal für Ausstellungen und Galerien.</li></ul></div>"
+        },
+        "fflex": {
+            "name": "Fuji Flex",
+            "description": "Ein warmer Grundton, außergewöhnlich satte Farben und eine hochglänzende Oberfläche – diese drei überzeugenden Eigenschaften machen Fujiflex-Hochglanzpapier zur idealen Wahl für Ihre Kunstwerke.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujiflex Crystal Archive Supergloss-Papier</h3><p>Fujiflex Crystal Archive Supergloss ist ein hochmodernes Silberhalogenidpapier mit einer ultraglänzenden Oberfläche, das für professionelle Anwendungen entwickelt wurde. Seine robuste Polyester-Basis (PET) sorgt für außergewöhnliche Haltbarkeit und Stabilität, während die spiegelglatte Oberfläche eine beeindruckende Tiefe und außergewöhnlich satte Farben liefert. Dieses Papier eignet sich ideal für den Großformatdruck, Ausstellungen und hochwertige Präsentationen, bei denen es auf maximale Bildqualität ankommt.</p><h3>Hauptmerkmale</h3><ul><li><b>Ultra-glänzende Oberfläche:</b> Sorgt für maximale Farbsättigung und reflektierende Effekte für einen luxuriösen Look. </li><li><b>Hohe D-Max-Dichte:</b> Sorgt für tiefes Schwarz und einen breiten Tonwertumfang und verbessert so Kontrast und Detailtreue.</li><li><b>Langlebige PET-Basis:</b> Sehr widerstandsfähig und stabil, sorgt für langlebige Drucke bis zu 75 Jahren ohne Vergilbung. </li></ul><h3>Perfekt für</h3><ul><li>Hochwertige Kunstwerke mit leuchtenden Farben und präzisen Details</li><li>Großformatige Präsentationen und Ausstellungen</li><li>Acrylmontage für dreidimensionale Tiefeneffekte</li><li>Kunstwerke mit hohem Kontrast und tiefen Schwarztönen</li><li>Luxus-Fotoprodukte und kommerzieller Druck</li></ul><h3>Kurzübersicht</h3><ul><li><b>Glänzendes Silberhalogenidpapier:</b> Für den professionellen Einsatz auf PET-Basis konzipiert.</li><li><b>Außergewöhnliche Bildqualität:</b> Tiefes Schwarz, leuchtende Farben und beeindruckende Tiefe.</li><li><b>Vielseitige Einsatzmöglichkeiten:</b> Perfekt für Ausstellungen, Galerien, Acrylrahmen und Luxuspräsentationen.</li></ul></div>"
+        },
+        "ibwg": {
+            "name": "Ilford S/W-Papier, Glänzend",
+            "description": "Ilford-Papier ist ein reines Schwarz-Weiß-Papier, das tiefe Schwarztöne und eine farbneutrale Darstellung ohne unerwünschte Farbstiche liefert. Dank seiner glänzenden Oberfläche werden die Kontraste in Ihrem Bild mit beeindruckender Wirkung hervorgehoben.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Ilford Black &amp; White Art Paper</h3><p>Ilford ist ein führender Hersteller von Schwarz-Weiß-Fotopapier und bietet eine große Auswahl an hochwertigen Papieren, die speziell für anspruchsvolle Fotografen und Künstler entwickelt wurden. Ilford-Papiere sind für ihre außergewöhnliche Farbwiedergabe bekannt und zeichnen sich durch tiefe Schwarztöne, strahlendes Weiß und feine Grauabstufungen aus, wodurch sie sich ideal für die klassische Schwarz-Weiß-Fotografie und den künstlerischen Ausdruck eignen.</p><h3>Hauptmerkmale</h3><ul><li><b>Silberhalogenid-Technologie:</b> Gewährleistet eine präzise Detailwiedergabe und beeindruckende Bildtiefe. </li><li><b>Vielseitige Optionen:</b> Erhältlich in Multigrade-, faserbasierten (FB) und harzbeschichteten (RC) Varianten, um unterschiedlichen künstlerischen Anforderungen gerecht zu werden.</li><li><b>Tonwertpräzision:</b> Bietet tiefste Schwarztöne, brillante Weißtöne und sanfte Grautöne für außergewöhnlichen Kontrast. </li></ul><h3>Perfekt für</h3><ul><li>Klassische Schwarz-Weiß-Fotografie mit hohem Kontrast</li><li>Kunstdrucke mit präzisen Details und neutralen Tönen</li><li>Porträts und Landschaften mit feinen Grauabstufungen</li><li>Ausstellungsdrucke mit langlebiger Archivqualität</li><li>Künstlerische Projekte, die hochwertige Materialien erfordern</li></ul><h3>Kurzübersicht</h3><ul><li>< b>Hochwertiges Papier:</b> Für den professionellen Einsatz mit Silberhalogenid-Technologie konzipiert.</li><li><b>Hervorragende Tonwerte:</b> Tiefes Schwarz, strahlendes Weiß und sanfte Grauabstufungen.</li><li><b>Verschiedene Oberflächen:</b> Erhältlich in den Varianten glänzend, matt, perlmutt und auf Faserbasis.</li></ul></div>"
+        },
+        "ibwm": {
+            "name": "Ilford S/W-Papier, Matt",
+            "description": "Ilford-Papier ist ein reines Schwarz-Weiß-Papier, das tiefe Schwarztöne und eine farbneutrale Darstellung ohne unerwünschte Farbstiche liefert. Dank seiner matten Oberfläche werden die Kontraste in Ihren Kunstwerken mit beeindruckender Wirkung hervorgehoben.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Ilford Black &amp; White Art Paper</h3><p>Ilford ist ein führender Hersteller von Schwarz-Weiß-Fotopapier und bietet eine große Auswahl an hochwertigen Papieren, die speziell für anspruchsvolle Fotografen und Künstler entwickelt wurden. Ilford-Papiere sind für ihre außergewöhnliche Farbwiedergabe bekannt und zeichnen sich durch tiefe Schwarztöne, strahlendes Weiß und feine Grauabstufungen aus, wodurch sie sich ideal für die klassische Schwarz-Weiß-Fotografie und den künstlerischen Ausdruck eignen.</p><h3>Hauptmerkmale</h3><ul><li><b>Silberhalogenid-Technologie:</b> Gewährleistet eine präzise Detailwiedergabe und beeindruckende Bildtiefe. </li><li><b>Vielseitige Optionen:</b> Erhältlich in Multigrade-, faserbasierten (FB) und harzbeschichteten (RC) Varianten, um unterschiedlichen künstlerischen Anforderungen gerecht zu werden.</li><li><b>Tonwertpräzision:</b> Bietet tiefste Schwarztöne, brillante Weißtöne und sanfte Grautöne für außergewöhnlichen Kontrast. </li></ul><h3>Perfekt für</h3><ul><li>Klassische Schwarz-Weiß-Fotografie mit hohem Kontrast</li><li>Kunstdrucke mit präzisen Details und neutralen Tönen</li><li>Porträts und Landschaften mit feinen Grauabstufungen</li><li>Ausstellungsdrucke mit langlebiger Archivqualität</li><li>Künstlerische Projekte, die hochwertige Materialien erfordern</li></ul><h3>Kurzübersicht</h3><ul><li>< b>Hochwertiges Papier:</b> Für den professionellen Einsatz mit Silberhalogenid-Technologie konzipiert.</li><li><b>Hervorragende Tonwerte:</b> Tiefes Schwarz, strahlendes Weiß und sanfte Grauabstufungen.</li><li><b>Verschiedene Oberflächen:</b> Erhältlich in den Varianten glänzend, matt, perlmutt und auf Faserbasis.</li></ul></div>"
+        },
+        "baryta": {
+            "name": "Barytpapier",
+            "description": "Barytpapier ist ein absoluter Klassiker unter den Druckmedien und für seine Qualität auf Galerie-Niveau bekannt. Der Schwarz-Weiß-Druck besticht durch seine außergewöhnliche Papierstärke und eine glänzende Oberfläche, die dank der Barytstruktur einen seidigen Glanz erhält.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Ilford Baryta-Papier</h3><p>Ilford Baryta-Papier ist ein hochwertiges Kunstdruckpapier, das für künstlerische Schwarz-Weiß-Arbeiten und hochwertige Drucke entwickelt wurde. Mit seiner traditionellen Bariumsulfatbeschichtung bietet es ein außergewöhnliches Erscheinungsbild mit beeindruckender Tiefe, strahlendem Weiß und samtigem Schwarz, wodurch es sich besonders für kontrastreiche Kunstwerke eignet.</p><h3>Hauptmerkmale</h3><ul><li><b>Bariumsulfatbeschichtung:</b> Verleiht eine klassische Barytstruktur für ein edles und zeitloses Erscheinungsbild. </li><li><b>Außergewöhnliche Tonwertwiedergabe:</b> Präzise Wiedergabe von Graustufen und Tonwerten, ideal für detaillierte Kunstwerke.</li><li><b>Hohe Archivierungsqualität:</b> Langlebig und konservierend, perfekt für Drucke in Museums- und Galeriequalität. </li></ul><h3>Perfekt für</h3><ul><li>Schwarz-Weiß-Kunstwerke mit hohem Kontrast</li><li>Kunstdrucke in Museums- und Galeriequalität</li><li>Reproduktionen klassischer Kunstwerke</li><li>Detaillierte monochrome Zeichnungen oder Illustrationen</li><li>Kunstprojekte, die Langlebigkeit und Eleganz erfordern</li></ul><h3>Kurzübersicht</h3><ul><li><b>Premium-Papier:</b> :</b> Traditionelle Bariumsulfatbeschichtung für ein edles Finish.</li><li><b>Farbtreue:</b> Samtige Schwarztöne, strahlendes Weiß und hervorragende Farbtiefe.</li><li><b>Archivqualität:</b> Langlebig und ideal für langlebige Kunstdrucke.</li></ul></div>"
+        },
+        "hfapearl": {
+            "name": "Hahnemühle FineArt Pearl",
+            "description": "Eine leicht strukturierte Oberfläche mit seidigem Glanz. Dank seiner beeindruckenden Tiefe und präzisen Kontraste eignet sich dieses Papier hervorragend für Farb- und Schwarz-Weiß-Motive.",
+            "additionalInfo": "Hochweiß | 285 g/m² | 100 % Alpha-Cellulose",
+            "detailedDescription": "<div><h3>Hahnemühle FineArt Pearl</h3><p>Hahnemühle FineArt Pearl ist ein hochwertiges, 285 g/m² schweres, zellulosebasiertes Inkjet-Papier, das speziell für Kunstanwendungen entwickelt wurde. Es verfügt über eine strahlend weiße Oberfläche, eine dezente Textur und eine seidig glatte Haptik. Die hochwertige Perlglanzbeschichtung sorgt für ein edles Finish mit beeindruckender Farb- und Detailwiedergabe, tiefen Schwarztönen und hohem Kontrast.</p><h3>Hauptmerkmale</h3><ul><li><b>Perlglanz-Finish:</b> Verleiht ein luxuriöses Aussehen, das an traditionelle Silbergelatine-Fotopapiere erinnert.</li><li><b>Archivierungsqualität:</b> Säure- und ligninfrei, gewährleistet maximale Alterungsbeständigkeit für eine langfristige Aufbewahrung. </li><li><b>Außergewöhnliche Detailtreue:</b> Liefert eine hervorragende Farbwiedergabe, tiefes Schwarz und präzise Details für Schwarz-Weiß- und Farbdrucke. </li></ul><h3>Perfekt für</h3><ul><li>Hochwertige Reproduktionen von Kunstwerken mit intensiven Farben und feinen Details</li><li>Schwarz-Weiß-Kunstwerke mit tiefem Schwarz und hohem Kontrast</li><li>Fotokunstprojekte, die eine luxuriöse Präsentation erfordern</li><li>Ausstellungen, Galerien und limitierte Auflagen</li><li>Langzeitarchivierung von Kunstdrucken</li></ul><h3>Kurzübersicht</h3><ul><li><b>Gewicht:</b> 285 g/m² Zellulosepapier mit Perlmutt-Finish</li><li><b>Archivierungsqualität:</b> Säure- und ligninfrei für Langlebigkeit</li><li><b>Anwendungen: </b>Ideal für monochrome und Farbdrucke in Galeriequalität</li></ul></div>"
+        },
+        "hwilliamturner": {
+            "name": "Hahnemühle William Turner",
+            "description": "Strukturiertes, mattes Aquarellpapier mit einem natürlichen Weißton. Es eignet sich besonders gut für authentische Porträts und außergewöhnliche Motivkonzepte.",
+            "additionalInfo": "Natural White | 310 g/m² | 100 % Baumwolle | Weiße Umrandung erforderlich",
+            "detailedDescription": "<div><h3>Hahnemühle William Turner</h3><p>Hahnemühle William Turner ist ein hochwertiges, traditionell gefertigtes Büttenpapier, das für Kunstdrucke und Reproduktionen entwickelt wurde. Mit einem Gewicht von 310 g/m² und einer starken filzartigen Struktur bietet es eine unverwechselbare Haptik und außergewöhnliche visuelle Tiefe. Die matte Inkjet-Beschichtung sorgt für eine beeindruckende Farbwiedergabe, präzise Details, tiefe Schwarztöne und hohen Kontrast.</p><h3>Hauptmerkmale</h3><ul><li><b>Klassische Textur:</b> Die ausgeprägte filzartige Struktur verleiht dem Papier eine künstlerische Note, die an Aquarell- oder Kupferdruckpapiere erinnert. </li><li><b>Archivqualität:</b> Aus 100 % Baumwolle, frei von optischen Aufhellern, säure- und ligninfrei für maximale Alterungsbeständigkeit.</li><li><b>Außergewöhnliche Detailtreue:</b> Die matte Beschichtung sorgt für brillante Farben, tiefes Schwarz und scharfe Details für professionelle Ergebnisse. </li></ul><h3>Perfekt für</h3><ul><li>Reproduktionen von Gemälden und Zeichnungen mit starkem künstlerischem Ausdruck</li><li>Kunstwerke mit intensiver Textur und dreidimensionalen Effekten</li><li>Schwarz-Weiß-Drucke mit tiefen Kontrasten und feinen Abstufungen</li><li>Limitierte Auflagen und Ausstellungsdrucke in Museumsqualität</li><li>Kunstprojekte, die Langlebigkeit und archivtaugliche Materialien erfordern</li></ul><h3>Schnelle Überblick</h3><ul><li><b>Gewicht:</b> 310 g/m² handgeschöpftes Papier mit ausgeprägter Textur</li><li><b>Archivqualität:</b> Säure- und ligninfrei für eine lange Haltbarkeit</li><li><b>Anwendungen:</b> Ideal für Kunstreproduktionen, Schwarz-Weiß-Drucke und limitierte Auflagen</li></ul></div>"
+        },
+        "hphotorag": {
+            "name": "Hahnemühle Photo Rag",
+            "description": "FineArt-Papier aus 100 % Baumwolle mit feiner, weicher Oberflächenstruktur. Es ist vielseitig und für alle Arten von Motiven geeignet.",
+            "additionalInfo": "Weiß | 308 g/m² | 100 % Baumwolle | Weißer Rand obligatorisch",
+            "detailedDescription": "<div><h3>Hahnemühle Photo Rag®</h3><p>Hahnemühle Photo Rag® ist eines der beliebtesten FineArt-Papiere der Welt und für seine Vielseitigkeit und außergewöhnliche Qualität bekannt. Es besteht aus 100 % Baumwolle und zeichnet sich durch eine leicht filzige Struktur und eine angenehm weiche Haptik aus. Mit einem Gewicht von 308 g/m² (auch in anderen Gewichten erhältlich) vereint es Stabilität, hervorragende Druckqualität und künstlerischen Ausdruck.</p><h3>Hauptmerkmale</h3><ul><li><b>Hochwertige Mattbeschichtung:</b> Liefert brillante Farben, tiefes Schwarz, hervorragenden Kontrast und beeindruckende Details. </li><li><b>Archivqualität:</b> Säure- und ligninfrei, gewährleistet eine langfristige Haltbarkeit für Kunstwerke, die ihre Qualität über Jahrzehnte beibehalten müssen.</li><li><b>Weiche Textur:</b> Die leichte Filzstruktur sorgt für eine edle, natürliche Haptik und verbessert die visuelle Tiefe. </li></ul><h3>Perfekt für</h3><ul><li>Feine Detailwiedergaben von Gemälden und Zeichnungen</li><li>Hochwertige Schwarz-Weiß-Kunstwerke mit tiefen Schwarztönen</li><li>Fotokunstprojekte mit lebendigen Farben und hoher Präzision</li><li>Limitierte Auflagen und Ausstellungen in Museumsqualität</li><li>Kunstwerke, die eine natürliche Haptik und archivtaugliche Materialien erfordern</li></ul><h3>Kurzübersicht</h 3><ul><li><b>Material:</b> 100 % Baumwollpapier mit weicher Haptik und leichter Filzstruktur</li><li><b>Beschichtung:</b> Hochwertige matte Beschichtung für lebendige Farben und präzise Details</li><li><b>Haltbarkeit:</b> Säure- und ligninfrei für maximale Alterungsbeständigkeit</li><li><b>Anwendungen: </b> Ideal für Kunstreproduktionen, Schwarz-Weiß-Drucke und Fotoprojekte</li></ul></div>"
+        },
+        "htorchon": {
+            "name": "Hahnemühle Torchon",
+            "description": "FineArt-Papier mit matter, grob strukturierter Oberfläche und angenehmer Haptik. Ideal für extravagante Motive mit dreidimensionalem Effekt.  ",
+            "additionalInfo": "Hochweiß | 285 g/m² | 100 % Alphacellulose",
+            "detailedDescription": "<div><h3>Hahnemühle Torchon</h3><p>Hahnemühle Torchon ist ein hochweißes, 285 g/m² schweres, zellulosebasiertes FineArt-Inkjetpapier, das Ihrem Kunstwerk eine einzigartige Haptik und beeindruckende dreidimensionale Tiefe verleiht. Die grob strukturierte, filzartige Oberfläche eignet sich ideal für Kunstanwendungen, während die hochwertige matte Inkjet-Beschichtung für brillante Farben, perfekte Details und tiefes Schwarz sorgt.</p><h3>Hauptmerkmale</h3><ul><li><b>Unverwechselbare Textur:</b> Die grobe Filzstruktur verleiht den Drucken einen lebendigen, taktilen Charakter. </li><li><b>Archivierungsqualität:</b> Säure- und ligninfrei, entspricht den ISO 9706-Standards für langfristige Haltbarkeit.</li><li><b>Außergewöhnliche Detailtreue:</b> Die matte Beschichtung sorgt für eine hervorragende Farbwiedergabe, tiefes Schwarz und präzise Details. </li></ul><h3>Perfekt für</h3><ul><li>Reproduktionen von Aquarellen und anderen klassischen Kunstwerken</li><li>Kunstdrucke mit starker Textur und dreidimensionalen Effekten</li><li>Schwarz-Weiß-Kunstwerke mit hohem Kontrast</li><li>Limitierte Auflagen und Ausstellungsstücke in Museumsqualität</li><li>Digitale Kunstwerke, die eine spezielle Oberflächenstruktur erfordern</li></ul><h3>Kurzübersicht</h3><ul ><li><b>Material:</b> Zellulosebasiertes FineArt-Papier mit grober Filzstruktur (285 g/m²)</li><li><b>Beschichtung:</b> Hochwertige matte Beschichtung für lebendige Farben und präzise Details</li><li><b>Haltbarkeit:</b> Säure- und ligninfrei für maximale Alterungsbeständigkeit</li><li><b>Anwendungen: </b> Ideal für Aquarellreproduktionen, monochrome Drucke und digitale Kunstwerke</li></ul></div>"
+        },
+        "hfabaryta": {
+            "name": "Hahnemühle FineArt Baryta",
+            "description": "FineArt-Papier mit glänzender Oberfläche und klassischer Barytstruktur. Dank seiner beeindruckenden Farbtiefe und seines hohen Kontrastumfangs eignet es sich hervorragend für Farb- und Schwarz-Weiß-Motive.",
+            "additionalInfo": "Hochweiß | 325 g/m² | 100 % Alpha-Cellulose",
+            "detailedDescription": "<div><h3>Hahnemühle FineArt Baryta</h3><p>Hahnemühle FineArt Baryta ist ein hochweißes, 325 g/m² schweres, zellulosebasiertes FineArt-Inkjetpapier, das den traditionellen Look von analogem Barytpapier mit moderner Inkjet-Technologie verbindet. Die deutlich sichtbare Filzstruktur sorgt für eine taktile Oberflächenstruktur und verleiht Kunstwerken eine beeindruckende dreidimensionale Tiefe und visuelle Präsenz.</p><h3>Hauptmerkmale</h3><ul><li><b>Glanzbeschichtung:</b> Liefert lebendige Farben, tiefes Schwarz und hohen Kontrast für hervorragende Druckergebnisse. </li><li><b>Bariumsulfatgehalt:</b> Verstärkt den klassischen Baryt-Look und eignet sich ideal für Kunstreproduktionen und limitierte Auflagen.</li><li><b>Archivierungsqualität:</b> Säure- und ligninfrei, entspricht den ISO 9706-Standards für außergewöhnliche Langlebigkeit und Haltbarkeit. </li></ul><h3>Perfekt für</h3><ul><li>Kunstwerke mit intensiven Farben und feinen Details</li><li>Schwarz-Weiß-Drucke mit tiefem Schwarz und hohem Kontrast</li><li>Reproduktionen klassischer Gemälde und Fotografien</li><li>Limitierte Auflagen und Ausstellungsstücke in Museumsqualität</li><li>Kunstwerke, die einen anspruchsvollen, traditionellen Look</li></ul><h3>Kurzübersicht</h3><ul><li><b>Material:</b> Hochweißes 325 g/m²-Papier auf Zellulosebasis</li><li><b>Beschichtung:</b> Glänzende Oberfläche für brillante Farben und tiefes Schwarz</li><li><b>Haptik: </b>Traditioneller Baryt-Look in Kombination mit moderner Tintenstrahltechnologie</li><li><b>Haltbarkeit:</b> Säure- und ligninfrei für maximale Alterungsbeständigkeit (ISO 9706)</li><li><b>Anwendungen:</b> Ideal für Kunstreproduktionen, Schwarz-Weiß-Drucke und Ausstellungen</li></ul></div>"
+        },
+        "hpsilkbarytax": {
+            "name": "Hahnemühle Photo Silk Baryta X",
+            "description": "Papier mit einer seidig glänzenden Oberfläche und einer dezenten Textur. Es bietet eine breite Farbskala mit tiefen Schwarztönen sowie eine hohe Farbdichte und Brillanz.",
+            "additionalInfo": "Reinweiß | 310 g/m² | 100 % Alpha-Cellulose",
+            "detailedDescription": "<div><h3>Hahnemühle Photo Silk Baryta X</h3><p>Hahnemühle Photo Silk Baryta X ist ein hochwertiges 310 g/m² schweres FineArt-Papier auf Zellulosebasis, das den klassischen Look von traditionellem Silberhalogenid-Fotopapier mit moderner Inkjet-Technologie verbindet. Die seidig glänzende Oberfläche und die cremeweiße Basis verleihen Kunstwerken ein elegantes Aussehen und eine außergewöhnliche Tiefe.</p><h3>Hauptmerkmale</h3><ul><li><b>Barytbeschichtung:</b> Sorgt für brillante Farben, samtige Schwarztöne und eine beeindruckende Detailwiedergabe für luxuriöse Präsentationen. </li><li><b>Breites Farbspektrum:</b> Bietet eine hohe Farbdichte und -präzision und ist somit ideal für detaillierte Kunstwerke.</li><li><b>Archivierungsqualität:</b> Säure- und ligninfrei, gewährleistet Haltbarkeit und Eignung für die Langzeitarchivierung. </li></ul><h3>Perfekt für</h3><ul><li>Kunstwerke mit lebendigen Farben und feinen Details</li><li>Schwarz-Weiß-Drucke mit tiefem Schwarz und hohem Kontrast</li><li>Reproduktionen klassischer Gemälde oder Fotografien in Galeriequalität</li><li>Limitierte Auflagen und Displays in Museumsqualität</li><li>Digitale Kunstwerke, die eine glatte, seidiges Finish</li></ul><h3>Kurzübersicht</h3><ul><li><b>Material:</b> 310 g/m² schweres, satiniertes Papier auf Zellulosebasis</li><li><b>Barytbeschichtung: </b>sorgt für lebendige Farben und samtiges Schwarz</li><li><b>Farbpräzision:</b> Hervorragende Detailwiedergabe und breiter Farbraum</li><li><b>Haltbarkeit:</b> Säure- und ligninfrei für maximale Alterungsbeständigkeit</li><li><b>Anwendungen:</b> Ideal für Kunstreproduktionen, Schwarz-Weiß-Drucke und digitale Kunst</li></ul></div>"
+        },
+        "carchesarag": {
+            "name": "Canson Arches Aquarelle Rag",
+            "description": "Reines weißes Papier mit matter Aquarellstruktur bietet eine außergewöhnliche Farbwiedergabe und einen breiten Tonwertumfang.",
+            "additionalInfo": "Reinweiß | 310 g/m² | 100% Baumwolle",
+            "detailedDescription": "<div><h3>Canson Arches Aquarelle Rag</h3><p>Canson Arches Aquarelle Rag ist ein hochwertiges 310 g/m² schweres Kunstdruckpapier aus 100 % Baumwolle, das für Kunstreproduktionen und digitale Kunstwerke entwickelt wurde. Inspiriert von traditionellem Aquarellpapier weist es eine natürliche, filzgeprägte Textur auf, die an klassisches handgeschöpftes Papier erinnert und außergewöhnliche Stabilität und künstlerische Tiefe bietet.</p><h3>Hauptmerkmale</h3><ul><li><b>Natürliche Textur:</b> Die filzgeprägte Oberfläche bietet eine taktile Qualität und verbessert die künstlerische Darstellung. </li><li><b>Matte Oberfläche:</b> Gewährleistet eine präzise Farbwiedergabe, tiefes Schwarz und feine Details für professionelle Ergebnisse.</li><li><b>Archivierungsqualität:</b> Frei von optischen Aufhellern (OBAs), garantiert einen natürlichen Weißton und eine lange Haltbarkeit der Drucke.</li><li><b>Traditionelle Handwerkskunst:</b> Hergestellt im Rundsiebverfahren für ein klassisches, hochwertiges Finish. </li></ul><h3>Perfekt für</h3><ul><li>Reproduktionen klassischer Gemälde und Aquarelle</li><li>Kunstwerke mit intensiven Farben und feinen Texturen</li><li>Schwarz-Weiß-Drucke mit hohem Kontrast und Detailreichtum</li><li>Limitierte Auflagen und Ausstellungsstücke in Museumsqualität</li><li>Digitale Kunstwerke, die eine traditionelle Ästhetik erfordern</li></ul><h3>Kurzübersicht</h3><ul><li><b Material:</b> Hochwertiges FineArt-Papier aus 100 % Baumwolle (310 g/m²)</li><li><b>Textur:</b> Filzprägung für künstlerische Tiefe</li><li><b>Beschichtung:</b> Mattes Finish für lebendige Farben und präzise Details</li><li><b>Haltbarkeit:</b> Frei von optischen Aufhellern für maximale Archivierungsqualität</li></ul></div>"
+        },
+        "cbarytaprestige2": {
+            "name": "Canson Baryta Prestige II",
+            "description": "Kunstdruckpapier mit glänzender Oberfläche und ausgeprägter Barytstruktur. Dank seiner hohen Kontrasttiefe und der lebendigen Farbwiedergabe eignet es sich perfekt für Farb- und Schwarz-Weiß-Motive.",
+            "additionalInfo": "Natur Weiß | 340 g/m² | Alpha-Cellulose und Baumwolle",
+            "detailedDescription": "<div><h3>Canson Infinity Baryta Prestige II Papier</h3><p>Canson Infinity Baryta Prestige II ist ein hochwertiges 340 g/m² Fine-Art-Papier, das für die anspruchsvollsten Kunstwerke und Drucke entwickelt wurde. Es verbindet die Ästhetik traditioneller Barytpapiere aus der Dunkelkammer mit moderner Tintenstrahltechnologie und verfügt über eine Bariumsulfatbeschichtung, die für ein natürliches Weiß ohne optische Aufheller (OBAs) sorgt. Dies gewährleistet eine außergewöhnliche Farbwiedergabe, tiefes Schwarz und reines Weiß.</p><h3>Hauptmerkmale</h3><ul><li><b>Bariumsulfatbeschichtung:</b> Sorgt für natürliches Weiß und verbessert die Farbbrillanz und Farbtiefe. </li><li><b>Seidig glatte Oberfläche:</b> Liefert beeindruckende Details und einen erweiterten Tonwertumfang für Schwarz-Weiß- und Farbdrucke.</li><li><b>Archivierungsqualität:</b> Das aus einer Mischung aus Alphacellulose und Baumwolle hergestellte Papier ist säurefrei, FSC-zertifiziert und entspricht den ISO 9706-Standards für langfristige Haltbarkeit. </li></ul><h3>Perfekt für</h3><ul><li>Kunstwerke mit intensiven Farben und präzisen Details</li><li>Schwarz-Weiß-Drucke mit tiefem Schwarz und hohem Kontrast</li><li>Reproduktionen klassischer Gemälde und Fotografien</li><li>Limitierte Auflagen und Ausstellungsstücke in Museumsqualität</li><li>Kunstwerke, die einen anspruchsvollen, traditionellen Look</li></ul><h3>Kurzübersicht</h3><ul><li><b>Material:</b> Premium-FineArt-Papier mit 340 g/m² und Bariumsulfatbeschichtung</li><li><b>Farbpräzision: </b> Natürliches Weiß ohne optische Aufheller (OBAs)</li><li><b>Haltbarkeit:</b> Säurefrei, FSC-zertifiziert und archivbeständig (ISO 9706)</li><li><b>Anwendungen:</b> Ideal für Schwarz-Weiß-Druck, Farbdruck und Kunstreproduktionen</li></ul></div>"
+        },
+        "cragphotographique": {
+            "name": "Canson Rag Photographique",
+            "description": "Ein vielseitiges Papier mit einer glatten, tief matten Oberfläche und einer sehr subtilen Textur.",
+            "additionalInfo": "Leuchtendes Weiß mit warmem Unterton | 310 g/m² | 100 % Baumwolle",
+            "detailedDescription": "<div><h3>Canson Infinity Rag Photographique</h3><p>Canson Infinity Rag Photographique ist ein hochwertiges Kunstdruckpapier aus 100 % Baumwolle, das für Kunstreproduktionen und Digitaldrucke entwickelt wurde. Die außergewöhnlich glatte, matte Oberfläche fühlt sich weich und luxuriös an, während die ultraweiße Farbe durch natürliche Mineralien ohne den Einsatz von optischen Aufhellern (OBAs) erzielt wird.</p><h3>Hauptmerkmale</h3><ul><li><b>Ultra-glatte Oberfläche:</b> Bietet ein sinnliches, raffiniertes Finish, ideal für hochwertige Kunstwerke. </li><li><b>Museumsqualität:</b> Erfüllt die höchsten Archivierungsstandards (ISO 9706) und gewährleistet Langlebigkeit und langfristige Aufbewahrung.</li><li><b>Außergewöhnliche Dmax-Werte:</b> Bietet tiefste Schwarztöne und präzise Detailwiedergabe für Farb- und Schwarz-Weiß-Kunstwerke. </li></ul><h3>Perfekt für</h3><ul><li>Hochwertige Reproduktionen von Gemälden und Zeichnungen</li><li>Kunstwerke mit intensiven Farben und präzisen Details</li><li>Schwarz-Weiß-Drucke mit tiefen Schwarztönen und weichen Grautönen</li><li>Limitierte Auflagen und Ausstellungsstücke in Museumsqualität</li><li>Digitale Kunstwerke, die eine glatte, luxuriöse Oberfläche</li></ul><h3>Kurzübersicht</h3><ul><li><b>Material:</b> 100 % Baumwollpapier mit einer ultra-glatten, matten Oberfläche</li><li><b>Farbpräzision: </b>Außergewöhnliche Farbwiedergabe und einer der höchsten Dmax-Werte auf dem Markt</li><li><b>Haltbarkeit:</b> Museumsqualität, frei von optischen Aufhellern (OBAs)</li><li><b>Anwendungen:</b> Ideal für Kunstreproduktionen, Schwarz-Weiß-Drucke und limitierte Auflagen</li></ul></div>"
+        },
+        "efacottonsmooth": {
+            "name": "Epson Fine Art Cotton Smooth Natural",
+            "description": "Warmtonpapier mit glatter, natürlicher Oberfläche. Es ist vielseitig und für alle Arten von Motiven geeignet.",
+            "additionalInfo": "Natur Weiß | 250 g/m² | 100 % Baumwolle",
+            "detailedDescription": "<div><h3>Epson Fine Art Cotton Smooth Natural Paper</h3><p>Epson Fine Art Cotton Smooth Natural ist ein Premium-Kunstdruckpapier aus 100 % Baumwolle, das für hochwertige Kunstdrucke entwickelt wurde. Seine glatte, natürliche Oberfläche und der warme Weißton, frei von optischen Aufhellern (OBA-frei), sorgen für eine authentische und elegante Präsentation von Kunstwerken. Die matte Beschichtung sorgt für eine außergewöhnliche Farbwiedergabe, tiefes Schwarz und sanfte Farbabstufungen, sodass selbst feinste Details präzise wiedergegeben werden können. </p><h3>Hauptmerkmale</h3><ul><li><b>Natürliche Oberfläche:</b> Glatte Textur mit einem warmen Weißton für eine zeitlose Ästhetik.</li><li><b>Außergewöhnliche Details:</b> Die matte Beschichtung sorgt für lebendige Farben, tiefes Schwarz und präzise Farbabstufungen.</li><li><b>Archivierungsqualität:</b> Erfüllt die höchsten Standards für Langlebigkeit und stellt sicher, dass Kunstwerke über Jahrzehnte hinweg ihre Qualität behalten. </li></ul><h3>Perfekt für</h3><ul><li>Kunstreproduktionen mit sanften Farbverläufen und präzisen Details</li><li>Schwarz-Weiß-Kunstwerke mit tiefen Kontrasten und feinen Abstufungen</li><li>Digitale Gemälde oder Illustrationen, die ein natürliches Finish erfordern</li><li>Limitierte Auflagen und Ausstellungsstücke in Museumsqualität</li><li>Kunstwerke, die eine weiche Ästhetik und maximale Haltbarkeit erfordern</li></ul><h3>Kurzübersicht</h3 ><ul><li><b>Material:</b> 100 % Baumwollpapier mit glatter, natürlicher Oberfläche (300 g/m²)</li><li><b>Farbpräzision:</b> Warmweißer Farbton ohne optische Aufheller (OBA-frei)</li><li><b>Haltbarkeit:</b> Archivqualität für langlebige Drucke</li></ul></div>"
+        },
+        "efacottontextured": {
+            "name": "Epson Fine Art Cotton Textured Bright",
+            "description": "Reinweißes Fine Art-Papier mit dezenter Aquarellstruktur und hervorragender Farbwiedergabe.",
+            "additionalInfo": "Reinweiß | 300 g/m² | 100 % Baumwolle",
+            "detailedDescription": "<div><h3>Epson Fine Art Cotton Textured Paper Bright</h3><p>Epson Fine Art Cotton Textured Bright ist ein hochwertiges, archivfestes Fine Art Papier aus 100 % Baumwolle mit einem Gewicht von 300 g/m². Mit seiner dezenten Textur, die an Aquarellpapier erinnert, und einem reinen Weißton bietet es eine elegante Oberfläche für künstlerische Anwendungen. Die matte Oberfläche gewährleistet eine originalgetreue Wiedergabe von Farben, Tönen und Details und eignet sich daher ideal für lebendige und präzise Kunstwerke.</p><h3>Hauptmerkmale</h3><ul><li><b>Dezente Textur:</b> Die von Aquarellpapier inspirierte Oberfläche verleiht dem Kunstwerk eine unverwechselbare künstlerische Note.</li><li><b>Außergewöhnliche Farbwiedergabe:</b> Die matte Beschichtung sorgt für lebendige Farben, tiefes Schwarz und präzise Farbabstufungen. </li><li><b>Archivierungsqualität:</b> Säurefrei und kaltgepresst, gewährleistet eine langfristige Haltbarkeit für Kunstwerke, die über Generationen hinweg erhalten bleiben sollen. </li></ul><h3>Perfekt für</h3><ul><li>Reproduktionen von Aquarellen oder klassischen Gemälden</li><li>Kunstwerke mit feinen Details und lebendigen Farben</li><li>Schwarz-Weiß-Kunstwerke mit hohem Kontrast und präziser Farbwiedergabe</li><li>Limitierte Auflagen und Ausstellungen in Museumsqualität</li><li>Künstlerische Projekte, die eine unverwechselbare Textur erfordern</li></ul><h3>Kurzübersicht</h3><ul>< <li><b>Material:</b> 100 % hochwertiges Baumwoll-FineArt-Papier (300 g/m²)</li><li><b>Oberfläche: </b> dezent strukturierte Oberfläche, inspiriert von Aquarellpapier</li><li><b>Farbpräzision:</b> Mattbeschichtung für lebendige Farben und präzise Details</li><li><b>Haltbarkeit:</b> säurefrei und archivfest für langlebige Kunstwerke</li></ul></div>"
+        },
+        "etraditionalpp": {
+            "name": "Epson Traditional Photo Paper",
+            "description": "Papier mit einer glatten, seidenglänzenden Oberfläche beeindruckt mit tiefen, satten Schwarztönen und eignet sich für eine Vielzahl von Motiven.",
+            "additionalInfo": "Hochweiß | 300 g/m² | 100 % Alpha-Cellulose",
+            "detailedDescription": "<div><h3>Epson Fine Art Cotton Textured Bright</h3><p>Epson Fine Art Cotton Textured Bright ist ein hochwertiges, archivfestes FineArt-Papier aus 100 % Baumwolle mit einem Gewicht von 300 g/m². Mit seiner dezent ausgeprägten Textur, die an Aquarellpapier erinnert, und einem reinen Weißton bietet es eine elegante Oberfläche für künstlerische Anwendungen. Die matte Oberfläche sorgt für eine naturgetreue Wiedergabe von Farben, Tönen und Details und eignet sich ideal für lebendige und präzise Kunstwerke.</p><h3>Hauptmerkmale</h3><ul><li><b>Dezente Textur:</b> Die von Aquarellpapier inspirierte Oberfläche verleiht eine unverwechselbare künstlerische Note. </li><li><b>Breites Farbspektrum:</b> Bietet lebendige Farben, tiefes Schwarz und sanfte Farbabstufungen für detaillierte Reproduktionen.</li><li><b>Archivierungsqualität:</b> Säurefrei und kaltgepresst, gewährleistet eine langfristige Haltbarkeit für Kunstwerke, die über Generationen hinweg erhalten bleiben. </li></ul><h3>Perfekt für</h3><ul><li>Reproduktionen von Aquarellen oder klassischen Gemälden</li><li>Kunstwerke mit feinen Details und lebendigen Farben</li><li>Schwarz-Weiß-Kunstwerke mit hohem Kontrast und präziser Farbwiedergabe</li><li>Limitierte Auflagen und Ausstellungen in Museumsqualität</li><li>Künstlerische Projekte, die eine besondere Textur erfordern</li></ul><h3>Kurzübersicht</h3><ul ><li><b>Material:</b> Hochwertiges FineArt-Papier aus 100 % Baumwolle (300 g/m²)</li><li><b>Oberfläche: </b> dezent strukturierte Oberfläche, inspiriert von Aquarellpapier</li><li><b>Farbpräzision:</b> Mattbeschichtung für lebendige Farben und präzise Details</li><li><b>Haltbarkeit:</b> säurefrei und archivfest für langlebige Kunstwerke</li></ul></div>"
+        },
+        "fineartpaper": {
+            "name": "Fine Art Papier",
+            "description": "Text hier (aktuell copy&paste von WhiteWall)",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription":"Text hier (Hier brauchen wir noch Texte)"
+        },
+        "cprintm": {
+            "name": "Leinwand Print, Matt",
+            "description": "Text hier (aktuell copy&paste von WhiteWall)",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription":"Text hier (Hier brauchen wir noch Texte)"
+        },
+        "cprintg": {
+            "name": "Leinwand Print, Glänzend",
+            "description": "Text hier (aktuell copy&paste von WhiteWall)",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription":"Text hier (Hier brauchen wir noch Texte)"
+        }
+    },
+    "glass": {
+        "glossyfloat": {
+            "name": "Floatglas, Glänzend",
+            "description": "Der Klassiker für Präsentationen aller Art – beeindruckt mit einer glänzenden Oberfläche."
+        },
+        "mattefloat": {
+            "name": "Floatglas, Matt",
+            "description": "Die matte Oberfläche minimiert Reflexionen und ist ideal für Räume mit starker Lichteinstrahlung.."
+        },
+        "acrylicg": {
+            "name": "Acrylglas",
+            "description": "Die matte Oberfläche minimiert Reflexionen und ist ideal für Räume mit starker Lichteinstrahlung.."
+        },
+        "museum": {
+            "name": "Museumsglas",
+            "description": "Hochwertiges Museumsglas mit einer entspiegelten Oberfläche minimiert störende Reflexionen und sorgt für eine naturgetreue Farbwiedergabe. Darüber hinaus schützt es das Kunstwerk vor schädlicher UV-Strahlung.."
+        }
+    },
+    "lamination": {
+        "nolam": {
+            "name": "Keine Schutzlaminierung",
+            "description": "Ihr Kunstwerk wird nicht mit einer Schutzlaminierung versehen."
+        },
+        "glossylam": {
+            "name": "Laminierung, Glänzend",
+            "description": "Fügt eine glänzende Schutzschicht hinzu, die die Farben verstärkt und für ein glänzendes Finish sorgt."
+        },
+        "mattelam": {
+            "name": "Laminierung, Matt",
+            "description": "Bildet eine matte Schutzschicht, die Blendeffekte reduziert und ein dezentes Finish verleiht."
+        }
+    },
+    "materialfinish": {
+        "bsilver": {
+            "name": "Gebürstet, Silber",
+            "description": "Eine gebürstete Silberoberfläche für einen edlen Look."
+        },
+        "bgold": {
+            "name": "Gebürstet, Gold",
+            "description": "Eine gebürstete Goldoberfläche für einen eleganten Look."
+        },
+        "glossy": {
+            "name": "Glänzend",
+            "description": "Eine glänzende Oberfläche, die Farben verstärkt und Glanz verleiht."
+        },
+        "bglossy": {
+            "name": "Gebürstet und glänzend",
+            "description": "Kombiniert eine gebürstete Textur mit einem glänzenden Schimmer für ein einzigartiges Finish."
+        }
+    },
+    "hanginghardware": {
+        "nohangingelements": {
+            "name": "Ohne Aufhängung",
+            "description": "Ihr Kunstwerk wird nicht mit Hängeelementen versehen."
+        },
+        "hangingelements": {
+            "name": "Aufhängung (Einhaker)",
+            "description": "Kleinformate bis zu 25 cm Länge."
+        },
+        "rails": {
+            "name": "Aluminiumschiene",
+            "description": "Wird mit Aluminiumschienen zum Aufhängen geliefert."
+        },
+        "cylindricalspacers": {
+            "name": "Wandstift, 20mm",
+            "description": "Zum Aufhängen sind zylindrische Abstandshalter enthalten."
+        }
+    },
+    "motifborder": {
+        "noborder": {
+            "name": "Ohne weißrand",
+            "description": "Ihr Kunstwerk wird nicht mit einem weißen Rand versehen.."
+        },
+        "border1": {
+            "name": "Weißrand, 1 cm",
+            "description": "Fügt einen 1 cm breiten weißen Rand um Ihr Kunstwerk hinzu."
+        },
+        "border2": {
+            "name": "Weißrand, 2 cm",
+            "description": "Fügt einen 2 cm breiten weißen Rand um Ihr Kunstwerk hinzu."
+        },
+        "border3": {
+            "name": "Weißrand, 3 cm",
+            "description": "Fügt einen 3 cm breiten weißen Rand um Ihr Kunstwerk hinzu."
+        },
+        "border5": {
+            "name": "Weißrand, 5 cm",
+            "description": "Fügt einen 5 cm breiten weißen Rand um Ihr Kunstwerk hinzu."
+        },
+        "border8": {
+            "name": "Weißrand, 8 cm",
+            "description": "Fügt einen 8 cm breiten weißen Rand um Ihr Kunstwerk hinzu."
+        },
+        "border12": {
+            "name": "Weißrand, 12 cm",
+            "description": "Fügt einen 12 cm breiten weißen Rand um Ihr Kunstwerk hinzu."
+        }
+    },
+    "corner": {
+        "normalcorners": {
+            "name": "Normal",
+            "description": "Scharfe Kanten als Standard für ein klassisches Erscheinungsbild."
+        },
+        "slightlyround": {
+            "name": "Leicht abgerundet",
+            "description": "Sanftere Optik mit leicht abgerundeten Ecken."
+        },
+        "stronglyround": {
+            "name": "Stark abgerundet",
+            "description": "Stark abgerundete Ecken für ein modernes und glattes Finish."
+        }
+    },
+    "stretcherframe": {
+        "stretcherframe1": {
+            "name": "20mm Trägerrahmen",
+            "description": "Standard-Trägerrahmen"
+        },
+        "stretcherframe2": {
+            "name": "40mm Trägerrahmen",
+            "description": "Besonders stabil mit Objektcharakter"
+        },
+        "stretcherframe3": {
+            "name": "60mm Trägerrahmen",
+            "description": "Ausgeprägter Objektcharakter mit maximaler Stabilität"
+        }
+    },
+    "sideappearance": {
+        "mirrored": {
+            "name": "Kanten, gespiegelt",
+            "description": "Die Kanten am Trägerrahmen werden gespiegelt."
+        },
+        "wrapped": {
+            "name": "Kanten, umgeschlagen",
+            "description": "Die Kanten am Trägerrahmen werden umgeschlagen."
+        }
+    }
+}

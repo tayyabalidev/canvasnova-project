@@ -1,0 +1,1696 @@
+{
+    "artworkPreview": "Artwork Preview",
+    "customize": "Customize Your Print",
+    "total": "Total",
+    "selectedOptions": "Selected Options",
+    "step": "Step",
+    "of": "of",
+    "availableColor": "Available Colors",
+    "overallSize": "Overall Size",
+    "choosePassePartoutColor": "Choose Passe-Partout Color",
+    "setPassePartoutWidth": "Set Passe-partout Width",
+    "incl": "incl.",
+    "excl": "excl.",
+    "vat": "VAT",
+    "inclFreeShipping": "incl. Free Shipping",
+    "oops": "Oops!",
+    "somethingWrong": "Something went wrong.",
+
+    "passePartoutExplanation": "The passe-partout adds a decorative border around your artwork, emphasizing the motif and creating an elegant presentation.",
+    "acrylglassExplanation": "Acrylic glass protects your artwork while enhancing its depth and color brilliance for a stunning visual effect.",
+    "laminationExplanation": "Lamination secures your print to its backing, ensuring stability and durability while preserving its quality.",
+    "materialfinishExplanation": "Choose the surface finish that best suits your artwork, from glossy to matte for optimal presentation.",
+    "hanginghardwareExplanation": "Select the appropriate wall-mounting hardware for secure and easy installation of your artwork.",
+    "motifborderExplanation": "Adjust the border around your motif to create space between the image and the frame for a balanced look.",
+    "cornerExplanation": "Customize the shape of your artwork's corners, from sharp edges to rounded finishes for a tailored design.",
+
+    "next": "Next",
+    "previous": "Previous",
+    "edit": "Edit",
+    "addToCart": "Add to Cart",
+    "viewSelections": "View Selections",
+    "photoprintC": "Art Prints, color",
+    "photoprintBW": "Art Prints, black & white",
+    "fineart": "Fine Art Prints",
+    "backHome": "Back to Homepage",
+
+    "stepNames": {
+        "product": {
+            "name": "Product"
+        },
+        "size": {
+            "name": "Size"
+        },
+        "mounting": {
+            "name": "Mounting"
+        },        
+        "imagecarrier": {
+            "name": "Image Carrier"
+        },        
+        "frame": {
+            "name": "Frame",
+            "moreDetailed": "Frame Profile & Color"
+        },        
+        "passepartoutcw": {
+            "name": "Passe-Partout",
+            "moreDetailed": "Passe-Partout Color & Width"
+        },        
+        "acrylglass": {
+            "name": "Acrylic Glass"
+        },        
+        "paper": {
+            "name": "Paper"
+        },        
+        "lamination": {
+            "name": "Lamination"
+        },        
+        "materialfinish": {
+            "name": "Material Finish"
+        },        
+        "glass": {
+            "name": "Glass"
+        },        
+        "hanginghardware": {
+            "name": "Hanging Hardware"
+        },        
+        "motifborder": {
+            "name": "Motif Border"
+        },        
+        "corners": {
+            "name": "Corners"
+        },        
+        "stretcherframe": {
+            "name": "Stretcher Frame"
+        },        
+        "sideappearance": {
+            "name": "Side Appearance"
+        },        
+        "summary": {
+            "name": "Summary"
+        },        
+        "passepartoutColor": {
+            "name": "Passe-Partout Color"
+        },        
+        "passepartoutWidth": {
+            "name": "Passepartout Width"
+        },
+        "frameColor": {
+            "name": "Frame Color"
+        }
+    },
+    "product": {
+        "acrylic1": {
+            "name": "Art Print Under Acrylic Glass",
+            "description": "Stable acrylic glass pictures with aluminum backing, perfect for timeless and high-quality presentations.",
+            "detailedDescription": [
+                {
+                    "title": "Processing details: three-layer system for maximum effect",
+                    "text": "<ul><li><b>Acrylic glass:</b> Glossy, crystal-clear acrylic glass in 2 mm, 4 mm or 6 mm thickness enhances the depth effect and makes the colours shine.</li><li><b>High-quality print:</b> Precise exposure on special photo paper that highlights details and colour intensity, sealed with permanently elastic silicone for a bubble- and crack-free lamination.</li><li><b>Alu-Dibond backing:</b> Stable backing with a smooth surface for maximum durability and form stability.</li></ul>"
+                },
+                {
+                    "title": "Why glossy acrylic?",
+                    "text": "<p>Glossy acrylic highlights the colour intensity and contrast of your artwork while creating a fascinating depth effect. It is particularly suitable for colourful and detailed motifs such as abstract art, landscapes or modern designs.</p><ul><li><b>2 mm thickness:</b> Subtle effects for smaller formats or understated presentations.</li><li><b>4 mm thickness:</b> The standard for gallery quality – perfect for medium to large formats.</li><li><b>6 mm thickness:</b> Maximum depth effect for impressive 3D effects with exclusive works of art.</li></ul>"
+                },
+                {
+                    "title": "Custom formats",
+                    "text": "<p>Every work of art is produced to the millimetre according to your specifications – from small formats to impressive XXL sizes.</p><ul><li><b>Minimum size:</b> 9 x 9 cm</li><li><b>Maximum size:</b><ul><li>240 x 122 cm for 2 mm thickness</li><li>195 x 122 cm for 4 mm thickness</li><li>180 x 122 cm for 6 mm thickness</li></ul></li></ul><p>Whether square, panorama or round format – your art will be presented exactly as you imagine it.</p>"
+                },
+                {
+                    "title": "Which artworks are suitable for acrylic glass?",
+                    "text": "Glossy acrylic glass is ideal for vibrant, colour-intensive motifs that are to be enhanced by the luminosity and depth of the material. Abstract works, urban scenes or detailed nature motifs particularly benefit from the brilliant appearance. For works with subtle colours or a minimalist style, a matte surface can also be chosen to avoid reflections and achieve a calm effect."
+                },
+                {
+                    "title": "Longevity and protection",
+                    "text": "The durable silicone seal protects your artwork from bubbles and cracks, while the acrylic glass is scratch-resistant and shatterproof. The combination of high-quality materials ensures that your art will shine for many years to come – perfect for collectors and lovers of high-quality presentations."
+                }
+            ],
+            "recursiveDescription": "Let your artwork shine with glossy acrylic glass – a gallery-quality presentation that enhances any space!"
+        },
+        "acrylic2": {
+            "name": "ultraHD Art Print Under Acrylic Glass",
+            "description": "UltraHD prints under acrylic glass offer brilliant colors, depth, and stability with a 3mm Alu-Dibond backing.",
+            "detailedDescription": [
+                {
+                  "title": "UltraHD prints behind acrylic glass: perfection for your works of art",
+                  "text": "Our UltraHD prints behind acrylic glass set new standards in the presentation of art. The interplay of state-of-the-art exposure technology, high-quality photo paper and glossy acrylic glass ensures extraordinary colour brilliance, attention to detail and an impressive depth effect. The sturdy aluminium dibond backboard gives the work added durability and highlights the high-quality workmanship."
+                },
+                {
+                  "title": "Maximum precision and colour intensity",
+                  "text": "Thanks to the innovative exposure on special photo paper, even the finest details become visible – ideal for large-format works of art or works with complex structures.\n<ul><li><b>21% wider colour gamut:</b> Colours appear more intense and vibrant.</li><li><b>Increased maximum density:</b> Sharper contrasts and deeper blacks.</li><li><b>Perfect for:</b> Colour-rich, detail-rich or contrast-rich works of art.</li></ul>"
+                },
+                {
+                  "title": "Custom fit for every artwork",
+                  "text": "Every work of art is produced to the millimetre according to your specifications – from small formats to impressive XXL sizes.\n<ul><li><b>Minimum size:</b> 9 x 9 cm</li><li><b>Maximum size:</b><ul><li>240 x 122 cm for 2 mm thickness</li><li>195 x 122 cm for 4 mm thickness</li><li>180 x 122 cm for 6 mm thickness</li></ul></li></ul>\nWhether square, panorama or round format – your art will be presented exactly as you imagine it."
+                },
+                {
+                  "title": "Which artworks are suitable for acrylic glass?",
+                  "text": "Glossy acrylic glass is ideal for vibrant, colour-intensive motifs that are to be enhanced by the luminosity and depth of the material. Abstract works, urban scenes or detailed nature motifs particularly benefit from the brilliant appearance. For works with subtle colours or a minimalist style, a matte surface can also be chosen to avoid reflections and achieve a calm effect."
+                },
+                {
+                  "title": "Longevity and protection",
+                  "text": "The durable silicone seal protects your artwork from bubbles and cracks, while the acrylic glass is scratch-resistant and shatterproof. The combination of high-quality materials ensures that your art will shine for many years to come – perfect for collectors and lovers of high-quality presentations."
+                }
+              ],
+              "recursiveDescription": "UltraHD prints behind acrylic glass are the perfect choice for anyone looking for the highest quality and an impressive presentation of their artwork – ideal for collectors, galleries and lovers of timeless aesthetics."
+        },
+        "acrylic3": {
+            "name": "Acrylic ultraHD Metallic Print",
+            "description": "UltraHD print on metallic paper with 2mm acrylic glass and 3mm Alu-Dibond backing for stability.",
+            "detailedDescription": [
+                {
+                  "title": "UltraHD metallic print behind acrylic glass: shimmering elegance and spatial depth",
+                  "text": "Our UltraHD metallic prints behind acrylic glass combine brilliant colour intensity with a sophisticated, pearlescent shimmer. Fuji Crystal Pearl paper enhances contrasts and makes bright areas appear particularly vivid. In combination with glossy acrylic glass and a sturdy aluminium dibond backboard, a high-quality presentation is created that lets your works of art shine in exceptional quality."
+                },
+                {
+                  "title": "Maximum colour brilliance and sharpness of detail",
+                  "text": "Thanks to state-of-the-art exposure on special metallic photo paper, even the finest details are visible – ideal for colour-intensive, contrasting or iridescent works of art.\n<ul><li><b>Metallic shine:</b> Adds a glamorous look to your artwork.</li><li><b>Enhanced highlights:</b> Bright areas appear particularly vivid.</li><li><b>Perfect for:</b> Dynamic motifs such as urban scenes, night shots or abstract art.</li></ul>"
+                },
+                {
+                  "title": "Custom formats for every work",
+                  "text": "Your UltraHD metallic print is produced with millimetre precision in 9:16, 16:9 or 1:1 formats. Whether portrait-format works, impressive panoramas or harmonious square designs – your art is perfectly showcased."
+                },
+                {
+                  "title": "High-quality workmanship for a long service life",
+                  "text": "Your piece is mounted behind 2mm thick acrylic glass, which is lightweight and shatterproof. A permanent silicone seal protects against bubbles and cracks, while the aluminium dibond backing provides stability.\n<ul><li><b>Durable materials:</b> Ensures long-lasting brilliance.</li><li><b>Scratch-resistant acrylic:</b> Protects your artwork while maintaining clarity.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "UltraHD metallic prints behind acrylic glass are the perfect choice for anyone who wants to present their artwork with a modern, glamorous finish – a gallery-quality presentation that enhances any room."
+        },
+        "acrylic4": {
+            "name": "Art Print Under Matte Acrylic Glass",
+            "description": "Matte acrylic glass minimizes reflections, ideal for bright spaces, with durable Alu-Dibond backing.",
+            "detailedDescription": [
+                    {
+                    "title": "Art behind matt acrylic glass: reflection-free elegance",
+                    "text": "Our artworks behind matt acrylic glass offer a stylish, reflection-free presentation that is particularly suitable for rooms with strong light incidence. The matt acrylic glass minimises reflections and absorbs light, while at the same time enhancing the depth effect and colour brilliance – even with soft colours or black and white works. The combination of high-quality printing, a sturdy aluminium dibond backboard and permanently elastic silicone sealant guarantees a long-lasting and professional presentation."
+                    },
+                    {
+                    "title": "Processing details",
+                    "text": "<ul><li><b>Matt acrylic glass:</b> 2 mm thickness provides a discreet, non-reflective surface that clearly accentuates your artwork regardless of the viewing angle.</li><li><b>High-quality print:</b> Exposed on special photo paper and laminated with a durable silicone seal, free of bubbles and cracks.</li><li><b>Aluminium Dibond backing:</b> Two layers of aluminium with a polyethylene core offer maximum stability at a low weight.</li></ul>"
+                    },
+                    {
+                    "title": "Custom formats for every work",
+                    "text": "Your lamination behind matt acrylic glass is manufactured with millimetre precision in the formats 9:16, 16:9 or 1:1. Whether portrait-format designs, panoramas or square works of art – each format is precisely adapted to your specifications.\n<ul><li><b>Maximum size:</b> 180 x 122 cm</li></ul>Larger works are also possible, which appear discreet and elegant due to the matt surface."
+                    },
+                    {
+                    "title": "What types of artwork are suitable for matt acrylic glass?",
+                    "text": "Matte acrylic glass is ideal for artworks where reflections should be avoided. It is particularly suitable for black and white motifs with a high black content, minimalist designs or pastel shades, which are given a calm and reserved effect by the matte surface. It is perfect for hanging opposite windows or in bright rooms where shiny surfaces could be distracting."
+                    },
+                    {
+                    "title": "Longevity and protection",
+                    "text": "<ul><li><b>Durable silicone sealant:</b> Protects your artwork from bubbles and cracks.</li><li><b>Robust material:</b> Matte acrylic glass is shatterproof and scratch-resistant.</li></ul>The combination of high-quality materials ensures that your works will shine for years to come – a gallery-quality presentation for any room."
+                    }
+                    ],
+            "recursiveDescription": "Matte acrylic glass is the ideal choice for those who want to present their artwork with understated elegance – timeless, high-quality and perfectly crafted."               
+        },
+        "acrylic5": {
+            "name": "Ilford black and white print set behind acrylic",
+            "description": "Black-and-white art shines on premium monochrome paper, sealed behind gallery-quality acrylic glass.",
+            "detailedDescription": [
+                {
+                  "title": "Black and white art behind acrylic glass: timeless elegance and impressive depth",
+                  "text": "Our black and white artworks behind acrylic glass combine classic aesthetics with modern presentation. The use of first-class Ilford black and white photographic paper and mounting behind 2 mm thick acrylic glass creates fascinating contrasts and a unique depth effect. The sturdy aluminium dibond backboard ensures durability, while the permanent silicone seal protects the work and guarantees a flawless presentation."
+                },
+                {
+                  "title": "Processing details",
+                  "text": "<ul><li><b>Ilford black and white photo paper:</b> Allows for the finest grey gradations and precise details.</li><li><b>Acrylic glass:</b> Available in glossy or matte surfaces to enhance depth or reduce reflections.</li><li><b>Aluminium Dibond backing:</b> Provides stability and protects the work from warping.</li><li><b>Transparent silicone:</b> Ensures a long-lasting, bubble-free bond between materials.</li></ul>"
+                },
+                {
+                  "title": "Custom formats for your art",
+                  "text": "Every black and white piece of art is manufactured with millimetre precision in the formats 9:16, 16:9 or 1:1. Whether portrait-format motifs, wide panoramas or square designs – your art will be perfectly showcased.\n<ul><li><b>Maximum size:</b> 240 x 122 cm for glossy acrylic glass, 180 x 122 cm for matte acrylic glass.</li></ul>Large-format works are also possible."
+                },
+                {
+                  "title": "What artworks are black and white acrylic glass panels suitable for?",
+                  "text": "The reduced aesthetics of black-and-white art benefit particularly from being laminated behind acrylic glass. Glossy acrylic glass enhances contrasts and gives the work an impressive depth effect, while matt acrylic glass reduces reflections and allows for a calm, elegant presentation. Ideal for minimalist designs, architectural shots or portraits where every nuance needs to be shown to its best advantage."
+                },
+                {
+                  "title": "Durability and protection",
+                  "text": "<ul><li><b>Robust acrylic glass:</b> Protects against UV rays, moisture and dust.</li><li><b>Durable silicone seal:</b> Ensures bubble-free lamination that remains flawless for years.</li></ul>The combination of high-quality materials guarantees lasting brilliance – perfect for collectors and lovers of timeless elegance."
+                }
+              ],
+              "recursiveDescription": "A black and white work behind acrylic glass is the ideal choice for anyone who wants to combine classic beauty with modern appeal – a statement for any wall."
+        },
+        "acrylic6": {
+            "name": "Fine Art Pigment Print under Acrylic Glass",
+            "description": "Brilliant colors and lasting quality with cutting-edge printing behind acrylic glass. Seamless formats up to 290 x 180 cm possible.",
+            "detailedDescription": [
+                {
+                  "title": "Fine art print behind acrylic glass: brilliant colours and impressive depth",
+                  "text": "Our fine art prints behind acrylic glass set new standards in the presentation of art. The most modern pigment printing technology on high-quality fine art paper creates works with an exceptionally wide colour gamut, impressive detail and intense colour brilliance. Mounting behind acrylic glass enhances the depth effect and provides lasting protection for the artwork."
+                },
+                {
+                  "title": "Processing details",
+                  "text": "<ul><li><b>Pigment print:</b> Solvent-free printing on age-resistant fine art paper for brilliant colour and detail reproduction.</li><li><b>Acrylic glass:</b> Available in 2 mm or 4 mm thickness, with glossy or matte finishes to suit your style.</li><li><b>Aluminium Dibond backing:</b> Provides additional durability and protection.</li><li><b>Durable silicone seal:</b> Ensures a bubble-free and long-lasting lamination.</li></ul>"
+                },
+                {
+                  "title": "Custom formats for your art",
+                  "text": "Every fine art print is manufactured with millimetre precision in the formats 9:16, 16:9 or 1:1. Whether you are looking for small formats for subtle accents or impressive large formats up to 290 x 180 cm, your art will be perfectly showcased. This technique makes it possible to implement even large-format works without cropping the motif."
+                },
+                {
+                  "title": "What kind of artwork is suitable for fine art printing behind acrylic glass?",
+                  "text": "Fine art printing behind acrylic glass is ideal for colour-intensive and detailed works that are to be enhanced by the depth effect of the acrylic glass. Glossy acrylic glass increases the colour brilliance and vibrancy, while matt acrylic glass reduces reflections and achieves a calm, elegant effect. Particularly suitable for abstract art, urban scenes or large-format landscapes that unfold their full effect at full size."
+                },
+                {
+                  "title": "Durability and protection",
+                  "text": "<ul><li><b>UV protection:</b> Acrylic glass shields your work from harmful rays.</li><li><b>Moisture and dust resistance:</b> Keeps your artwork safe in all conditions.</li><li><b>Aluminium Dibond backing:</b> Ensures stability and prevents warping.</li><li><b>Durable silicone seal:</b> Guarantees a long-lasting, bubble-free presentation.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Fine art prints behind acrylic glass are the ideal choice for anyone who wants to present their artwork with maximum colour brilliance and depth – timeless, high-quality and individually customised."
+            
+        },
+        "aludibond1": {
+            "name": "Direct Print On Aluminum Dibond",
+            "description": "Direct printing with 7-color technology offers a matte finish and subtle shimmer, backed by durable Alu-Dibond.",
+            "detailedDescription": [
+                {
+                "title": "Direct print on aluminium dibond: robust, reflection-free and versatile",
+                "text": "The direct print on aluminium dibond offers a high-quality and long-lasting option for presenting works of art in a matt finish. Thanks to modern 7-colour printing technology, brilliant colours with high saturation and fine tonal value gradations are created. The matt surface ensures a reflection-free finish, while light and white areas have a subtle sheen."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Direct printing:</b> Your motif is printed directly onto a 3 mm thick aluminium dibond plate.</li><li><b>Material construction:</b> Two coated aluminium layers with a black polyethylene core for maximum stability and low weight.</li><li><b>Waterproof UV print:</b> Resistant to moisture and ideal for protected outdoor areas or damp rooms.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your direct print on aluminium dibond is manufactured with millimetre precision in the formats 9:16, 16:9 or 1:1. From small formats to impressive large formats up to 190 x 145 cm, anything is possible – perfect for every motif and every wall."
+                },
+                {
+                "title": "What kind of artwork is suitable for direct printing on aluminium dibond?",
+                "text": "Direct printing is ideal for modern, minimalist works or motifs with clear lines and bold colours. Thanks to the non-reflective surface, it is particularly suitable for rooms with strong light or as a robust option for bathrooms and protected outdoor areas."
+                },
+                {
+                "title": "Durability and versatility",
+                "text": "<ul><li><b>Waterproof surface:</b> Protects your work from moisture and dust.</li><li><b>UV resistance:</b> Ensures colour brilliance even under sunlight.</li><li><b>Robust material:</b> Suitable for long-lasting presentations in indoor and outdoor areas.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "Direct printing on aluminium dibond combines modern aesthetics with maximum functionality – robust, high-quality and perfectly adaptable to your individual requirements."
+        },
+        "aludibond2": {
+            "name": "Art Print on Aluminium Backing",
+            "description": "Premium papers, laser exposure, and UV laminate on Alu-Dibond ensure timeless, gallery-grade quality.",
+            "detailedDescription": [
+                {
+                "title": "Art print on aluminium dibond: timeless elegance and maximum stability",
+                "text": "A art print on aluminium dibond combines simple, modern aesthetics with long-lasting quality. By mounting your art on a stable aluminium composite plate, your motif is optimally protected and presented in a high-quality gallery-style format. The matt or glossy UV protective film preserves the colour brilliance and ensures a reflection-free or radiant appearance – perfect for every motif."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>High-quality photo paper:</b> Your motif is exposed and mounted on a 3 mm thick aluminium dibond plate.</li><li><b>Material construction:</b> Two coated aluminium layers enclosing a black polyethylene core for stability.</li><li><b>UV protective film:</b> Transparent layer protects against UV rays, dust and moisture.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your aluminium dibond print is manufactured with millimetre precision in the formats 9:16, 16:9 or 1:1. From small formats to impressive large formats up to 240 x 122 cm – your art is realised precisely and individually."
+                },
+                {
+                "title": "Which artworks are suitable for aluminium dibond prints?",
+                "text": "Aluminium dibond mounting is ideal for minimalist presentations where the motif is the focus. Whether it's colour-intensive works, black and white photographs or detailed landscapes, the matt surface ensures a discreet look, while the glossy version intensifies colours and makes them look vibrant."
+                },
+                {
+                "title": "Durability and versatility",
+                "text": "<ul><li><b>Robust aluminium composite panel:</b> Protects your work from external influences.</li><li><b>Preserved colour brilliance:</b> Ensures vibrant colours for many years.</li><li><b>Lightweight construction:</b> Suitable for larger formats and easy to hang.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "An aluminium dibond print is the ideal choice for anyone who wants to present their motifs in a modern, high-quality and long-lasting way – timeless design in gallery quality!"        
+        },
+        "aludibond4": {
+            "name": "Ilford B/W Art Print On Aluminum Backing",
+            "description": "State-of-the-art technology and Alu-Dibond ensure flawless black-and-white presentations, with optional framing.",
+            "detailedDescription": [
+                {
+                "title": "Black and white prints on aluminium dibond: monochrome perfection in a modern presentation",
+                "text": "Black and white art thrives on the fine nuances between light and shadow. With a lamination on Alu-Dibond, your black and white photography is presented in gallery quality – stable, durable and timelessly elegant. The high-quality Ilford black and white photo paper ensures precise grey gradations and impressive details, while the matt or glossy surface perfectly highlights the effect of your motif."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Ilford black and white photo paper:</b> Ensures precise grey gradations and impressive details.</li><li><b>Aluminium Dibond backing:</b> Two coated aluminium layers enclosing a black plastic core for stability.</li><li><b>UV protective film:</b> Prevents fading of colour nuances and protects against dirt.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your black and white print on aluminium dibond is manufactured with millimetre precision in the formats 9:16, 16:9 or 1:1. Whether you are looking for small formats for subtle accents or impressive large formats up to 240 x 122 cm, each work is implemented precisely and individually without the need for trimming."
+                },
+                {
+                "title": "Which artworks are suitable for black and white on aluminium dibond?",
+                "text": "This form of presentation is ideal for minimalist motifs, architectural shots or portraits in which the grey shades are the focus. Glossy surfaces enhance contrasts and give the work a vibrant look, while matt surfaces avoid reflections and create a calm elegance."
+                },
+                {
+                "title": "Durability and protection",
+                "text": "<ul><li><b>Robust aluminium Dibond backing:</b> Protects your work from warping.</li><li><b>UV protective film:</b> Preserves fine nuances of your black and white art for decades.</li></ul>This combination makes black and white prints on aluminium dibond the perfect choice for private collections, galleries or exhibitions."
+                }
+            ],
+            "recursiveDescription": "A black and white print on aluminium dibond combines classic aesthetics with modern stability – a timeless presentation for sophisticated works of art!"
+        },
+        "aludibond5": {
+            "name": "Fine Art Print On Aluminum Dibond",
+            "description": "Fine Art Prints deliver top quality with various paper options, laminated on Alu-Dibond for a perfect display.",
+            "detailedDescription": [
+                {
+                "title": "Fine art print on aluminium dibond: art in perfection and modern elegance",
+                "text": "Present your works of art in the highest quality with a fine art print, mounted on aluminium dibond. The detailed pigment print on high-quality Hahnemühle and Canson papers creates works with extraordinary colour brilliance, impressive detail and a unique surface structure. The sturdy aluminium dibond back ensures that your work lies perfectly flat and gives it a modern, minimalist look – ideal for private collections, galleries or exhibitions."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Pigment printing:</b> Solvent-free printing on one of four high-quality fine art papers with exceptional texture and colour reproduction.</li><li><b>Aluminium Dibond backing:</b> 3 mm thick plate with two coated aluminium layers and a black plastic core for maximum stability.</li><li><b>Glass-free presentation:</b> Ensures the natural texture of the paper remains visible.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your fine art print on aluminium dibond is manufactured with millimetre precision in the formats 9:16, 16:9 or 1:1. From small formats to impressive large formats up to 240 x 105 cm – each work is implemented precisely and individually, without the motif having to be cropped."
+                },
+                {
+                "title": "Which artworks are suitable for the Fine Art Print on aluminium dibond?",
+                "text": "This form of presentation is ideal for detailed photographs, minimalist designs or abstract artworks that are intended to develop a special effect through the texture of the paper and the matt look of the surface. The unsealed paper surface makes the colours appear particularly vivid, but requires careful handling to maintain quality over the long term."
+                },
+                {
+                "title": "Durability and protection",
+                "text": "<ul><li><b>Robust aluminium Dibond backing:</b> Protects your work from warping and ensures a smooth, even presentation.</li><li><b>Long-lasting lamination:</b> Combines high-quality printing with stable mounting for gallery-quality results.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A fine art print on aluminium dibond combines modern aesthetics with precision craftsmanship – a timeless presentation for sophisticated works of art!"        
+        },
+        "aludibond6": {
+            "name": "Direct Print on Brushed Aluminium",
+            "description": "Brushed aluminum adds a metallic sheen to light areas, with silver or gold finishes, and is waterproof for outdoor use.",
+            "detailedDescription": [
+                {
+                "title": "Brushed Aluminium: Unique Effects for Your Artwork",
+                "text": "Display your artwork on brushed aluminium and give it a modern, metallic look. The horizontally brushed finish ensures that light and white areas of your design shimmer in silver or gold, while the printed areas impress with a matt, non-reflective finish. High-quality UV printing makes the artwork waterproof and long-lasting – perfect for indoor, sheltered outdoor or bathroom use."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Direct printing:</b> Your motif is printed directly onto a 3 mm-thick aluminium composite panel.</li><li><b>Material construction:</b> Two coated aluminium layers with a black polyethylene core provide stability.</li><li><b>Brushed surface:</b> Available in silver or gold, with light areas left unprinted for a striking metallic effect.</li><li><b>7-colour UV printing:</b> Ensures intense colour brilliance and durability.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your wall art on brushed aluminium is manufactured with millimetre precision in the formats 9:16, 16:9 or 1:1. From small formats to impressive large formats up to 190 x 145 cm – each work is realised precisely and individually."
+                },
+                {
+                "title": "Which artworks are suitable for brushed aluminium?",
+                "text": "The metallic effect of Alu-Dibond Butlerfinish is ideal for minimalist designs, architectural shots or technical subjects, which are particularly impressive due to the contrast between the print and the metal. Silver surfaces are suitable for cool, modern aesthetics, while gold surfaces add a warm, luxurious accent. From abstract works to landscapes, each motif has a unique effect."
+                },
+                {
+                "title": "Longevity and versatility",
+                "text": "<ul><li><b>Waterproof and UV-resistant:</b> Protects your artwork from moisture and sunlight.</li><li><b>Robust material:</b> Prevents deformation and ensures long-lasting brilliance.</li></ul>This makes brushed aluminium perfect for private collections, galleries or protected outdoor areas."
+                }
+            ],
+            "recursiveDescription": "A wall painting on brushed aluminium combines modern elegance with extraordinary stability – a highlight for any room!"
+        },
+        "aludibond7": {
+            "name": "ChromaLuxe HD Metal Print",
+            "description": "Premium Metal Prints are sturdy, waterproof, lightweight, and perfect for vibrant large-format displays, even outdoors.",
+            "detailedDescription": [
+                {
+                "title": "ChromaLuxe HD Metal Print: premium print on metal for the most discerning of customers",
+                "text": "Experience your artwork on aluminium in a new dimension. The ChromaLuxe HD Metal Print combines exceptional colour brilliance with extreme stability and elegance. Thanks to the innovative thermal sublimation technology, colours are permanently vaporised into the coated surface of the 1 mm thin aluminium plate, resulting in impressive durability and a fascinating shine. Ideal for colour-intensive and high-contrast motifs, which come into their own both indoors and in protected outdoor areas."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Thermal sublimation:</b> Mirror-inverted printing on transfer paper, transferred into the special coating under heat and pressure.</li><li><b>Durable surface:</b> Waterproof and scratch-resistant with brilliant colours and excellent image sharpness.</li><li><b>Lightweight aluminium:</b> 1 mm thin plate, stable and ideal for small and large formats.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your ChromaLuxe HD Metal Print is manufactured with millimetre precision in 9:16, 16:9 or 1:1 formats. From small formats to impressive large formats up to 150 x 100 cm, each work is precisely adapted to your specifications."
+                },
+                {
+                "title": "What kind of artwork is suitable for ChromaLuxe HD Metal Print?",
+                "text": "This premium print is ideal for colour-rich subjects, high-contrast designs or modern artwork that you want to enhance with metallic shine and brilliant colour reproduction. Glossy finish is particularly suitable for dynamic scenes, while brushed aluminium offers a more subtle metallic effect where the structure of the metal shows through."
+                },
+                {
+                "title": "Durability and versatility",
+                "text": "<ul><li><b>Waterproof and UV-resistant:</b> Protects your work from moisture, sunlight and scratches.</li><li><b>Integrated hanging system:</b> Ensures your artwork is ready for immediate display.</li></ul>This makes ChromaLuxe HD Metal Print ideal for protected outdoor areas or sophisticated interiors."
+                }
+            ],
+            "recursiveDescription": "A ChromaLuxe HD Metal Print offers a unique combination of lightness, stability and colour brilliance – a timeless presentation for your most demanding works!"
+        },
+        "framed1": {
+            "name": "Magnet Frame",
+            "description": "Magnetic picture frames make swapping images effortless, offering a simple solution for refreshing your space anytime.",
+            "detailedDescription": [
+                {
+                "title": "Magnetic readymade frames: Flexibility and elegance for your artwork",
+                "text": "With our magnetic readymade frames, you can present your artwork in a stylish and flexible way. The innovative magnetic system makes it possible to exchange motifs quickly and easily – without tools or damage. The high-quality aluminium frame, in combination with various passe-partout and glass options, ensures a professional presentation of your work."
+                },
+                {
+                "title": "Details of the magnetic readymade frame",
+                "text": "<ul><li><b>Frame components:</b> Stable back with integrated hanging system, high-quality print, precisely cut passe-partout, choice of glass panels, and aluminium profile with magnetic strips.</li><li><b>Secure construction:</b> Holds your motif securely and protects it from dust and damage.</li></ul>"
+                },
+                {
+                "title": "Custom formats and materials",
+                "text": "<ul><li><b>Sizes:</b> Available from 11 x 11 cm to 110 x 70 cm.</li><li><b>Frame colours:</b> Choose from silver, black, or white.</li><li><b>Glass options:</b> Glossy float glass, matt glass, anti-reflective museum glass, or acrylic glass.</li><li><b>Passe-partout:</b> High-quality museum board or linen in various colours and widths.</li></ul>"
+                },
+                {
+                "title": "What kind of artwork is suitable for magnetic readymade frames?",
+                "text": "These frames are ideal for changing presentations of photographs, fine art prints or other artworks. Thanks to the flexible design options, you can regularly redesign your walls and showcase your best works over and over again. They are particularly suitable for galleries, exhibitions or private collections that love variety."
+                },
+                {
+                "title": "Durability and easy change",
+                "text": "<ul><li><b>Robust construction:</b> Guarantees a long lifespan.</li><li><b>Magnetic system:</b> Allows quick and tool-free image changes.</li><li><b>Wall protection:</b> Felt corner protectors shield your wall from scratches.</li></ul>The easy assembly ensures that your frame hangs quickly and straight."
+                }
+            ],
+            "recursiveDescription": "A magnetic frame offers the perfect combination of elegance, functionality and flexibility – ideal for anyone who wants to present their artwork professionally!"
+        },
+        "framed2": {
+            "name": "Design Edition by Studio BesauMarguerre",
+            "description": "Showcase your artwork with vibrant Design Edition frames by Studio Besau-Marguerre, featuring unique color gradients in yellow, purple, or green.",
+            "detailedDescription": [
+                {
+                "title": "Design Edition Frames: Colourful elegance for your artwork",
+                "text": "Put your artwork in the spotlight with the new Design Edition frames. Developed in collaboration with the renowned Besau-Marguerre studio, these frames combine modern design with perfect craftsmanship. Each of the three editions – green, yellow and purple – consists of four different-coloured slats within a colour scheme that creates a harmonious dynamic through gentle gradations and a matt lacquered surface."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Gallery-quality manufacturing:</b> The Design Edition frames are crafted with millimetre precision.</li><li><b>20 mm Hamburg profile:</b> Made of high-quality wood for a stable and elegant border.</li><li><b>Colour nuances:</b> Subtle gradations within the frame draw attention to the motif without being intrusive.</li><li><b>Integrated wall bracket:</b> Ensures easy mounting.</li></ul>"
+                },
+                {
+                "title": "Custom design options",
+                "text": "<ul><li><b>Framed lamination:</b> Present your artwork behind acrylic glass or on aluminium dibond, suitable for formats up to 180 x 120 cm.</li><li><b>Photo or fine art print with passe-partout:</b> Ideal for formats up to 110 x 70 cm.</li><li><b>White edges:</b> Optionally create a subtle space between the image and the frame.</li></ul>"
+                },
+                {
+                "title": "Which artworks are suitable for the Design Edition?",
+                "text": "Design Edition frames are ideal for portraits, architectural photography or abstract motifs that you want to enhance with the colourful framing. Whether as a single eye-catcher or in combination with other works, these frames harmonise with both classic and modern interiors and give every room a pleasant atmosphere."
+                },
+                {
+                "title": "Durability and quality",
+                "text": "<ul><li><b>High-quality workmanship:</b> Guarantees stability and durability.</li><li><b>Precise colour matching:</b> Creates a timeless elegance.</li></ul>The Design Edition makes your artwork a real highlight, whether as a single piece or part of a gallery hanging."
+                }
+            ],
+            "recursiveDescription": "A Design Edition frame combines colourful extravagance with modern aesthetics – the perfect choice for an expressive presentation of your artwork!"        
+        },
+        "framed3": {
+            "name": "Floater Frame",
+            "description": "Display your artwork in a gallery frame with a 7mm shadow gap, creating a floating effect within the wood veneer frame.",
+            "detailedDescription": [
+                {
+                "title": "Floating-gap frames: elegant presentation of your works of art",
+                "text": "Present your works of art in a shadow gap frame that gives your motif a unique floating effect. The space between the picture and the frame – the so-called shadow gap – ensures a modern and elegant presentation, as is common at leading art fairs. The frame is made of high-quality real wood and is available in different colours and profile widths, perfectly matched to your motif and your room."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Solid wood construction:</b> Precisely custom-made for a perfect fit.</li><li><b>Shadow gap:</b> A gap of 7 mm (optionally 20 mm for special models) creates the floating effect.</li><li><b>Integrated wall bracket:</b> Ensures easy and immediate hanging.</li></ul>"
+                },
+                {
+                "title": "Custom formats and materials",
+                "text": "<ul><li><b>Formats:</b> Manufactured with millimetre precision in 9:16, 16:9 or 1:1 ratios.</li><li><b>Carrier materials:</b> Choose from acrylic glass, aluminium or canvas.</li><li><b>Frame options:</b> Customise the colour and profile width to match your motif.</li></ul>"
+                },
+                {
+                "title": "What kind of artwork is a shadow gap frame suitable for?",
+                "text": "Shadow gap frames are ideal for minimalist designs, modern artwork or photographs that are to be particularly emphasised by the floating appearance. They are suitable for both colour-intensive and monochrome motifs and are an elegant choice for private collections, galleries or exhibitions."
+                },
+                {
+                "title": "Durability and easy installation",
+                "text": "<ul><li><b>High-quality workmanship:</b> Guarantees a long lifespan for the frame.</li><li><b>Integrated wall bracket:</b> Simplifies mounting for a professional look.</li></ul>Whether as a single piece or part of a gallery hanging, a shadow gap frame gives every work of art a professional look."
+                }
+            ],
+            "recursiveDescription": "A shadow gap frame combines timeless elegance with modern aesthetics – the perfect choice for your most demanding works!"
+        },
+        "framed4": {
+            "name": "Aluminium ArtBox",
+            "description": "The satin-finished aluminum ArtBox, in silver or black, offers various depths and finishes, turning your artwork into a sculptural centerpiece.",
+            "detailedDescription": [
+                {
+                  "title": "ArtBox in aluminium: your art as a design object with a sense of depth",
+                  "text": "The aluminium ArtBox transforms your artwork into sculptural gallery pieces. The delicate, satin-finished aluminium frame in silver or black gives your work a modern, three-dimensional aesthetic. The shadow gap between the picture and the frame makes your motif appear to float, while at the same time protecting and highlighting it with the high-quality frame."
+                },
+                {
+                  "title": "Details of the workmanship",
+                  "text": "<ul><li><b>Sturdy aluminium frame:</b> Available in different depths, from discreet to impressive (e.g., 75 mm).</li><li><b>Picture carrier options:</b> Choose acrylic glass for added depth or aluminium dibond for a simple and elegant look.</li><li><b>Precise craftsmanship:</b> Guarantees a perfectly flat surface and high-quality presentation.</li></ul>"
+                },
+                {
+                  "title": "Customised formats for your art",
+                  "text": "The aluminium ArtBox is manufactured to the nearest millimetre in 9:16, 16:9 or 1:1 formats. From small formats to impressive large formats up to 200 x 122 cm, each work is individually adapted to show your art at its best."
+                },
+                {
+                  "title": "Which artworks are suitable for the aluminium ArtBox?",
+                  "text": "The ArtBox is ideal for modern, minimalist works or photographs that you want to highlight with a floating look and a metallic frame. It is perfect for colour-intensive motifs, high-contrast designs or abstract artworks that appear even more intense due to the frame's depth effect."
+                },
+                {
+                  "title": "Durability and easy installation",
+                  "text": "<ul><li><b>Pre-assembled wall bracket:</b> Ensures immediate hanging.</li><li><b>Simple assembly:</b> Suitable for nails, screws or hooks.</li></ul>The uncomplicated installation makes presenting your artwork simple and secure."
+                }
+            ],
+            "recursiveDescription": "An aluminium ArtBox combines timeless elegance with modern aesthetics and makes your artwork a real eye-catcher – a design object with a gallery character!"
+        },
+        "framed5": {
+            "name": "Solid Wood ArtBox",
+            "description": "The wooden ArtBox combines elegant front views with 35mm depth, offering natural sophistication in four frame colors.",
+            "detailedDescription": [
+                {
+                "title": "ArtBox made of wood: natural elegance and a three-dimensional effect",
+                "text": "The wooden ArtBox offers a simple yet impressive presentation of your artwork. Viewed from the front, the frame appears delicate, while the side view, with a depth of 35 mm, has a sculptural, three-dimensional effect. The real wood veneer gives your motif a natural radiance and makes it a real design object."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Handcrafted precision:</b> The wooden ArtBox is made with millimetre accuracy.</li><li><b>Frame options:</b> Available in six colours and compatible with image carriers like acrylic glass or aluminium.</li><li><b>Integrated wall bracket:</b> A milled groove on the back ensures easy installation.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "The wooden ArtBox is precision-made in the formats 9:16, 16:9 or 1:1. From small formats to impressive sizes up to 180 x 120 cm, each ArtBox is customised to showcase your art in the best possible way."
+                },
+                {
+                "title": "What kind of artwork is the wooden ArtBox suitable for?",
+                "text": "The natural look of the real-wood veneer is particularly suitable for warm, emotional motifs or minimalist designs. Whether landscapes, portraits or abstract works, the wooden ArtBox gives every piece of art an understated elegance and stylishly showcases it."
+                },
+                {
+                "title": "Durability and easy assembly",
+                "text": "<ul><li><b>High-quality workmanship:</b> Guarantees stability and durability.</li><li><b>Integrated hanging system:</b> Simplifies mounting and ensures secure installation.</li><li><b>Gallery rail option:</b> Allows for representative presentation in any room.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A wooden ArtBox combines natural materials with modern aesthetics – the perfect choice for a timeless presentation of your artwork!"
+        },
+        "framed6": {
+            "name": "Gallery Frame",
+            "description": "Our handcrafted frames combine artistry and detail, enhancing your artwork and complementing your interior style.",
+            "detailedDescription": [
+                {
+                  "title": "Wooden frames: Timeless elegance for your artwork",
+                  "text": "A wooden frame gives your artwork a decorative and elegant presentation. Made of high-quality real wood veneer, it radiates warmth and naturalness while providing stability and protection. Whether minimalist or classic, the frame is a decisive factor in how your motif is received and can be perfectly adapted to your interior design style."
+                },
+                {
+                  "title": "Processing details",
+                  "text": "<ul><li><b>Handcrafted precision:</b> Wooden frames are made with millimetre accuracy.</li><li><b>Variety of woods:</b> Choose from oak, alder, cherry, maple, and walnut.</li><li><b>Custom profiles and colours:</b> Frames can be tailored to match your motif perfectly.</li><li><b>Pre-assembled wall bracket:</b> Ensures immediate hanging upon delivery.</li></ul>"
+                },
+                {
+                  "title": "Custom formats for your art",
+                  "text": "The wooden frames are precisely manufactured in the formats 9:16, 16:9 or 1:1. From small formats to impressive sizes up to 180 x 120 cm – with a print under acrylic glass even up to 270 x 180 cm – each work is individually adapted to optimally present your art."
+                },
+                {
+                  "title": "Which artworks are best suited to wooden frames?",
+                  "text": "Wooden frames are ideal for warm, emotive subjects such as portraits, still lifes or landscapes. In combination with a passe-partout, the focus is drawn even more strongly to the subject. Canvas prints also benefit from the natural radiance of the frame and look like classic paintings – perfect for creating a cosy atmosphere in your home."
+                },
+                {
+                  "title": "Durability and versatility",
+                  "text": "<ul><li><b>High-quality workmanship:</b> Guarantees stability and durability.</li><li><b>Endless design possibilities:</b> Choose from various profiles, colours, and combinations with passe-partouts or acrylic glass.</li></ul>A wooden frame stylishly showcases your artwork while offering long-lasting protection."
+                }
+            ],
+            "recursiveDescription": "A wooden frame combines natural materials with timeless elegance – the perfect choice for a warm and high-quality presentation of your artwork!"
+        },
+        "framed7": {
+            "name": "Solid Wood Frame With Passe-Partout",
+            "description": "Present your artworks in a classic enclosure featuring high-quality mat boards and a custom-made wooden frame!",
+            "detailedDescription": [
+                {
+                "title": "Wooden frames: Timeless elegance for your artwork",
+                "text": "A wooden frame gives your artwork a decorative and elegant presentation. Made of high-quality real wood veneer, it radiates warmth and naturalness while providing stability and protection. Whether minimalist or classic, the frame is a decisive factor in how your motif is received and can be perfectly adapted to your interior design style."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Handcrafted precision:</b> Wooden frames are made with millimetre accuracy.</li><li><b>Variety of woods:</b> Choose from oak, alder, cherry, maple, and walnut.</li><li><b>Custom profiles and colours:</b> Frames can be tailored to match your motif perfectly.</li><li><b>Pre-assembled wall bracket:</b> Ensures immediate hanging upon delivery.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "The wooden frames are precisely manufactured in the formats 9:16, 16:9 or 1:1. From small formats to impressive sizes up to 180 x 120 cm – with a print under acrylic glass even up to 270 x 180 cm – each work is individually adapted to optimally present your art."
+                },
+                {
+                "title": "Which artworks are best suited to wooden frames?",
+                "text": "Wooden frames are ideal for warm, emotive subjects such as portraits, still lifes or landscapes. In combination with a passe-partout, the focus is drawn even more strongly to the subject. Canvas prints also benefit from the natural radiance of the frame and look like classic paintings – perfect for creating a cosy atmosphere in your home."
+                },
+                {
+                "title": "Durability and versatility",
+                "text": "<ul><li><b>High-quality workmanship:</b> Guarantees stability and durability.</li><li><b>Endless design possibilities:</b> Choose from various profiles, colours, and combinations with passe-partouts or acrylic glass.</li></ul>A wooden frame stylishly showcases your artwork while offering long-lasting protection."
+                }
+            ],
+            "recursiveDescription": "A wooden frame combines natural materials with timeless elegance – the perfect choice for a warm and high-quality presentation of your artwork!"
+        },
+        "framed8": {
+            "name": "Acrylic Print With Slimline Case",
+            "description": "The Slimline aluminum frame subtly enhances your artwork, available in four colors to match your motif perfectly.",
+            "detailedDescription": [
+                {
+                "title": "Slimline edging: Minimalist frame for acrylic paintings with a sophisticated look",
+                "text": "The slimline aluminium frame offers a discreet and modern finish for your works of art behind acrylic glass. With its narrow bar of just 1 mm in width and a frame depth of 5 to 7 mm, it stylishly showcases your motif without being intrusive. Choose from four colours – silver, gold, white or black – and give your work a timeless elegance."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Frame compatibility:</b> Available for acrylic glass pictures in 2, 4 or 6 mm thickness.</li><li><b>Minimal frame depth:</b> Ensures the picture slightly protrudes for a three-dimensional effect.</li><li><b>Durable construction:</b> Combines crystal-clear acrylic glass with a sturdy aluminium dibond back for long-lasting quality.</li></ul>"
+                },
+                {
+                "title": "Custom sizes for your art",
+                "text": "Your piece will be crafted to the millimetre in 9:16, 16:9 or 1:1 aspect ratios. From small formats to impressive sizes up to 270 x 180 cm, each image will be customised to show off your art at its best."
+                },
+                {
+                "title": "Which artworks are suitable for the Slimline frame?",
+                "text": "Slimline is ideal for modern, minimalist works or photographs that you want to highlight with the simple elegance of the frame. Glossy acrylic glass enhances the colour brilliance and depth effect, while matt acrylic glass reduces reflections and creates a soft look – perfect for colour-intensive or high-contrast motifs."
+                },
+                {
+                "title": "Durability and easy assembly",
+                "text": "<ul><li><b>Elastic silicone seal:</b> Protects against warping and damage while ensuring bubble-free mounting.</li><li><b>Pre-mounted aluminium rails:</b> Allows for direct, safe, and easy hanging.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "The slimline frame combines minimalist design with high-quality workmanship – the perfect choice for a timeless presentation of your artwork!"        
+        },
+        "framed9": {
+            "name": "Shadow Box Frame",
+            "description": "The showcase frame adds a gallery-worthy touch, with deep spacing for optimal visual impact.",
+            "detailedDescription": [
+                {
+                "title": "Showcase frame: gallery character for your works of art",
+                "text": "A showcase frame gives your artworks an impressive sense of depth and an exclusive exhibition character. The extra-deep frame and the space between the motif and the glass create a three-dimensional presentation that particularly highlights your work. Choose from various design options, passe-partout variants and frame colours to individually showcase your art."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Lamination on Alu-Dibond:</b> Stability and bright colours, ideal for large formats.</li><li><b>Photo print or fine art print:</b> High-quality papers such as Hahnemühle or Fuji Crystal DP II ensure exquisite details and colour brilliance.</li><li><b>Floating art print on aluminium dibond:</b> A distance of 1 cm to the back wall creates a floating effect.</li><li><b>Floating passe-partout:</b> The distance between the passe-partout and the background enhances the depth effect and draws the focus to the motif.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your showcase frame is manufactured with millimetre precision in the formats 9:16, 16:9 or 1:1. From small formats to impressive sizes up to 120 x 80 cm – each work is individually adapted to present your art in the best possible way."
+                },
+                {
+                "title": "Which artworks is the showcase frame suitable for?",
+                "text": "The showcase frame is ideal for special works that you want to highlight by presenting them in three dimensions. Whether you have colourful photographs, black and white images or fine art prints, the frame emphasises the independence of the motif and gives it an exclusive look."
+                },
+                {
+                "title": "Durability and easy assembly",
+                "text": "<ul><li><b>Sturdy construction:</b> Guarantees a long lifespan.</li><li><b>Pre-assembled metal bracket:</b> Makes installation easy.</li><li><b>Gallery rail option:</b> Allows for representative presentation in any room.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A showcase frame combines timeless elegance with a modern sense of depth – the perfect choice for sophisticated works of art with a gallery character!"
+        },
+        "canvas1": {
+            "name": "Matte Canvas On Stretcher Frame",
+            "description": "To achieve the best results, we use premium canvases that meet the highest standards for detail accuracy and craftsmanship.",
+            "detailedDescription": [
+                {
+                "title": "Canvas print on stretcher frame: Classic elegance for your artwork",
+                "text": "A canvas print combines the natural aesthetics of classic paintings with modern printing technology. The matte surface and typical structure of the cotton blend give your motif a vibrant and authentic effect. It is perfect for portraits, still lifes or other works that you want to highlight with a warm, homely atmosphere."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>High-quality canvas:</b> Printed using the latest inkjet technology.</li><li><b>Solvent-free inks:</b> Epson Ultrachrome® RS Resin inks ensure saturated colours and fine detail.</li><li><b>Stable support frame:</b> Made of sustainable spruce wood, available in three thicknesses: 2 cm (discreet), 4 cm (stable), 6 cm (object character).</li></ul>"
+                },
+                {
+                "title": "Customisable design options",
+                "text": "<ul><li><b>Folded edges:</b> The edge of the motif is folded over at the sides – ideal for motifs with sufficient image material at the edges.</li><li><b>Mirrored edges:</b> The edge of the image is mirrored and folded over – perfect for works without any waste.</li></ul>"
+                },
+                {
+                "title": "Customisable formats for your art",
+                "text": "Your canvas print is made to the millimetre in 9:16, 16:9 or 1:1 formats. From small formats to impressive sizes, each work is individually adapted to present your art in the best possible way."
+                },
+                {
+                "title": "Which artworks are suitable for a canvas print?",
+                "text": "The natural structure of the canvas is particularly suitable for portraits, still lifes or landscapes that are intended to convey a warm and emotional aura through the matte surface and the painting character."
+                },
+                {
+                "title": "Durability and easy mounting",
+                "text": "<ul><li><b>High-quality workmanship:</b> Guarantees stability and protection against distortion.</li><li><b>Integrated hanging system:</b> Ensures easy installation.</li><li><b>Optional shadow gap frame:</b> Adds an elegant touch to your presentation.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A canvas print on a stretcher frame combines classic elegance with modern precision – the ideal choice for a timeless presentation of your artwork!"        
+        },
+        "canvas2": {
+            "name": "Glossy Canvas On Stretcher Frame",
+            "description": "A glossy canvas artwork brings cozy aesthetics and timeless elegance to your stylish home.",
+            "detailedDescription": [
+                {
+                "title": "Glossy art canvas on stretcher frame: Stylish and vibrant presentation",
+                "text": "Do you like to have a stylish home with a warm atmosphere? A professional artwork on a traditional canvas combines cosy aesthetics with simple elegance. The glossy surface gives your canvas print a special radiance and vibrancy, making it particularly suitable for high-contrast motifs with rich colours."
+                },
+                {
+                "title": "Classic and vibrant: your canvas with a glossy finish",
+                "text": "<ul><li><b>Classic canvas structure:</b> Combines natural aesthetics with a glossy surface.</li><li><b>Glossy finish:</b> Enhances colour vibrancy and contrast.</li><li><b>Perfect for:</b> High-contrast motifs with saturated colours.</li></ul>"
+                },
+                {
+                "title": "High-quality inkjet printing for your glossy canvas",
+                "text": "<ul><li><b>Rich colours and deep tones:</b> Precise gradations bring out the finest details.</li><li><b>Durable print:</b> Smudge-proof and extremely robust colours on the canvas.</li></ul>"
+                },
+                {
+                "title": "The canvas with a stretcher frame made of high-quality solid wood",
+                "text": "<ul><li><b>Sustainable materials:</b> Stretcher frame made of spruce wood from sustainable forestry.</li><li><b>Frame thickness options:</b></li><ul><li>2 cm: Standard thickness for a classic look.</li><li>4 cm: Particularly stable with object character.</li><li>6 cm: Distinct object character for larger formats.</li></ul></ul>"
+                },
+                {
+                "title": "Customised side appearance for your canvas print",
+                "text": "<ul><li><b>Folded edges:</b> Suitable for photos with generous image borders – 3 to 5 cm of the motif wraps around the sides depending on the frame thickness.</li><li><b>Mirrored edges:</b> Prints the edge of the motif to ensure the full image is visible from the front.</li></ul>"
+                },
+                {
+                "title": "Handcrafted frames: the special finishing touch",
+                "text": "<ul><li><b>Bespoke frames:</b> Made in our carpentry workshop to fit your canvas perfectly.</li><li><b>Wide range of options:</b> Choose materials and colours that match your ideas to emphasise your motif's special nature.</li></ul>"
+                },
+                {
+                "title": "Durability and easy mounting",
+                "text": "<ul><li><b>Easy hanging:</b> Use the stretcher frame directly on nails or screws, or opt for a floater frame with a metal hanging device.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A glossy art canvas on a stretcher frame combines classic elegance with vibrant colour brilliance – the perfect choice for high-contrast motifs in a warm and stylish atmosphere!"        
+        },
+        "canvas3": {
+            "name": "Textile Print On Stretcher Frame",
+            "description": "This smooth, subtly textured fabric offers a modern, lightly glossy alternative to classic canvas for vibrant image effects.",
+            "detailedDescription": [
+                {
+                  "title": "Your Artwork printed on fabric: Vibrant and natural presentation",
+                  "text": "As an alternative to the classic canvas, the fine, smoothly woven fabric offers a subtly structured, glossy surface. The texture makes the image look more vibrant and natural, giving your artwork a unique and homely feel."
+                },
+                {
+                  "title": "Art canvas textile: Woven surface for vivid motifs",
+                  "text": "<ul><li><b>Glossy surface:</b> Offers a distinct shimmer for vibrant motifs.</li><li><b>Textile structure:</b> Creates a natural and vivid appearance.</li><li><b>Eco-friendly material:</b> Non-toxic textile certified with Oeko-Tex Standard 100.</li></ul>"
+                },
+                {
+                  "title": "Cutting-edge technology: Sublimation printing for your art canvas",
+                  "text": "<ul><li><b>Sublimation printing:</b> Razor-sharp and brilliant colours transferred into the fabric.</li><li><b>Durable and waterproof:</b> Protected from edge breakage and splashproof.</li><li><b>Detailed reproduction:</b> Clear contours and vibrant colours ensure high-quality results.</li></ul>"
+                },
+                {
+                  "title": "High-quality materials for your textile canvas",
+                  "text": "<ul><li><b>Solid wood stretcher frame:</b> Sustainable spruce wood with reinforced corners to prevent distortion.</li><li><b>Frame thickness options:</b></li><ul><li>2 cm: Standard thickness.</li><li>4 cm: Stable with three-dimensional character.</li><li>6 cm: Distinct three-dimensional character for larger formats.</li></ul></ul>"
+                },
+                {
+                  "title": "The edges of your art canvas textile: mirrored or wrapped",
+                  "text": "<ul><li><b>Wrapped edges:</b> 3 cm, 5 cm, or 7 cm of the image are folded over at the sides depending on frame thickness.</li><li><b>Mirrored edges:</b> Outer image areas are mirrored onto the sides to preserve the entire motif on the front.</li></ul>"
+                },
+                {
+                  "title": "Strong focus: a variety of frames for your art print on fabric",
+                  "text": "<ul><li><b>Bespoke framing options:</b> Choose from a wide range of models in high-quality materials and numerous colours.</li><li><b>Wooden ArtBox option:</b> Adds more space and depth with a modern three-dimensional effect.</li></ul>"
+                },
+                {
+                  "title": "Durability and easy mounting",
+                  "text": "<ul><li><b>Integrated hanging system:</b> Hang directly on nails, screws, or hooks without additional mounting.</li><li><b>Splashproof and robust:</b> Ensures long-lasting quality for homely settings or gallery walls.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A textile canvas print combines vibrant colours, natural texture, and glossy elegance – the perfect choice for showcasing your artwork in a warm and authentic way!"
+        },
+        "photoprint1": {
+            "name": "Art Print On Fuji Crystal DP II",
+            "description": "The print on Fuji Crystal DP II is our classic option. Depending on the motif, you can choose from four different surface finishes.",
+            "detailedDescription": [
+                {
+                  "title": "Your artwork on Fuji Crystal DP II – gallery-quality photo print",
+                  "text": "The print on Fuji Crystal DP II is our classic photo print. Depending on the motif, you can choose from four different surfaces. With a 75-year guarantee of colour brilliance and precise custom formats, this print is ideal for gallery-quality presentations."
+                },
+                {
+                  "title": "High-quality photo paper with 75-year colour-fastness guarantee",
+                  "text": "<ul><li><b>Modern exposure:</b> Produced using laser exposure and chemical development.</li><li><b>Premium paper:</b> Fuji Crystal DP II ensures vibrant colours and strong contrasts.</li><li><b>Durable:</b> Guaranteed colour brilliance for 75 years.</li></ul>"
+                },
+                {
+                  "title": "The right surface for every motif",
+                  "text": "<ul><li><b>Matte:</b> Light texture without reflections for a natural look.</li><li><b>Glossy:</b> Beautiful shine for maximum colour brilliance.</li><li><b>Silk:</b> Fine structure with a silky matte sheen.</li><li><b>Velvet:</b> Deep matte surface with no glare for a velvety effect.</li></ul>"
+                },
+                {
+                  "title": "Your print on Fuji Crystal DP II with optional white border",
+                  "text": "<ul><li><b>White border options:</b> Add a border from 1 cm to 12 cm for framing or passe-partout use.</li></ul>"
+                },
+                {
+                  "title": "Custom formats for your artwork",
+                  "text": "Your Lambda print on Fuji Crystal DP II is available in custom formats from 9 x 9 cm to 240 x 122 cm. Choose standard formats or create unique panoramic or round designs, all tailored to your specifications."
+                },
+                {
+                  "title": "The perfect frame for your Fuji Crystal DP II photo print",
+                  "text": "<ul><li><b>Frame styles:</b> Choose from modern, country house, or classic styles.</li><li><b>Materials:</b> High-quality wooden frames with real wood veneer or aluminium frames.</li><li><b>Passe-partout options:</b> Add an elegant touch to your presentation.</li></ul>An integrated hanging system ensures easy mounting in both portrait and landscape formats."
+                }
+            ],
+            "recursiveDescription": "A photo print on Fuji Crystal DP II combines modern technology with traditional development – the perfect choice for vibrant colours, strong contrasts, and timeless gallery-quality presentations!"
+        },
+        "photoprint2": {
+            "name": "ultraHD Art Print",
+            "description": "Fuji Crystal Archive Maxima paper ensures ultraHD prints with exceptional color reproduction, rich detail, and lasting quality.",
+            "detailedDescription": [
+                {
+                  "title": "For the ultimate in realism: ultraHD art prints",
+                  "text": "Every artwork is only as good as the paper it is printed on. With the newly developed Fuji Crystal Professional Archive Maxima photo paper from Fujifilm, your ultraHD print will meet the very highest standards of colour reproduction and detail. Discover the future of photography now."
+                },
+                {
+                  "title": "Maximum detail and precise contours with ultraHD art prints",
+                  "text": "<ul><li><b>Revolutionary exposure process:</b> Utilises all available image data for optimal clarity.</li><li><b>Enhanced paper quality:</b> Fuji Crystal Professional Archive Maxima increases visual maximum density by 10%, revealing even the finest details in dark shadows.</li><li><b>Exceptional precision:</b> Details remain clear even at close viewing distances.</li></ul>"
+                },
+                {
+                  "title": "Extreme sharpness and the highest resolution",
+                  "text": "<ul><li><b>Modern cameras:</b> Capture high-resolution images with negligible noise.</li><li><b>Revolutionary printing process:</b> Brings out razor-sharp details, even in large formats.</li><li><b>Advanced technology:</b> Includes solid-state laser exposure, climate-controlled paper storage, and proprietary image optimisation software.</li></ul>"
+                },
+                {
+                  "title": "Your art as an ultraHD print: Now with even more colour volume and light stability",
+                  "text": "<ul><li><b>21% increased colour space:</b> Dark and saturated colours appear more brilliant and detailed.</li><li><b>Improved dynamic range:</b> Greater brightness gradations for realistic reproductions.</li><li><b>Enhanced light stability:</b> Long-lasting colours, even under LED gallery lighting.</li></ul>"
+                },
+                {
+                  "title": "Custom formats for your ultraHD art print",
+                  "text": "Your ultraHD art print is available in custom formats, accurate to the centimetre. Choose from standard sizes or specify your own dimensions, including corner shapes. Minimum size: 9 x 9 cm. Maximum size: 240 x 122 cm."
+                },
+                {
+                  "title": "Framed on request: handcrafted in our own carpentry workshop",
+                  "text": "<ul><li><b>Frame styles:</b> Modern, country house, or classic designs.</li><li><b>Materials:</b> Solid wood or aluminium frames with optional passe-partout.</li><li><b>Integrated hanging system:</b> Secure mounting for both portrait and landscape formats.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "UltraHD art prints combine cutting-edge technology with premium materials to deliver unmatched realism, vibrant colours, and long-lasting quality – the perfect choice for photography enthusiasts and professionals alike!"
+        },
+        "photoprint3": {
+            "name": "Art Print On Fujiflex High Gloss",
+            "description": "A warm base tone, exceptionally rich colors, and a high-gloss surface – these three compelling characteristics make Fujiflex High Gloss Paper the ideal choice for your motif.",
+            "detailedDescription": [
+                {
+                "title": "High-gloss art prints on Fujiflex: brilliant colours and fascinating depth",
+                "text": "Fujiflex high-gloss photo paper offers an extraordinary presentation for your artwork. With its mirror-smooth surface, a warm base tone and extra-rich colours, it ensures an impressive depth effect and brilliant details. Perfect for colour-intensive motifs or works that are meant to captivate with their luminosity."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Premium material:</b> Fujiflex photo paper with 235 g/m² – stable and tear-resistant.</li><li><b>Modern laser exposure:</b> Combined with traditional chemical development for pin-sharp prints in gallery quality.</li><li><b>Warm undertone:</b> Enhances colour intensity and ensures a harmonious grey balance.</li><li><b>High-gloss surface:</b> Reflects light to create a special depth effect.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your Fujiflex print is manufactured with millimetre precision in 9:16, 16:9 or 1:1 formats. From small formats to impressive sizes up to 240 x 122 cm, each work is individually adapted to optimally showcase your art."
+                },
+                {
+                "title": "What kind of artwork is Fujiflex photographic paper suitable for?",
+                "text": "Fujiflex is ideal for colour-intense motifs, landscapes or abstract artworks that you want to enhance with the high-gloss effect. Black and white motifs also benefit from the paper's harmonious grey balance and exceptional sharpness."
+                },
+                {
+                "title": "Finishing and presentation",
+                "text": "<ul><li><b>Optional white border:</b> Visually frames the motif and is ideal for later framing.</li><li><b>High-quality frames:</b> Choose from real wood veneer or aluminium frames, combined with passe-partout options for a perfectly coordinated finish.</li></ul>"
+                },
+                {
+                "title": "Longevity and quality",
+                "text": "<ul><li><b>75-year colour brilliance guarantee:</b> Ensures long-lasting vibrancy for your prints.</li><li><b>Durable solution:</b> Perfect for private collections, galleries or exhibitions.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A high-gloss art print on Fujiflex combines brilliant colours with timeless elegance – the perfect choice for a high-quality presentation of your artwork!"        
+        },
+        "photoprint4": {
+            "name": "Metallic ultraHD Art Print",
+            "description": "Fuji Crystal Pearl paper delivers a high-gloss, metallic effect, perfect for high-contrast images and night shots.",
+            "detailedDescription": [
+                {
+                "title": "Photos with a metallic effect: radiant colours and fascinating depth",
+                "text": "Experience your artwork with an impressive metallic effect on Fuji Crystal Pearl photo paper. The high-gloss surface with a metallic shimmer enhances the brightness of the colours, intensifies the density of the blacks and gives high-contrast images an extraordinary spatial effect – ideal for night shots, urban scenes or abstract designs."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Premium material:</b> Fuji Crystal Pearl photo paper ensures sharpness and detail with a high-gloss metallic shimmer.</li><li><b>Revolutionary exposure process:</b> Maximises clarity and detail in all image areas.</li><li><b>Enhanced contrasts:</b> White areas shimmer, colours glow, and blacks are intensified for a striking depth effect.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your metallic ultraHD art print is produced with millimetre precision in 9:16, 16:9 or 1:1 formats. From small formats to impressive sizes up to 240 x 122 cm, each work is individually adjusted to present your art in the best possible way."
+                },
+                {
+                "title": "Which artworks are suitable for metallic photo paper?",
+                "text": "Metallic Art Paper is ideal for high-contrast subjects such as night scenes with lights, colour-rich scenes or black and white works that you want to enhance with the shimmer and depth of the paper. It is perfect for photographs that you want to achieve a modern and dynamic effect."
+                },
+                {
+                "title": "Finishing and presentation",
+                "text": "<ul><li><b>Optional white border:</b> Visually frames the motif and is ideal for later framing.</li><li><b>Handcrafted frames:</b> Choose from real wood or aluminium frames, combined with passe-partout options for a perfectly coordinated finish.</li></ul>"
+                },
+                {
+                "title": "Durability and quality",
+                "text": "<ul><li><b>Double resolution:</b> UltraHD prints on Fuji Crystal Pearl photo paper offer maximum colour brilliance.</li><li><b>Longevity:</b> A long-lasting solution for private collections, galleries or exhibitions.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "An art print with a metallic effect combines brilliant colours with modern elegance – the perfect choice for a high-quality presentation of your artwork!"        
+        },
+        "photoprint5": {
+            "name": "Art Print On Ilford Baryta Paper",
+            "description": "Baryta paper offers gallery-grade quality with thick, glossy surfaces and a silky sheen for black-and-white prints.",
+            "detailedDescription": [
+                {
+                "title": "Black and white art prints on Ilford Baryta paper: classic elegance in gallery quality",
+                "text": "Experience your black and white images on Baryta paper – the classic for sophisticated photography. With its silky, glossy surface and typical Baryta structure, this premium paper gives your works of art extraordinary depth and brilliance. The high contrast range and precise tonal gradations make it the perfect choice for black and white photographs in gallery quality."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Premium material:</b> Ilford Baryta paper with a thickness of 315 g/m² ensures a unique feel and look.</li><li><b>Barium sulphate coating:</b> Provides brilliant whites, deep blacks, and nuanced grey tones.</li><li><b>Laser exposure and chemical development:</b> Guarantees razor-sharp details and harmonious tonal balance.</li><li><b>Optional white border:</b> Ideal for framing or passe-partout presentation.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your art print on fibre paper is produced with millimetre precision in the formats 9:16, 16:9 or 1:1. From small formats to impressive sizes up to 100 x 100 cm, each work is individually adapted to optimally present your art."
+                },
+                {
+                "title": "Which artworks are suitable for Ilford fibre paper?",
+                "text": "Baryta paper is ideal for black and white photography that needs to impress with strong contrasts, fine grey tones, and a classic aesthetic. It is particularly suitable for portraits, architectural photography, or artistic works that benefit from the silky surface and special paper structure."
+                },
+                {
+                "title": "Finishing and presentation",
+                "text": "<ul><li><b>Framing options:</b> Complement your print with handcrafted frames in real wood or aluminium.</li><li><b>Passe-partout options:</b> Add an elegant touch to your presentation.</li><li><b>Acrylic glass lamination:</b> Achieve an impressive depth effect with added shine.</li></ul>"
+                },
+                {
+                "title": "Longevity and quality",
+                "text": "<ul><li><b>Fade resistance:</b> Guaranteed colour brilliance for 75 years.</li><li><b>Durable solution:</b> Perfect for private collections, galleries, or exhibitions.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A black and white print on Ilford Baryta paper combines classic elegance with modern precision – the perfect choice for a high-quality presentation of your monochrome artwork!"        
+        },
+        "photoprint6": {
+            "name": "Art Print On Ilford B/W Paper",
+            "description": "Ilford black-and-white paper delivers strong contrasts, brilliant whites, and deep blacks for a striking visual impact.",
+            "detailedDescription": [
+                {
+                "title": "Black and white art prints on Ilford photo paper: precise greyscales and timeless elegance",
+                "text": "Experience your black and white images on high-quality Ilford photo paper, which impresses with precise greyscales, strong contrasts and impressive optical density. With a choice of a matt or glossy surface and up to 75 years of fade protection, these prints are the perfect choice for a long-lasting and professional presentation of your artwork."
+                },
+                {
+                "title": "Processing details",
+                "text": "<ul><li><b>Original Ilford photo paper:</b> Exposed and chemically developed for perfect tonal balance.</li><li><b>Modern laser exposure:</b> Ensures razor-sharp details and harmonious grey gradients.</li><li><b>Surface options:</b> Glossy for maximum brilliance or matt for reduced reflections and subtle texture.</li><li><b>Optional UV protective film:</b> Protects against scratches and dirt for added durability.</li></ul>"
+                },
+                {
+                "title": "Custom formats for your art",
+                "text": "Your black and white print will be produced to the millimetre in 9:16, 16:9 or 1:1 formats. From small formats to impressive sizes up to 240 x 122 cm, each piece is individually adapted to showcase your art in the best possible way."
+                },
+                {
+                "title": "Which artworks are suitable for Ilford black and white photo paper?",
+                "text": "This paper is ideal for black and white subjects where fine grey tones, precise details and strong contrasts are important. It is particularly suitable for portraits, architectural shots or minimalist designs that you want to emphasise with the classic aesthetics of black and white photography."
+                },
+                {
+                "title": "Finishing and presentation",
+                "text": "<ul><li><b>Optional white border:</b> Visually frames the motif and is ideal for later framing.</li><li><b>High-quality frames:</b> Choose from real wood or aluminium frames with passe-partout options.</li><li><b>Acrylic glass lamination:</b> Achieve an impressive depth effect with added brilliance.</li></ul>"
+                },
+                {
+                "title": "Longevity and quality",
+                "text": "<ul><li><b>Fade resistance:</b> Guaranteed colour brilliance for up to 75 years.</li><li><b>Durable solution:</b> Perfect for private collections, galleries or exhibitions.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A black and white print on Ilford photo paper combines classic elegance with modern precision – the perfect choice for a high-quality presentation of your monochrome artworks!"        
+        },
+        "fineart": {
+            "name": "Fine Art Prints on Hahnemühle & Canson",
+            "description": "Premium pigment prints on Fine Art papers from Hahnemühle, Canson, and Epson meet the highest artistic standards.",
+            "detailedDescription": [
+                {
+                "title": "Fine Art Paper: Gallery-Quality with Brilliant Color Reproduction",
+                "text": "Canvasnova fine art prints offer an elegant matte surface and outstanding color reproduction. Rich, vibrant colors, deep blacks, and excellent detail create an impressive visual impact. The acid-free and archival-quality material meets the highest gallery and museum standards."
+                },
+                {
+                "title": "Processing Details",
+                "text": "<ul><li><b>Premium Fine Art Paper:</b> Acid-free, archival-quality, ISO 9706 compliant for long-term durability.</li><li><b>State-of-the-art Printing Technology:</b> High-resolution printing ensures sharp details, precise color gradations, and impressive depth.</li><li><b>Matte Surface:</b> Non-reflective finish with a pleasant texture, ideal for professional presentations.</li><li><b>Optional UV Protection:</b> Additional protective options against environmental influences for enhanced longevity.</li></ul>"
+                },
+                {
+                "title": "Custom Formats Tailored to Your Artwork",
+                "text": "Your fine art print is produced precisely to your specifications. Canvasnova offers custom formats such as 9:16, 16:9, or 1:1—from small sizes to large-scale prints with impressive visual impact. Each piece is precisely tailored to showcase your artwork optimally."
+                },
+                {
+                "title": "Which Motifs are Particularly Suitable for Fine Art Paper?",
+                "text": "Fine art paper is ideal for color-intensive motifs, detailed photography, and artistic illustrations. Landscape images, portraits, and abstract artworks especially benefit from the brilliant color reproduction and high-quality presentation."
+                },
+                {
+                "title": "Finish and Presentation Options",
+                "text": "<ul><li><b>Optional White Border (Passepartout Effect):</b> Elegantly frames your motif and facilitates subsequent framing.</li><li><b>Premium Frame Choices:</b> Real wood or aluminum frames available to stylishly complement your artwork.</li><li><b>Acrylic Glass Finishing (optional):</b> Enhances depth perception of the motif and provides additional protection.</li></ul>"
+                },
+                {
+                "title": "Longevity and Quality Assurance",
+                "text": "<ul><li><b>Archival Stability:</b> Acid-free materials ensure lasting color brilliance without fading.</li><li><b>Museum Standard:</b> Ideal for private collections, galleries, or exhibitions due to compliance with the highest quality standards.</li></ul>"
+                }
+            ],
+            "recursiveDescription": "A fine art print on premium artist paper combines vibrant colors with outstanding detail—making it the ideal choice for professional presentation of your artwork."
+        },
+        "digital1": {
+            "name": "Digital Artwork",
+            "description": "This is the digital File only, available via download.",
+            "detailedDescription": "This is the digital File only, available via download."
+        }
+
+    },
+    "productCategory": {
+        "acrylic": {
+            "name": "Acrylic Art Prints"
+        },
+        "metal": {
+            "name": "Metal Prints"
+        },
+        "framed": {
+            "name": "Framed Prints"
+        },
+        "canvas": {
+            "name": "Canvas Prints"
+        },
+        "photoprint": {
+            "name": "Art Prints"
+        },
+        "giclee": {
+            "name": "Giclee Prints"
+        },
+        "digital": {
+            "name": "Digital Art"
+        }
+    },
+    "mounting": {
+        "passe-partout1": {
+            "name": "Photo print / Fine Art Print with passe-partout",
+            "description": "Passepartout framing combines elegance and flexibility, enhancing and protecting both modern and traditional artworks."
+        },
+        "canvas-stretcher": {
+            "name": "Canvas Stretcher",
+            "description": "Choose between a matt surface for a natural, reflection-free look or a glossy variant that intensifies colours and makes them shine vibrantly."
+        },
+        "acrylic1": {
+            "name": "Art Print Under Acrylic Glass",
+            "description": "Stable acrylic glass pictures with aluminum backing, perfect for timeless and high-quality presentations."
+        },
+        "acrylic2": {
+            "name": "ultraHD Art Print Under Acrylic Glass",
+            "description": "UltraHD prints under acrylic glass offer brilliant colors, depth, and stability with a 3mm Alu-Dibond backing."
+        },
+        "acrylic3": {
+            "name": "Acrylic ultraHD Metallic Print",
+            "description": "Your ultraHD print on metallic paper is mounted under glossy, 2 mm thick acrylic glass and backed by a 3 mm sturdy Alu-Dibond panel for added stability."
+        },
+        "acrylic4": {
+            "name": "Art Print Under Matte Acrylic Glass",
+            "description": "Matte acrylic glass minimizes reflections, ideal for bright spaces, with durable Alu-Dibond backing."
+        },
+        "acrylic5": {
+            "name": "Ilford black and white print set behind acrylic",
+            "description": "Black-and-white art shines on premium monochrome paper, sealed behind gallery-quality acrylic glass."
+        },
+        "acrylic6": {
+            "name": "Fine Art Pigment Print under Acrylic Glass",
+            "description": "Brilliant colors and lasting quality with cutting-edge printing behind acrylic glass. Seamless formats up to 290 x 180 cm possible."
+        },
+        "aludibond1": {
+            "name": "Direct Print On Aluminum Dibond",
+            "description": "Direct printing with 7-color technology offers a matte finish and subtle shimmer, backed by durable Alu-Dibond."
+        },
+        "aludibond2": {
+            "name": "Art Print on Aluminium Backing",
+            "description": "Premium papers, laser exposure, and UV laminate on Alu-Dibond ensure timeless, gallery-grade quality."
+        },
+        "aludibond4": {
+            "name": "Ilford B/W Art Print On Aluminum Backing",
+            "description": "State-of-the-art technology and Alu-Dibond ensure flawless black-and-white presentations, with optional framing."
+        },
+        "aludibond5": {
+            "name": "Fine Art Print On Aluminum Dibond",
+            "description": "Fine Art Prints deliver top quality with various paper options, laminated on Alu-Dibond for a perfect display."
+        },
+        "aludibond6": {
+            "name": "Direct Print on Brushed Aluminium",
+            "description": "Brushed aluminum adds a metallic sheen to light areas, with silver or gold finishes, and is waterproof for outdoor use."
+        },
+        "aludibond7": {
+            "name": "ChromaLuxe HD Metal Print",
+            "description": "Premium Metal Prints are sturdy, waterproof, lightweight, and perfect for vibrant large-format displays, even outdoors."
+        }
+    },
+    "imagecarrier": {
+        "imagecarrier1": {
+            "name": "Art Print on Aluminium Dibond in a Shadow Box Frame",
+            "detailedDescription": "<div><h3>Aluminium Dibond with Showcase Frame</h3><p>The combination of aluminium dibond and showcase frame gives your artwork an impressive sense of depth and brilliant colour intensity. The robust aluminium dibond substrate ensures stability and a low intrinsic weight, making it ideal for larger formats.</p><h3>Key Features</h3><ul><li><b>Sturdy aluminium dibond:</b> Provides dimensional stability and lightness, even for large formats, thanks to its three-layer construction with two aluminium layers and a plastic core.</li><li><b>Extraordinary depth effect:</b> The combination of aluminium dibond and the extra-deep showcase frame creates a modern and long-lasting presentation.</li><li><b>Brilliant colour intensity:</b> Ensures vibrant and radiant colours for an impactful display.</li></ul><h3>Optional White Border</h3><p>A freely selectable white margin between 1 cm and 12 cm creates an elegant distance between the motif and the frame, highlighting the work even more.</p><ul><li><b>Customisable margin:</b> Adds a refined touch to your artwork, emphasizing its presence within the frame.</li></ul></div>"
+        },
+        "imagecarrier2": {
+            "name": "Photo Print or Fine Art Print in a Shadow Box Frame",
+            "detailedDescription": "<div><h3>Showcase Frame with Premium Fine Art Papers</h3><p>Present your artwork in a showcase frame that combines high-quality fine art papers with precise craftsmanship. The prints are smoothly mounted on matboard, preventing warping and creating a slightly raised effect. Customise your piece with seven mat colours and a border width of 5 to 20 cm for a personalised presentation.</p><h3>Key Features</h3><ul><li><b>Smooth mounting:</b> Prints are laminated onto matboard to avoid distortion and achieve a clean, raised look.</li><li><b>Customisable mats:</b> Choose from seven colours and select a border distance between 5 cm and 20 cm to enhance your artwork.</li></ul><h3>Premium Fine Art Papers</h3><ul><li><b>William Turner:</b> Matte watercolour texture, perfect for authentic portraits and extraordinary concepts.</li><li><b>Fine Art Pearl:</b> Pure white surface with a silky shimmer, ideal for depth and precise contrasts.</li><li><b>Photo Rag:</b> Soft cotton texture suitable for all types of motifs, offering impressive image depth.</li><li><b>Torchon:</b> Coarse, bright white texture for three-dimensional and extravagant works of art.</li><li><b>FineArt Baryta:</b> Glossy surface with a classic baryta paper structure for timeless elegance and brilliance.</li></ul><h3>Custom Formats</h3><p>The showcase frame is available in millimetre-precise proportions, including 1:1, 16:9, or 9:16 formats. From small sizes to large-scale presentations, your artwork can be tailored to any dimension.</p></div>"
+        },
+            "imagecarrier3": {
+            "name": "Floating Art in a Shadow Box Frame",
+            "detailedDescription": "<div><h3>Showcase Frame with Floating Presentation</h3><p>A showcase frame with a floating presentation gives your artwork an extraordinary effect. The space between the work and the background creates the impression that the motif is floating in the frame, emphasizing the autonomy of the piece while providing an elegant visual finish.</p><h3>Key Features</h3><ul><li><b>High-quality lamination on aluminium dibond:</b> The artwork is smoothly mounted on aluminium dibond, a stable and lightweight material suitable for large formats in proportions such as 1:1, 16:9, or 9:16.</li><li><b>Floating impression:</b> A 1 cm distance between the artwork and the background creates a modern, three-dimensional effect.</li><li><b>Customisable margin:</b> The space between the work and the edge of the frame can be freely selected between 1 cm and 12 cm, allowing for a personalised presentation.</li></ul></div>"
+        },
+        "imagecarrier4": {
+            "name": "Floating Passe-Partout in a Shadow Box Frame",
+            "detailedDescription": "<div><h3>Showcase Frame with Floating Passe-Partout</h3><p>A showcase frame with a floating passe-partout gives your artwork an extraordinary sense of depth. The space between the passe-partout and the background creates the impression that the passe-partout is floating, making the work appear to be set further back. This presentation focuses attention on the motif while creating an elegant, three-dimensional look.</p><h3>Custom Mat Design</h3><ul><li><b>Floating effect:</b> A 1 cm space between the mat and the background adds a modern sense of depth.</li><li><b>Mat width:</b> Freely selectable between 3 cm and 30 cm, allowing for precise adaptation to your artwork.</li><li><b>Colour selection:</b> Choose from ten colours to perfectly match the framing to your work.</li></ul><h3>Optional White Border</h3><p>An additional white border of 1 cm to 12 cm can be selected to further accentuate your artwork and enhance its presentation.</p><h3>Formats for Your Art</h3><p>The showcase frame is available in millimetre-precise proportions, including 1:1, 16:9, or 9:16 formats – ideal for presenting your artwork in a stylish and professional manner.</p></div>"
+        }
+    },
+    "frameCategory": {
+        "none": {
+            "name": "No Frame"
+        },
+        "wooden": {
+            "name": "Wooden Frames"
+        },
+        "aluminium": {
+            "name": "Aluminium Frames"
+        },
+        "special": {
+            "name": "Special Frames"
+        }
+    },
+    "frame": {
+        "noframe": {
+            "name": "No Frame"
+        },
+        "whamburg20": {
+            "name": "Hamburg 20mm",
+            "description": "Our classic frame – the Hamburg 20 mm – is a simple yet elegant wooden frame that suits all types of motifs. It is available with genuine wood veneer and visible grain for a natural look, or in a matte lacquered finish for a modern touch. Choose from ten different colors to perfectly match your style. Width: 20 mm Depth: 30 mm"
+        },
+        "whamburg40": {
+            "name": "Hamburg 40mm",
+            "description": "The Hamburg 40 mm frame is the wider version of our classic wooden frame and is available in various colors. Width: 40 mm Depth: 30 mm"
+        },
+        "wbern20": {
+            "name": "Bern 20mm",
+            "description": "The Bern 20 mm is an elegant, understated wooden frame featuring a slightly curved front and a glossy lacquered surface. It is available in black or white. Width: 20 mm Depth: 15 mm"
+        },
+        "wbern50": {
+            "name": "Bern 50mm",
+            "description": "The Bern 50 mm is the wider version of this elegant wooden frame, which impresses with its curved front and high-gloss lacquered surface. It is available in black or white. Width: 50 mm Depth: 25 mm"
+        },
+        "wstockholm30": {
+            "name": "Stockholm 30mm",
+            "description": "The Stockholm 30 mm is a wooden frame with a visible grain, featuring an outer edge that sits lower than the inner side. This design cleverly directs the viewer's focus toward the artwork. The frame is available in three different colors. Width: 30 mm Depth: 25 mm"
+        },
+        "wstockholm50": {
+            "name": "Stockholm 50mm",
+            "description": "The Stockholm 50 mm is the wider version of this wooden frame, offering an even more striking visual impact. The frame is available in three different colors. Width: 50 mm Depth: 40 mm"
+        },
+        "wvienna27": {
+            "name": "Vienna 27mm",
+            "description": "Wien is an elegantly curved wooden frame with a classic appearance, featuring genuine wood veneer and a natural, visible wood grain. The frame is available in five different colors. Width: 27 mm Depth: 27 mm"
+        },
+        "wbasel6": {
+            "name": "Basel 6mm",
+            "description": "The Basel 6 mm frame is the slimmer version of our classic shadow gap frame made from wood and is available in eight different colors. The 4 mm gap between the artwork and the frame creates the illusion that your motif is floating. Width: 6 mm Depth: 29 mm Shadow Gap: 4 mm"
+        },
+        "wbasel15": {
+            "name": "Basel 15mm",
+            "description": "The Basel 15 mm frame is a classic shadow gap frame made of wood, available in various colors. The gap between the artwork and the frame creates the illusion that your motif is floating. Width: 15 mm Depth: 29 mm Shadow Gap: 7 mm"
+        },
+        "wbasel31": {
+            "name": "Basel 31mm",
+            "description": "The Basel 31 mm frame is the wider version of our classic shadow gap frame made from wood and is available in four colors. The gap between the artwork and the frame creates the impression that your motif is floating. WIDTH: 31 mm DEPTH: 29 mm SHADOW GAP: 7 mm"
+        },
+        "wartbox4": {
+            "name": "Solid Wood ArtBox 4mm",
+            "description": "The ArtBox in wood frames your artwork with understated elegance when viewed from the front. From the side, it impresses with a depth of 35 mm that adds a striking visual dimension. The genuine wood veneer gives your image a natural appearance, optionally enhanced by a visible grain pattern. The ArtBox is available in six different colors. Width: 4 mm Depth: 35 mm"
+        },
+        "wtokyo20": {
+            "name": "Tokyo 20mm",
+            "description": "The Tokyo frame is wider and deeper than our classic Basel frame and also features a shadow gap. It is available in high-gloss or matte black finishes. The frame is made of wood, but the painted surface does not reveal any wood grain. WIDTH: 20 mm DEPTH: 48 mm SHADOW GAP: 7 mm"
+        },
+        "wbarcelona12": {
+            "name": "Barcelona 12.5mm",
+            "description": "Barcelona is a sleek shadow gap frame with a distinctive appearance. The wooden frame features a lacquered surface, with the front edge available in either silver or gold and the sides finished in elegant black. The frame comes in two color variations. Width: 12 mm Depth: 45 mm Shadow Gap: 7 mm"
+        },
+        "wbaselplus21": {
+            "name": "Basel Plus 21mm",
+            "description": "The Basel Plus frame impresses with an exceptionally wide shadow gap, which further enhances the floating effect of your artwork. The frame is available in three different colors. WIDTH: 21 mm DEPTH: 60 mm SHADOW GAP: 20 mm"
+        },
+        "woslo12": {
+            "name": "Oslo 12mm",
+            "description": "Oslo is the slimmer version of our classic Hamburg wooden frame, offering a subtle framing option with visible wood grain. The frame is available in five different colors. WIDTH: 12 mm DEPTH: 29 mm"
+        },
+        "aartbox10": {
+            "name": "Aluminium ArtBox, 10mm Profile",
+            "description": "Text hier (Hier brauchen wir noch Texte)"
+        },
+        "aartbox25": {
+            "name": "Aluminium ArtBox, 25mm Profile",
+            "description": "The ArtBox Alu 25 mm, made from anodized aluminum, frames your image with elegant subtlety. The shadow gap creates a captivating impression of your artwork appearing to float. Choose from silver, black, white, or gold – all with a matte finish. WIDTH: 2 mm DEPTH: 25 mm SHADOW GAP: 4 mm"
+        },
+        "aartbox50": {
+            "name": "Aluminium ArtBox, 50mm Profile",
+            "description": "The ArtBox Alu 50 mm transforms your artwork into a sculptural gallery piece. It is available in silver, black, white, or gold, each with a matte finish. WIDTH: 2 mm DEPTH: 50 mm SHADOW GAP: 4 mm"
+        },
+        "aartbox75": {
+            "name": "Aluminium ArtBox, 75mm Profile",
+            "description": "This variant gives your image a particularly striking object-like character. Available in silver or black with a matte finish. WIDTH: 2 mm DEPTH: 75 mm SHADOW GAP: 4 mm"
+        },
+        "asanfrancisco30": {
+            "name": "San Francisco 30mm",
+            "description": "San Francisco stands out with its relatively wide profile and shadow gap, crafted from brushed, anodized aluminum. The frame is available in silver or black. WIDTH: 30 mm DEPTH: 30 mm SHADOW GAP: 7 mm"
+        },
+        "aslimline": {
+            "name": "Slimline Case",
+            "description": "The 1 mm narrow border made of aluminum provides a subtle yet striking finish. Thanks to its minimal depth, your image stands out effectively at 1.5 mm from the frame. The frame is available in four colors – silver, gold, and black with a matte finish, and white with a glossy surface. WIDTH: 1 mm DEPTH: 5–7 mm"
+        },
+        "amiami9": {
+            "name": "Miami 9mm",
+            "description": "Change your motifs in the blink of an eye - without any tools or effort. Our magnetic picture frames allow you to change your wall design flexibly and easily. Perfect for anyone who regularly wants to set new accents."
+        },
+        "sshadowbox21": {
+            "name": "Shadow Box Frame 21mm",
+            "description": "Our showcase frame gives your artwork a stylish gallery look. The extra depth of the frame and the distance from the glass ensures your work is displayed in style."
+        },
+        "shamburg20": {
+            "name": "Hamburg 20mm",
+            "description": "Modern design meets gradient: The wooden frame is finished with a matte lacquer in four varying shades of a single color family and is available in three different color editions. WIDTH: 20 mm DEPTH: 30 mm"
+        },
+        "slondon65": {
+            "name": "London 65mm",
+            "description": "London is an opulent frame with elegant accents in gold or silver, reminiscent of classic painting frames. It is particularly well-suited for special motifs, such as still lifes. The frame is available in two color variants. WIDTH: 65 mm DEPTH: 45 mm"
+        },
+        "stuscany68": {
+            "name": "Tuscany 68mm",
+            "description": "The Toskana 70 mm is a wide, slightly inward-curved frame that gives your artwork a striking and impressive finish. The distinctive wood grain is carefully aligned around the entire frame, drawing even more attention to your image. The frame is available in three different colors. WIDTH: 70 mm  DEPTH: 32 mm"
+        },
+        "stuscany105": {
+            "name": "Tuscany 105mm",
+            "description": "The Toskana 105 mm is the wider version of this wooden frame, presenting your artwork in a particularly striking manner. The frame is available in three different colors. WIDTH: 105 mm DEPTH: 52 mm"
+        },
+        "sbrittany54": {
+            "name": "Brittany 54mm",
+            "description": "Bretagne is a wide, straight-lined wooden frame in the walnut finish, impressing with its striking grain pattern. WIDTH: 54 mm DEPTH: 25 mm"
+        },
+        "scopenhagen14": {
+            "name": "Copenhagen 14mm",
+            "description": "Kopenhagen is a wooden frame with a distinctive look: The slanted, narrow profile when viewed from the front draws the eye and presents your artwork as if displayed in a showcase. Available in black or white. WIDTH: 14 mm DEPTH: 60 mm"
+        },
+        "spopart320": {
+            "name": "Pop Art 3mm",
+            "description": "The Pop Art frame makes colourful works of art shine with its neon effect and gives them a dynamic look. Variants in black or white elegantly showcase works, while the integrated shadow gap makes even large formats appear light. Combining different colours and sizes creates an exciting hanging with a unique radiance."
+        },
+        "spopart340": {
+            "name": "Pop Art 3mm",
+            "description": "The Pop Art frame makes colourful works of art shine with its neon effect and gives them a dynamic look. Variants in black or white elegantly showcase works, while the integrated shadow gap makes even large formats appear light. Combining different colours and sizes creates an exciting hanging with a unique radiance."
+        }
+        
+
+    },
+    "frameColor": {
+        "alder-brown": {
+            "name": "Alder Brown"
+        },
+        "black-oak": {
+            "name": "Black Oak"
+        },
+        "maple-natural": {
+            "name": "Maple Natural"
+        },
+        "maple-white": {
+            "name": "Maple White"
+        },
+        "natural-oak": {
+            "name": "Natural Oak"
+        },
+        "wwalnut": {
+            "name": "Walnut"
+        },
+        "black-matte": {
+            "name": "Black Matte"
+        },
+        "white-matte": {
+            "name": "White"
+        },
+        "light-gray-matte": {
+            "name": "Light Gray Matte"
+        },
+        "dark-gray-matte": {
+            "name": "Dark Gray Matte"
+        },
+        "black-lacquered": {
+            "name": "Black Lacquered"
+        },
+        "white-lacquered": {
+            "name": "White Lacquered"
+        },
+        "ebony": {
+            "name": "Ebony"
+        },
+        "wwhite": {
+            "name": "White"
+        },
+        "black-glossy": {
+            "name": "Black Glossy"
+        },
+        "wblack-silver": {
+            "name": "Black-Silver"
+        },
+        "wblack-gold": {
+            "name": "Black-Gold"
+        },
+        "oak-gray": {
+            "name": "Oak Gray"
+        },
+        "silver": {
+            "name": "Silver"
+        },
+        "black": {
+            "name": "Black"
+        },
+        "gold": {
+            "name": "Gold"
+        },
+        "awhite": {
+            "name": "White"
+        },
+        "design-edition-green": {
+            "name": "Design Edition Green"
+        },
+        "design-edition-yellow": {
+            "name": "Design Edition Yellow"
+        },
+        "design-edition-purple": {
+            "name": "Design Edition Purple"
+        },
+        "sblack-silver": {
+            "name": "Black-Silver"
+        },
+        "sblack-gold": {
+            "name": "Black-Gold"
+        },
+        "swalnut": {
+            "name": "Walnut"
+        },
+        "anthracite": {
+            "name": "Anthracite"
+        },
+        "tobacco": {
+            "name": "Tobacco"
+        },
+        "neon-red": {
+            "name": "Neon Red"
+        },
+        "neon-orange": {
+            "name": "Neon Orange"
+        },
+        "neon-green": {
+            "name": "Neon Green"
+        },
+        "neon-blue": {
+            "name": "Neon Blue"
+        }
+    },
+    "passePartoutColor": {
+        "bright-white": {
+            "name": "Passe-Partout, Bright White"
+        },
+        "natural-white": {
+            "name": "Passe-Partout, Natural White"
+        },
+        "ivory": {
+            "name": "Passe-Partout, Ivory"
+        },
+        "light-grey": {
+            "name": "Passe-Partout, Light Grey"
+        },
+        "dark-grey": {
+            "name": "Passe-Partout, Dark Grey"
+        },
+        "anthracite": {
+            "name": "Passe-Partout, Anthracite"
+        },
+        "black": {
+            "name": "Passe-Partout, Black"
+        },
+        "linen-natural-white": {
+            "name": "Passe-Partout, Linen Natural White"
+        },
+        "linen-ivory": {
+            "name": "Passe-Partout, Linen Ivory"
+        },
+        "linen-black": {
+            "name": "Passe-Partout, Linen Black"
+        }
+    },
+    "passePartoutWidth": {
+        "4": {
+            "label": "4 cm Passe-Partout Width"
+        },
+        "5": {
+            "label": "5 cm Passe-Partout Width"
+        },
+        "6": {
+            "label": "6 cm Passe-Partout Width"
+        },
+        "7": {
+            "label": "7 cm Passe-Partout Width"
+        },
+        "8": {
+            "label": "8 cm Passe-Partout Width"
+        },
+        "9": {
+            "label": "9 cm Passe-Partout Width"
+        },
+        "10": {
+            "label": "10 cm Passe-Partout Width"
+        }
+    },
+    "acrylglass": {
+        "a2g": {
+            "name": "Acrylic glass 2mm, glossy"
+        },
+        "a2m": {
+            "name": "Acrylic glass 2mm, matte"
+        },
+        "a4g": {
+            "name": "Acrylic glass 4mm, glossy"
+        },
+        "a6g": {
+            "name": "Acrylic glass 6mm, glossy"
+        }
+    },
+    "paper": {
+        "fcrystalarchiveg": {
+            "name": "Fuji Crystal Archive, Glossy",
+            "description": "Fuji Crystal Archive DP II is a premium branded paper with a neutral base tone. The glossy version delivers vibrant colors and striking contrasts.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive DP II</h3><p>Fujicolor Crystal Archive DP II is a high-quality silver halide photographic paper specially developed for professional use. It offers exceptional colour brilliance, high maximum density for deep blacks, and impressive colour saturation. With a wide colour gamut and precise detail reproduction, it is ideal for demanding artwork and photography. Optimised for digital printing, the paper's durability of up to 75 years makes it perfect for galleries, exhibitions, or high-end art products.</p><h3>Key Features</h3><ul><li><b>Exceptional colour brilliance:</b> Vibrant colours with impressive saturation and depth.</li><li><b>Wide colour gamut:</b> Ensures precise detail reproduction and tonal accuracy.</li><li><b>Durability:</b> Colour fastness guaranteed for up to 75 years.</li></ul><h3>Available Finishes</h3><p>The paper is available in the following finishes to suit various artistic styles:</p><ul><li>Matt</li><li>Gloss</li><li>Silk</li><li>Velvet</li></ul><h3>Perfect For</h3><ul><li>Galleries and exhibitions</li><li>Professional portfolios and high-end presentations</li><li>Vibrant artworks with deep blacks and sharp details</li></ul></div>"
+        },
+        "fcrystalarchivem": {
+            "name": "Fuji Crystal Archive, Matte",
+            "description": "Fuji Crystal Archive DP II is a premium branded paper with a neutral base tone. Fine texture without distracting reflections",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive DP II</h3><p>Fujicolor Crystal Archive DP II is a high-quality silver halide photographic paper specially developed for professional use. It offers exceptional colour brilliance, high maximum density for deep blacks, and impressive colour saturation. With a wide colour gamut and precise detail reproduction, it is ideal for demanding artwork and photography. Optimised for digital printing, the paper's durability of up to 75 years makes it perfect for galleries, exhibitions, or high-end art products.</p><h3>Key Features</h3><ul><li><b>Exceptional colour brilliance:</b> Vibrant colours with impressive saturation and depth.</li><li><b>Wide colour gamut:</b> Ensures precise detail reproduction and tonal accuracy.</li><li><b>Durability:</b> Colour fastness guaranteed for up to 75 years.</li></ul><h3>Available Finishes</h3><p>The paper is available in the following finishes to suit various artistic styles:</p><ul><li>Matt</li><li>Gloss</li><li>Silk</li><li>Velvet</li></ul><h3>Perfect For</h3><ul><li>Galleries and exhibitions</li><li>Professional portfolios and high-end presentations</li><li>Vibrant artworks with deep blacks and sharp details</li></ul></div>"
+        },
+        "uhdphotoprint": {
+            "name": "UltraHD Art Print",
+            "description": "The quality of an art print is only as good as the paper it’s exposed on. With the newly developed Fuji Crystal Professional Archive Maxima paper from Fujifilm, your ultraHD print meets the highest standards for color reproduction and detail accuracy.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive Professional Paper Maxima</h3><p>Fujicolor Crystal Archive Professional Paper Maxima is an UltraHD silver halide paper designed for demanding fine art and professional photography. It offers exceptional colour reproduction, deep blacks, and increased durability, making it ideal for galleries, museums, and high-end exhibitions where maximum detail and colour saturation are required.</p><h3>Unmatched Image Quality</h3><ul><li><b>Extended colour gamut:</b> 20-21% wider colour range for vibrant and precise details.</li><li><b>High D-Max density:</b> Delivers deep blacks and exceptional tonal depth, ensuring clarity even in shadowed areas.</li><li><b>Light stability:</b> Increased durability ensures artworks retain their brilliance for decades.</li></ul><h3>Available Finishes</h3><p>This paper is available in multiple finishes to meet diverse artistic needs:</p><ul><li>Matt</li><li>Gloss</li><li>Silk</li><li>Velvet</li></ul><h3>Perfect For</h3><ul><li>Gallery and museum-quality prints</li><li>Artworks with intense colours and precise details</li><li>Black-and-white photographs with high contrast</li><li>Exhibits designed for longevity</li><li>Professional portraiture and commercial photography</li></ul><h3>Quick Overview</h3><ul><li><b>High quality silver halide paper:</b> Exceptional detail and colour reproduction.</li><li><b>Longevity:</b> Colour fastness up to 75 years.</li><li><b>Diverse applications:</b> Perfect for galleries, exhibitions, and professional photography.</li></ul></div>"
+        },
+        "fcrystalarchives": {
+            "name": "Fuji Crystal Archive, Silk",
+            "description": "Fuji Crystal Archive DP II is a premium branded paper with a neutral base tone. Fine texture for a silky-matte sheen",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive DP II</h3><p>Fujicolor Crystal Archive DP II is a high-quality silver halide photographic paper specially developed for professional use. It offers exceptional colour brilliance, high maximum density for deep blacks, and impressive colour saturation. With a wide colour gamut and precise detail reproduction, it is ideal for demanding artwork and photography. Optimised for digital printing, the paper's durability of up to 75 years makes it perfect for galleries, exhibitions, or high-end art products.</p><h3>Key Features</h3><ul><li><b>Exceptional colour brilliance:</b> Vibrant colours with impressive saturation and depth.</li><li><b>Wide colour gamut:</b> Ensures precise detail reproduction and tonal accuracy.</li><li><b>Durability:</b> Colour fastness guaranteed for up to 75 years.</li></ul><h3>Available Finishes</h3><p>The paper is available in the following finishes to suit various artistic styles:</p><ul><li>Matt</li><li>Gloss</li><li>Silk</li><li>Velvet</li></ul><h3>Perfect For</h3><ul><li>Galleries and exhibitions</li><li>Professional portfolios and high-end presentations</li><li>Vibrant artworks with deep blacks and sharp details</li></ul></div>"
+        },
+        "fvelvet": {
+            "name": "Fuji Velvet",
+            "description": "Fuji Crystal Archive DP II is a premium branded paper with a neutral base tone.A very matte, velvety surface that is completely free of reflections.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive DP II</h3><p>Fujicolor Crystal Archive DP II is a high-quality silver halide photographic paper specially developed for professional use. It offers exceptional colour brilliance, high maximum density for deep blacks, and impressive colour saturation. With a wide colour gamut and precise detail reproduction, it is ideal for demanding artwork and photography. Optimised for digital printing, the paper's durability of up to 75 years makes it perfect for galleries, exhibitions, or high-end art products.</p><h3>Key Features</h3><ul><li><b>Exceptional colour brilliance:</b> Vibrant colours with impressive saturation and depth.</li><li><b>Wide colour gamut:</b> Ensures precise detail reproduction and tonal accuracy.</li><li><b>Durability:</b> Colour fastness guaranteed for up to 75 years.</li></ul><h3>Available Finishes</h3><p>The paper is available in the following finishes to suit various artistic styles:</p><ul><li>Matt</li><li>Gloss</li><li>Silk</li><li>Velvet</li></ul><h3>Perfect For</h3><ul><li>Galleries and exhibitions</li><li>Professional portfolios and high-end presentations</li><li>Vibrant artworks with deep blacks and sharp details</li></ul></div>"
+        },
+        "muhdphotoprint": {
+            "name": "Metallic ultraHD Art Print",
+            "description": "Experience your motifs as images with a striking metallic effect! Artworks on Fuji Crystal Pearl captivate with their high-gloss surface and metallic sheen. This paper is perfectly suited for high-contrast images and night shots with abundant lighting.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujicolor Crystal Archive Pearl Paper</h3><p>Fujicolor Crystal Archive Pearl Paper is a premium silver halide paper featuring a unique pearlescent surface created by embedded pearl crystals. This shimmering metallic effect enhances the luxurious presentation of artwork while delivering exceptional colour reproduction, deep blacks, and an extended tonal range.</p><h3>Key Features</h3><ul><li><b>Pearlescent surface:</b> Embedded pearl crystals create a metallic shimmer for a sophisticated look.</li><li><b>High D-Max density:</b> Ensures deep blacks and enhanced tonal depth for striking visuals.</li><li><b>Extended colour gamut:</b> Vibrant colours with high saturation and precise detail reproduction.</li><li><b>Durability:</b> Archive-ready with high light stability, ensuring long-lasting prints suitable for galleries and exhibitions.</li></ul><h3>Perfect For</h3><ul><li>Landscape artwork with vibrant colours and fine detail</li><li>Portraits with natural skin tones</li><li>Black-and-white images with enhanced contrast and depth</li><li>Artworks requiring a metallic sheen for a luxurious presentation</li><li>Commercial printing and high-quality displays</li></ul><h3>Quick Overview</h3><ul><li><b>Pearlescent finish:</b> Unique metallic shimmer for eye-catching presentations.</li><li><b>Exceptional colour reproduction:</b> Vibrant colours, deep blacks, and sharp details.</li><li><b>Archival quality:</b> Durable prints ideal for exhibitions and galleries.</li></ul></div>"
+        },
+        "fflex": {
+            "name": "Fuji Flex",
+            "description": "A warm base tone, exceptionally rich colors, and a high-gloss surface – these three compelling characteristics make Fujiflex High Gloss Paper the ideal choice for your artwork.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Fujiflex Crystal Archive Supergloss Paper</h3><p>Fujiflex Crystal Archive Supergloss is a state-of-the-art silver halide paper with an ultra glossy finish, designed for professional applications. Its robust polyester (PET) base ensures exceptional durability and stability, while the mirror-smooth surface delivers impressive depth and exceptionally rich colours. This paper is ideal for large format printing, exhibitions, and high-end presentations requiring maximum image quality.</p><h3>Key Features</h3><ul><li><b>Ultra glossy surface:</b> Provides maximum colour saturation and reflective effects for a luxurious look.</li><li><b>High D-Max density:</b> Ensures deep blacks and a wide tonal range, enhancing contrast and detail.</li><li><b>Durable PET base:</b> Highly resistant and stable, ensuring long-lasting prints up to 75 years without yellowing.</li></ul><h3>Perfect For</h3><ul><li>High-quality artwork with vibrant colours and accurate detail</li><li>Large format presentations and exhibitions</li><li>Acrylic mounting for three-dimensional depth effects</li><li>Artwork with high contrast and deep blacks</li><li>Luxury photo products and commercial printing</li></ul><h3>Quick Overview</h3><ul><li><b>Glossy silver halide paper:</b> Designed for professional use with a PET base.</li><li><b>Exceptional image quality:</b> Deep blacks, vibrant colours, and impressive depth.</li><li><b>Versatile applications:</b> Perfect for exhibitions, galleries, acrylic mounts, and luxury presentations.</li></ul></div>"
+        },
+        "ibwg": {
+            "name": "Ilford B/W Paper, Glossy",
+            "description": "Ilford paper is a pure black-and-white paper that delivers deep blacks and a color-neutral presentation without unwanted color casts. Thanks to its glossy surface, the contrasts in your image are highlighted with striking effect.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Ilford Black &amp; White Art Paper</h3><p>Ilford is a leading manufacturer of black and white photo paper, offering a wide range of high-quality papers specially developed for discerning photographers and artists. Known for exceptional tonal reproduction, Ilford papers feature deep blacks, brilliant whites, and fine grey gradations, making them ideal for classic black-and-white photography and artistic expression.</p><h3>Key Features</h3><ul><li><b>Silver halide technology:</b> Ensures precise detail reproduction and impressive image depth.</li><li><b>Versatile options:</b> Available in multigrade, fibre-based (FB), and resin-coated (RC) variants to meet diverse artistic needs.</li><li><b>Tonal precision:</b> Offers the deepest blacks, brilliant whites, and smooth grey tones for exceptional contrast.</li></ul><h3>Perfect For</h3><ul><li>Classic black-and-white photography with high contrast</li><li>Fine art prints with precise details and neutral tones</li><li>Portraits and landscapes with fine grey gradations</li><li>Exhibition prints with long-lasting archival quality</li><li>Artistic projects requiring premium materials</li></ul><h3>Quick Overview</h3><ul><li><b>High-quality paper:</b> Designed for professional use with silver halide technology.</li><li><b>Tonal excellence:</b> Deep blacks, brilliant whites, and smooth grey gradations.</li><li><b>Variety of finishes:</b> Available in glossy, matt, pearl, and fibre base variants.</li></ul></div>"
+        },
+        "ibwm": {
+            "name": "Ilford B/W Paper, Matte",
+            "description": "Ilford paper is a pure black-and-white paper that delivers deep blacks and a color-neutral presentation without unwanted color casts. Thanks to its matte surface the contrasts in your artwork are highlighted with striking effect.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Ilford Black &amp; White Art Paper</h3><p>Ilford is a leading manufacturer of black and white photo paper, offering a wide range of high-quality papers specially developed for discerning photographers and artists. Known for exceptional tonal reproduction, Ilford papers feature deep blacks, brilliant whites, and fine grey gradations, making them ideal for classic black-and-white photography and artistic expression.</p><h3>Key Features</h3><ul><li><b>Silver halide technology:</b> Ensures precise detail reproduction and impressive image depth.</li><li><b>Versatile options:</b> Available in multigrade, fibre-based (FB), and resin-coated (RC) variants to meet diverse artistic needs.</li><li><b>Tonal precision:</b> Offers the deepest blacks, brilliant whites, and smooth grey tones for exceptional contrast.</li></ul><h3>Perfect For</h3><ul><li>Classic black-and-white photography with high contrast</li><li>Fine art prints with precise details and neutral tones</li><li>Portraits and landscapes with fine grey gradations</li><li>Exhibition prints with long-lasting archival quality</li><li>Artistic projects requiring premium materials</li></ul><h3>Quick Overview</h3><ul><li><b>High-quality paper:</b> Designed for professional use with silver halide technology.</li><li><b>Tonal excellence:</b> Deep blacks, brilliant whites, and smooth grey gradations.</li><li><b>Variety of finishes:</b> Available in glossy, matt, pearl, and fibre base variants.</li></ul></div>"
+        },
+        "baryta": {
+            "name": "Baryta Paper",
+            "description": "Baryta paper is an absolute classic among prints, renowned for its gallery-grade quality. The black-and-white print impresses with its exceptional paper thickness and a glossy surface, which gains a silky sheen thanks to the baryta structure.",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription": "<div><h3>Ilford Baryta Paper</h3><p>Ilford Baryta Paper is a premium fine art paper designed for artistic black-and-white work and high-quality prints. Featuring a traditional barium sulphate coating, it offers an exceptional look and feel with impressive depth, brilliant whites, and velvety blacks, making it particularly effective for high-contrast artwork.</p><h3>Key Features</h3><ul><li><b>Barium sulphate coating:</b> Provides a classic baryta texture for a sophisticated and timeless appearance.</li><li><b>Exceptional tonal reproduction:</b> Accurately reproduces greyscales and tonal values, ideal for detailed artwork.</li><li><b>High archival quality:</b> Durable and conserving, perfect for museum and gallery-quality prints.</li></ul><h3>Perfect For</h3><ul><li>High-contrast black-and-white artwork</li><li>Museum and gallery-quality fine art prints</li><li>Reproductions of classic artworks</li><li>Detailed monochrome drawings or illustrations</li><li>Fine art projects requiring longevity and elegance</li></ul><h3>Quick Overview</h3><ul><li><b>Premium paper:</b> Traditional barium sulphate coating for a refined finish.</li><li><b>Tonal excellence:</b> Velvety blacks, brilliant whites, and superb depth.</li><li><b>Archival quality:</b> Durable and ideal for long-lasting fine art prints.</li></ul></div>"
+        },
+        "hfapearl": {
+            "name": "Hahnemühle FineArt Pearl",
+            "description": "A lightly textured surface with a silky sheen. Thanks to its impressive depth and precise contrasts, this paper is excellent for both color and black-and-white motifs.",
+            "additionalInfo": "Bright White | 285 g/m² | 100% Alpha-Cellulose",
+            "detailedDescription": "<div><h3>Hahnemühle FineArt Pearl</h3><p>Hahnemühle FineArt Pearl is a high-quality 285 gsm cellulose-based inkjet paper, specially developed for fine art applications. It features a brilliant white surface, subtle texture, and silky smooth feel. The premium pearlescent coating provides a sophisticated finish with impressive colour and detail reproduction, deep blacks, and high contrast.</p><h3>Key Features</h3><ul><li><b>Pearlescent finish:</b> Offers a luxurious look reminiscent of traditional silver gelatine photographic papers.</li><li><b>Archival quality:</b> Acid- and lignin-free, ensuring maximum resistance to ageing for long-term preservation.</li><li><b>Exceptional detail:</b> Delivers excellent colour reproduction, deep blacks, and precise details for both monochrome and colour prints.</li></ul><h3>Perfect For</h3><ul><li>High-quality reproductions of artwork with intense colours and fine details</li><li>Black-and-white artwork with deep blacks and high contrast</li><li>Photographic art projects requiring a luxurious presentation</li><li>Exhibitions, galleries, and limited editions</li><li>Long-term archiving of fine art prints</li></ul><h3>Quick Overview</h3><ul><li><b>Weight:</b> 285 gsm cellulose-based paper with a pearlescent finish</li><li><b>Archival quality:</b> Acid- and lignin-free for durability</li><li><b>Applications:</b> Ideal for gallery-quality monochrome and colour prints</li></ul></div>"
+        },
+        "hwilliamturner": {
+            "name": "Hahnemühle William Turner",
+            "description": "Textured matte watercolor paper with a natural white tone. It is particularly well-suited for authentic portraits and exceptional motif concepts.",
+            "additionalInfo": "Natural White | 310 g/m² | 100% Cotton | White border required",
+            "detailedDescription": "<div><h3>Hahnemühle William Turner</h3><p>Hahnemühle William Turner is a high-quality, traditionally crafted laid paper designed for fine art prints and reproductions. With a weight of 310 g/m² and a strong felt-like structure, it offers a distinctive tactile feel and exceptional visual depth. The matt inkjet coating ensures impressive colour reproduction, precise details, deep blacks, and high contrast.</p><h3>Key Features</h3><ul><li><b>Classic texture:</b> The pronounced felt-like structure adds an artistic touch reminiscent of watercolour or copperplate papers.</li><li><b>Archival quality:</b> Made from 100% cotton, free from optical brighteners, acid- and lignin-free for maximum resistance to ageing.</li><li><b>Exceptional detail:</b> Matt coating delivers brilliant colours, deep blacks, and sharp details for professional results.</li></ul><h3>Perfect For</h3><ul><li>Reproductions of paintings and drawings with strong artistic expression</li><li>Artworks with intense texture and three-dimensional effects</li><li>Black-and-white prints with deep contrasts and fine gradations</li><li>Limited editions and museum-quality exhibition prints</li><li>Art projects requiring longevity and archival-grade materials</li></ul><h3>Quick Overview</h3><ul><li><b>Weight:</b> 310 g/m² handmade paper with a pronounced texture</li><li><b>Archival quality:</b> Acid- and lignin-free for long-term durability</li><li><b>Applications:</b> Ideal for art reproductions, black-and-white prints, and limited editions</li></ul></div>"
+        },
+        "hphotorag": {
+            "name": "Hahnemühle Photo Rag",
+            "description": "FineArt paper made from 100% cotton with a fine, soft surface texture. It is versatile and suitable for all types of motifs.",
+            "additionalInfo": "White | 308 g/m² | 100% cotton | White border obligatory",
+            "detailedDescription": "<div><h3>Hahnemühle Photo Rag®</h3><p>Hahnemühle Photo Rag® is one of the world's most popular FineArt papers, known for its versatility and exceptional quality. Made from 100% cotton, it features a slightly felted structure and a pleasantly soft feel. With a weight of 308 gsm (also available in other weights), it combines stability, outstanding print quality, and artistic expression.</p><h3>Key Features</h3><ul><li><b>Premium matt coating:</b> Delivers brilliant colours, deep blacks, excellent contrast, and impressive detail.</li><li><b>Archival quality:</b> Acid- and lignin-free, ensuring long-term durability for artwork that needs to retain its quality for decades.</li><li><b>Soft texture:</b> The light felt structure provides a refined, natural feel and enhances visual depth.</li></ul><h3>Perfect For</h3><ul><li>Fine detail reproductions of paintings and drawings</li><li>High-quality black-and-white artwork with deep black tones</li><li>Photographic art projects with vibrant colours and high precision</li><li>Museum-quality limited editions and exhibitions</li><li>Artworks requiring a natural feel and archival-grade materials</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> 100% cotton paper with a soft touch and light felt texture</li><li><b>Coating:</b> Premium matt finish for vibrant colours and precise detail</li><li><b>Durability:</b> Acid- and lignin-free for maximum ageing resistance</li><li><b>Applications:</b> Ideal for fine art reproductions, black-and-white prints, and photographic projects</li></ul></div>"
+        },
+        "htorchon": {
+            "name": "Hahnemühle Torchon",
+            "description": "FineArt paper with a matte, coarsely textured surface and pleasant tactile quality. It is ideally suited for extravagant motifs with a three-dimensional effect.  ",
+            "additionalInfo": "Bright white | 285 g/m² | 100% alpha cellulose",
+            "detailedDescription": "<div><h3>Hahnemühle Torchon</h3><p>Hahnemühle Torchon is a bright white, 285 gsm cellulose-based FineArt inkjet paper, designed to bring a unique tactile feel and impressive three-dimensional depth to your artwork. Its coarsely textured felted surface makes it ideal for fine art applications, while the premium matt inkjet coating ensures brilliant colours, perfect detail, and deep blacks.</p><h3>Key Features</h3><ul><li><b>Distinctive texture:</b> Coarse felt structure adds a vibrant, tactile character to prints.</li><li><b>Archival quality:</b> Acid- and lignin-free, conforming to ISO 9706 standards for long-term durability.</li><li><b>Exceptional detail:</b> Matt coating delivers excellent colour reproduction, deep blacks, and precise details.</li></ul><h3>Perfect For</h3><ul><li>Reproductions of watercolours and other classic artworks</li><li>Fine art prints with strong texture and three-dimensional effects</li><li>Black-and-white artwork with high contrast</li><li>Limited editions and museum-quality displays</li><li>Digital artwork requiring a special surface texture</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> Cellulose-based FineArt paper with a coarse felt structure (285 gsm)</li><li><b>Coating:</b> Premium matt finish for vibrant colours and accurate detail</li><li><b>Durability:</b> Acid- and lignin-free for maximum ageing resistance</li><li><b>Applications:</b> Ideal for watercolour reproductions, monochrome prints, and digital artwork</li></ul></div>"
+        },
+        "hfabaryta": {
+            "name": "Hahnemühle FineArt Baryta",
+            "description": "FineArt paper with a glossy surface and classic baryta structure. Thanks to its impressive color depth and high contrast range, it is excellently suited for both color and black-and-white motifs.",
+            "additionalInfo": "Bright White | 325 g/m² | 100% Alpha-Cellulose",
+            "detailedDescription": "<div><h3>Hahnemühle FineArt Baryta</h3><p>Hahnemühle FineArt Baryta is a bright white, 325 gsm cellulose-based FineArt inkjet paper that combines the traditional look of analogue baryta paper with modern inkjet technology. Its clearly visible felt structure provides a tactile surface texture, adding impressive three-dimensional depth and visual presence to artwork.</p><h3>Key Features</h3><ul><li><b>Glossy coating:</b> Delivers vibrant colours, deep blacks, and high contrast for outstanding print results.</li><li><b>Barium sulphate content:</b> Enhances the classic baryta look, making it ideal for fine art reproductions and limited editions.</li><li><b>Archival quality:</b> Acid- and lignin-free, conforming to ISO 9706 standards for exceptional longevity and durability.</li></ul><h3>Perfect For</h3><ul><li>Artwork with intense colours and fine detail</li><li>Black-and-white prints with deep blacks and high contrast</li><li>Reproductions of classic paintings and photographs</li><li>Limited editions and museum-quality displays</li><li>Artworks requiring a sophisticated, traditional look</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> Bright white 325 gsm cellulose-based paper</li><li><b>Coating:</b> Glossy finish for brilliant colours and deep blacks</li><li><b>Tactile texture:</b> Traditional baryta look combined with modern inkjet technology</li><li><b>Durability:</b> Acid- and lignin-free for maximum ageing resistance (ISO 9706)</li><li><b>Applications:</b> Ideal for art reproductions, black-and-white prints, and exhibitions</li></ul></div>"
+        },
+        "hpsilkbarytax": {
+            "name": "Hahnemühle Photo Silk Baryta X",
+            "description": "Paper with a silky-glossy surface and subtle texture. It offers a wide color gamut with deep blacks, as well as high color density and brilliance.",
+            "additionalInfo": "Pure White | 310 g/m² | 100% Alpha-Cellulose",
+            "detailedDescription": "<div><h3>Hahnemühle Photo Silk Baryta X</h3><p>Hahnemühle Photo Silk Baryta X is a high-quality 310 gsm cellulose-based FineArt paper that combines the classic look of traditional silver halide photo paper with modern inkjet technology. Its silky gloss surface and creamy white base provide artwork with an elegant appearance and exceptional depth.</p><h3>Key Features</h3><ul><li><b>Baryta coating:</b> Ensures brilliant colours, velvety blacks, and impressive detail reproduction for luxurious presentations.</li><li><b>Wide colour gamut:</b> Offers high colour density and precision, making it ideal for detailed artwork.</li><li><b>Archival quality:</b> Acid- and lignin-free, ensuring durability and suitability for long-term preservation.</li></ul><h3>Perfect For</h3><ul><li>Artwork with vibrant colours and fine detail</li><li>Black-and-white prints with deep blacks and high contrast</li><li>Gallery-quality reproductions of classic paintings or photographs</li><li>Limited editions and museum-quality displays</li><li>Digital artwork requiring a smooth, silky finish</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> 310 gsm cellulose-based paper with a satin finish</li><li><b>Baryta coating:</b> Provides vibrant colours and velvety blacks</li><li><b>Tonal precision:</b> Excellent detail reproduction and wide colour gamut</li><li><b>Durability:</b> Acid- and lignin-free for maximum ageing resistance</li><li><b>Applications:</b> Ideal for fine art reproductions, black-and-white prints, and digital art</li></ul></div>"
+        },
+        "carchesarag": {
+            "name": "Canson Arches Aquarelle Rag",
+            "description": "Pure white paper with a matte watercolor texture offers exceptional color reproduction and a wide tonal range.",
+            "additionalInfo": "Pure White | 310 g/m² | 100% Cotton",
+            "detailedDescription": "<div><h3>Canson Arches Aquarelle Rag</h3><p>Canson Arches Aquarelle Rag is a high-quality 310 gsm fine art paper made from 100% cotton, designed for fine art reproductions and digital artwork. Inspired by traditional watercolour paper, it features a natural felt-embossed texture reminiscent of classic handmade paper, offering exceptional stability and artistic depth.</p><h3>Key Features</h3><ul><li><b>Natural texture:</b> Felt-embossed surface provides a tactile quality and enhances the artistic presentation.</li><li><b>Matt surface:</b> Ensures accurate reproduction of colours, deep blacks, and fine details for professional results.</li><li><b>Archival quality:</b> Free from optical brighteners (OBAs), guaranteeing a natural white tone and long-lasting durability for prints.</li><li><b>Traditional craftsmanship:</b> Produced using cylinder mould techniques for a classic, high-quality finish.</li></ul><h3>Perfect For</h3><ul><li>Reproductions of classic paintings and watercolours</li><li>Artworks with intense colours and fine textures</li><li>Black-and-white prints with high contrast and detail</li><li>Limited editions and museum-quality displays</li><li>Digital artwork requiring a traditional aesthetic</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> High-quality 100% cotton FineArt paper (310 gsm)</li><li><b>Texture:</b> Felt-embossed surface for artistic depth</li><li><b>Coating:</b> Matte finish for vibrant colours and precise detail</li><li><b>Durability:</b> Free from optical brighteners for maximum archival quality</li></ul></div>"
+        },
+        "cbarytaprestige2": {
+            "name": "Canson Baryta Prestige II",
+            "description": "Fine Art paper with a glossy surface and pronounced baryta structure. Thanks to its high contrast depth and vibrant color reproduction, it is perfectly suited for both color and black-and-white motifs.",
+            "additionalInfo": "Natural White | 340 g/m² | Alpha-Cellulose and Cotton",
+            "detailedDescription": "<div><h3>Canson Infinity Baryta Prestige II Paper</h3><p>Canson Infinity Baryta Prestige II is a premium 340 gsm fine art paper designed for the most demanding artworks and prints. Combining the aesthetics of traditional darkroom baryta papers with modern inkjet technology, it features a barium sulphate coating that provides natural whiteness without optical brighteners (OBAs). This ensures exceptional colour reproduction, deep blacks, and pure whites.</p><h3>Key Features</h3><ul><li><b>Barium sulphate coating:</b> Offers natural whiteness and enhances colour vibrancy and tonal depth.</li><li><b>Silky smooth surface:</b> Provides impressive detail and an extended tonal range for both monochrome and colour printing.</li><li><b>Archival quality:</b> Made from a blend of alpha cellulose and cotton, the paper is acid-free, FSC certified, and conforms to ISO 9706 standards for long-term durability.</li></ul><h3>Perfect For</h3><ul><li>Artwork with intense colours and precise details</li><li>Black-and-white prints with deep blacks and high contrast</li><li>Reproductions of classic paintings and photographs</li><li>Limited editions and museum-quality displays</li><li>Artworks requiring a sophisticated, traditional look</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> Premium 340 gsm FineArt paper with barium sulphate coating</li><li><b>Tonal precision:</b> Natural whiteness with no optical brighteners (OBAs)</li><li><b>Durability:</b> Acid-free, FSC certified, and archival (ISO 9706)</li><li><b>Applications:</b> Ideal for monochrome printing, colour printing, and fine art reproductions</li></ul></div>"
+        },
+        "cragphotographique": {
+            "name": "Canson Rag Photographique",
+            "description": "A versatile paper with a smooth, deeply matte surface and a very subtle texture.",
+            "additionalInfo": "Bright white with a warm undertone | 310 g/m² | 100% cotton",
+            "detailedDescription": "<div><h3>Canson Infinity Rag Photographique</h3><p>Canson Infinity Rag Photographique is a premium fine art paper made from 100% cotton, designed for fine art reproductions and digital prints. Its exceptionally smooth, matt surface offers a soft, luxurious feel, while the ultra-white colour is achieved using natural minerals without the use of optical brighteners (OBAs).</p><h3>Key Features</h3><ul><li><b>Ultra-smooth surface:</b> Provides a sensual, refined finish ideal for high-quality artwork.</li><li><b>Museum-grade quality:</b> Conforms to the highest archival standards (ISO 9706), ensuring durability and long-term preservation.</li><li><b>Exceptional Dmax values:</b> Offers the deepest blacks and precise detail reproduction for both colour and black-and-white artwork.</li></ul><h3>Perfect For</h3><ul><li>High-quality reproductions of paintings and drawings</li><li>Artwork with intense colours and precise details</li><li>Black-and-white prints with deep blacks and soft greys</li><li>Limited editions and museum-quality displays</li><li>Digital artwork requiring a smooth, luxurious finish</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> 100% cotton paper with an ultra-smooth matt finish</li><li><b>Tonal precision:</b> Exceptional colour reproduction and one of the highest Dmax values on the market</li><li><b>Durability:</b> Museum-grade quality, free from optical brighteners (OBAs)</li><li><b>Applications:</b> Ideal for fine art reproductions, black-and-white prints, and limited editions</li></ul></div>"
+        },
+        "efacottonsmooth": {
+            "name": "Epson Fine Art Cotton Smooth Natural",
+            "description": "Warm-tone paper with a smooth, natural surface. It is versatile and suitable for all types of motifs.",
+            "additionalInfo": "Natural White | 250 g/m² | 100% Cotton",
+            "detailedDescription": "<div><h3>Epson Fine Art Cotton Smooth Natural Paper</h3><p>Epson Fine Art Cotton Smooth Natural is a premium fine art paper made from 100% cotton, designed for high-quality art prints. Its smooth, natural surface and warm white tone, free from optical brighteners (OBA-free), provide an authentic and elegant presentation of artwork. The matt coating ensures exceptional colour reproduction, deep blacks, and smooth tonal gradations, allowing even the finest details to be accurately reproduced.</p><h3>Key Features</h3><ul><li><b>Natural surface:</b> Smooth texture with a warm white tone for a timeless aesthetic.</li><li><b>Exceptional detail:</b> Matt coating delivers vibrant colours, deep blacks, and precise tonal gradations.</li><li><b>Archival quality:</b> Meets the highest standards for durability, ensuring artwork retains its quality for decades.</li></ul><h3>Perfect For</h3><ul><li>Fine art reproductions with smooth colour gradients and precise details</li><li>Black-and-white artwork with deep contrasts and fine gradations</li><li>Digital paintings or illustrations requiring a natural finish</li><li>Limited editions and museum-quality displays</li><li>Artworks needing a soft aesthetic and maximum durability</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> 100% cotton paper with a smooth, natural finish (300 gsm)</li><li><b>Tonal precision:</b> Warm white tone without optical brighteners (OBA-free)</li><li><b>Durability:</b> Archive-quality for long-lasting prints</li></ul></div>"
+        },
+        "efacottontextured": {
+            "name": "Epson Fine Art Cotton Textured Bright",
+            "description": "Pure white Fine Art paper with a subtle aquarelle texture and exceptional color reproduction.",
+            "additionalInfo": "Pure White | 300 g/m² | 100% Cotton",
+            "detailedDescription": "<div><h3>Epson Fine Art Cotton Textured Paper Bright</h3><p>Epson Fine Art Cotton Textured Bright is a high-quality, archival fine art paper made from 100% cotton with a weight of 300 gsm. Featuring a subtle texture reminiscent of watercolour paper and a pure white shade, it provides an elegant surface for artistic applications. The matte finish ensures faithful reproduction of colours, tones, and details, making it ideal for vibrant and precise artwork.</p><h3>Key Features</h3><ul><li><b>Subtle texture:</b> Inspired by watercolour paper, the surface adds a distinctive artistic touch.</li><li><b>Exceptional colour reproduction:</b> Matte coating delivers vibrant colours, deep blacks, and accurate tonal gradations.</li><li><b>Archival quality:</b> Acid-free and cold-pressed, ensuring long-term durability for artwork that needs to be preserved for generations.</li></ul><h3>Perfect For</h3><ul><li>Reproductions of watercolours or classic paintings</li><li>Artwork with fine detail and vibrant colours</li><li>Black-and-white artwork with high contrast and precise tonal reproduction</li><li>Limited editions and museum-quality exhibitions</li><li>Artistic projects requiring a distinctive texture</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> High-quality 100% cotton FineArt paper (300 gsm)</li><li><b>Surface:</b> Subtly textured surface inspired by watercolour paper</li><li><b>Tonal precision:</b> Matte coating for vibrant colours and precise detail</li><li><b>Durability:</b> Acid-free and archival for long-lasting artwork</li></ul></div>"
+        },
+        "etraditionalpp": {
+            "name": "Epson Traditional Photo Paper",
+            "description": "Paper with a smooth, silk-gloss surface impresses with deep, rich blacks and is suitable for a wide range of motifs.",
+            "additionalInfo": "Bright White | 300 g/m² | 100% Alpha-Cellulose",
+            "detailedDescription": "<div><h3>Epson Fine Art Cotton Textured Bright</h3><p>Epson Fine Art Cotton Textured Bright is a high-quality, archival FineArt paper made from 100% cotton with a weight of 300 g/m². Featuring a subtly pronounced texture reminiscent of watercolour paper and a pure white tone, it provides an elegant surface for artistic applications. The matt finish ensures true-to-life reproduction of colours, tones, and details, making it ideal for vibrant and precise artwork.</p><h3>Key Features</h3><ul><li><b>Subtle texture:</b> Inspired by watercolour paper, the surface adds a distinctive artistic touch.</li><li><b>Wide colour gamut:</b> Offers vibrant colours, deep blacks, and smooth tonal gradations for detailed reproductions.</li><li><b>Archival quality:</b> Acid-free and cold-pressed, ensuring long-term durability for artwork preserved for generations.</li></ul><h3>Perfect For</h3><ul><li>Reproductions of watercolours or classic paintings</li><li>Artworks with fine details and vibrant colours</li><li>Black-and-white artworks with high contrast and precise tonal reproduction</li><li>Limited editions and museum-quality exhibitions</li><li>Artistic projects requiring a distinctive texture</li></ul><h3>Quick Overview</h3><ul><li><b>Material:</b> High-quality FineArt paper made from 100% cotton (300 g/m²)</li><li><b>Surface:</b> Subtly textured surface inspired by watercolour paper</li><li><b>Tonal precision:</b> Matt coating for vivid colours and precise details</li><li><b>Durability:</b> Acid-free and archive-proof for long-lasting artwork</li></ul></div>"
+        },
+        "fineartpaper": {
+            "name": "Fine Art Paper",
+            "description": "Text hier (aktuell copy&paste von WhiteWall)",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription":"Text hier (Hier brauchen wir noch Texte)"
+        },
+        "cprintm": {
+            "name": "Canvas Print, Matte",
+            "description": "Text hier (aktuell copy&paste von WhiteWall)",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription":"Text hier (Hier brauchen wir noch Texte)"
+        },
+        "cprintg": {
+            "name": "Canvas Print, Glossy",
+            "description": "Text hier (aktuell copy&paste von WhiteWall)",
+            "additionalInfo": "Text hier (wie viel gramm etc.)",
+            "detailedDescription":"Text hier (Hier brauchen wir noch Texte)"
+        }
+    },
+    "glass": {
+        "glossyfloat": {
+            "name": "Glossy Float Glass",
+            "description": "The classic choice for presentations of any kind – impresses with a glossy surface."
+        },
+        "mattefloat": {
+            "name": "Matte Float Glass",
+            "description": "The matte surface minimizes reflections and is ideal for spaces with strong light exposure."
+        },
+        "acrylicg": {
+            "name": "Acrylic Glass",
+            "description": "The matte surface minimizes reflections and is ideal for spaces with strong light exposure."
+        },
+        "museum": {
+            "name": "Museum Glass",
+            "description": "High-quality museum glass with an anti-reflective surface minimizes distracting reflections and ensures true-to-life color reproduction. Additionally, it protects the artwork from harmful UV radiation."
+        }
+    },
+    "lamination": {
+        "nolam": {
+            "name": "No Protective Lamination",
+            "description": "Your artwork will not have a protective lamination applied."
+        },
+        "glossylam": {
+            "name": "Glossy Lamination",
+            "description": "Adds a glossy protective layer that enhances colours and provides a shiny finish."
+        },
+        "mattelam": {
+            "name": "Matte Lamination",
+            "description": "Provides a matt protective layer that reduces glare and gives a subtle finish."
+        }
+    },
+    "materialfinish": {
+        "bsilver": {
+            "name": "Brushed, Silver",
+            "description": "A brushed silver finish for a sophisticated look."
+        },
+        "bgold": {
+            "name": "Brushed, Gold",
+            "description": "A brushed gold finish for an elegant look."
+        },
+        "glossy": {
+            "name": "Glossy",
+            "description": "A gloss finish that enhances colours and adds shine."
+        },
+        "bglossy": {
+            "name": "Brushed and Glossy",
+            "description": "Combines a brushed texture with a glossy sheen for a unique finish."
+        }
+    },
+    "hanginghardware": {
+        "nohangingelements": {
+            "name": "No Hanging Elements",
+            "description": "Your artwork will not have any hanging elements added to it."
+        },
+        "hangingelements": {
+            "name": "Hanging Elements (Hook Supports)",
+            "description": "Small formats up to 25 cm in length."
+        },
+        "rails": {
+            "name": "Aluminum Rails",
+            "description": "Supplied with aluminium rails for hanging."
+        },
+        "cylindricalspacers": {
+            "name": "Cylindrical Spacers, 25mm",
+            "description": "Cylindrical spacers are included for hanging."
+        }
+    },
+    "motifborder": {
+        "noborder": {
+            "name": "Without White Border",
+            "description": "No white border will be added to your artwork."
+        },
+        "border1": {
+            "name": "White Border, 1 cm",
+            "description": "Adds a 1 cm white border around your artwork."
+        },
+        "border2": {
+            "name": "White Border, 2 cm",
+            "description": "Adds a 2 cm white border around your artwork."
+        },
+        "border3": {
+            "name": "White Border, 3 cm",
+            "description": "Adds a 3 cm white border around your artwork."
+        },
+        "border5": {
+            "name": "White Border, 5 cm",
+            "description": "Adds a 5 cm white border around your artwork."
+        },
+        "border8": {
+            "name": "White Border, 8 cm",
+            "description": "Adds an 8 cm white border around your artwork."
+        },
+        "border12": {
+            "name": "White Border, 12 cm",
+            "description": "Adds a 12 cm white border around your artwork."
+        }
+    },
+    "corner": {
+        "normalcorners": {
+            "name": "Normal",
+            "description": "Sharp corners as standard for a classic appearance."
+        },
+        "slightlyround": {
+            "name": "Slightly Blunted",
+            "description": "Softer aesthetics with subtly rounded corners."
+        },
+        "stronglyround": {
+            "name": "Strongly Rounded",
+            "description": "Strongly rounded corners for a modern and smooth finish."
+        }
+    },
+    "stretcherframe": {
+        "stretcherframe1": {
+            "name": "20 mm Stretcher Frame",
+            "description": "Standard stretcher frame"
+        },
+        "stretcherframe2": {
+            "name": "40 mm Stretcher Frame",
+            "description": "Extra stable with object character"
+        },
+        "stretcherframe3": {
+            "name": "60 mm Stretcher Frame",
+            "description": "Distinct object character with maximum stability"
+        }
+    },
+    "sideappearance": {
+        "mirrored": {
+            "name": "Mirrored Edges",
+            "description": "Mirrored Edges will be added to your artwork."
+        },
+        "wrapped": {
+            "name": "Wrapped Edges",
+            "description": "Wrapped Edges will be added to your artwork."
+        }
+    }
+}
