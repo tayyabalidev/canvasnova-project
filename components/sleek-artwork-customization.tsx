@@ -125,7 +125,6 @@ export function SleekArtworkCustomization() {
   useEffect(() => {
     if (!parsedData) {
       setHasError(true);
-      console.log("object" )
     }
   }, [parsedData]);
 
@@ -143,8 +142,6 @@ export function SleekArtworkCustomization() {
         .then((data) => {
           if (!data.format || data.format === '') {
             setHasError(true);
-      console.log("format" )
-
           } else {
             setArtworkInfos(data);
             setFormat(data.format);
@@ -153,8 +150,6 @@ export function SleekArtworkCustomization() {
         .catch((error) => {
           console.error(error);
           setHasError(true);
-      console.log("error" )
-
         });
     }
   }, [parent, imageId])
@@ -1836,6 +1831,7 @@ export function SleekArtworkCustomization() {
                             onClick={(e) => {
                             e.preventDefault();
                             setProductModal(product);
+                            window.parent.postMessage({ type: 'modalOpened' }, '*');
                             setCurrentSlide(0)
                             }}
                           >
@@ -1996,6 +1992,7 @@ export function SleekArtworkCustomization() {
                         onClick={(e) => {
                         e.preventDefault();
                         setImagecarrierModal(carrier);
+                        window.parent.postMessage({ type: 'modalOpened' }, '*');
                         setCurrentSlide(0)
                         }}
                       >
@@ -2178,6 +2175,7 @@ export function SleekArtworkCustomization() {
                                 onClick={(e) => {
                                 e.preventDefault();
                                 setFrameModal(frame)
+                                window.parent.postMessage({ type: 'modalOpened' }, '*');
                                 setCurrentSlide(0)
                                 }}
                               >
@@ -2447,6 +2445,7 @@ export function SleekArtworkCustomization() {
                         onClick={(e) => {
                         e.preventDefault()
                         setPaperModal(paper)
+                        window.parent.postMessage({ type: 'modalOpened' }, '*');
                         }}
                       >
                         <Info className="h-4 w-4" />
@@ -3428,8 +3427,8 @@ export function SleekArtworkCustomization() {
         </DrawerContent>
       </Drawer>
       {/* Overlay, das blockiert, falls ein Fehler vorliegt */}
-       {hasError && (
-        <div className="inset-0 bg-black bg-opacity-50 z-50 flex flex-col items-center justify-center pointer-events-auto">
+      {/* {hasError && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 z-50 flex flex-col items-center justify-center pointer-events-auto">
           <div className="bg-white p-8 rounded shadow-md text-center w-[400px] h-[200px] max-w-[95vw] max-h-[95vh]">
             <h2 className="text-2xl font-bold mb-4">{t('oops')}</h2>
             <p className="mb-4">{t('somethingWrong')}</p>
@@ -3441,15 +3440,7 @@ export function SleekArtworkCustomization() {
             </button>
           </div>
         </div>
-      )}
+      )} */}
     </div>
   )
 }
-
-<style>
-  {`
-    iframe {
-      height:100vh !important;
-    }
-  `}
-</style>
