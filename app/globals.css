@@ -4,7 +4,9 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  /* overflow: hidden; */
 }
+
 
 @layer utilities {
   .text-balance {
@@ -40,6 +42,7 @@ body {
     --chart-5: 27 87% 67%;
     --radius: 0.5rem;
   }
+
   .dark {
     --background: 0 0% 3.9%;
     --foreground: 0 0% 98%;
@@ -66,20 +69,29 @@ body {
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
   }
+
   .accordion-content ul {
-    list-style-type: disc; /* Bullet Points aktivieren */
-    margin-left: 1.5rem;   /* Einrückung für die Liste */
+    list-style-type: disc;
+    /* Bullet Points aktivieren */
+    margin-left: 1.5rem;
+    /* Einrückung für die Liste */
   }
+
   .accordion-content li {
-    display: list-item;    /* Sicherstellen, dass <li> als Listenelement angezeigt wird */
+    display: list-item;
+    /* Sicherstellen, dass <li> als Listenelement angezeigt wird */
   }
+
   .rte-content ul {
-    list-style-type: disc; /* z. B. standard Bullet-Points */
+    list-style-type: disc;
+    /* z. B. standard Bullet-Points */
     margin-left: 1.5rem;
   }
+
   .rte-content li {
     display: list-item;
   }
+
   .rte-content h2 {
     display: block;
     font-size: 1.5rem;
@@ -87,6 +99,7 @@ body {
     margin-top: 1rem;
     margin-bottom: 0.5rem;
   }
+
   .rte-content h3 {
     display: block;
     font-size: 1.2rem;
@@ -100,6 +113,7 @@ body {
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
   }

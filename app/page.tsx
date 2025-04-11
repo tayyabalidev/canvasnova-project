@@ -1,43 +1,49 @@
 'use client'
-
+ 
 import { useEffect } from 'react'
 import { SleekArtworkCustomization } from "@/components/sleek-artwork-customization"
 import { Suspense } from "react"
-
+ 
 export default function Page() {
   useEffect(() => {
-    // Funktion zur Ermittlung der Höhe
     const sendHeight = () => {
-      const height = document.documentElement.scrollHeight;
-      // Sende die neue Höhe an das übergeordnete Fenster
-      window.parent.postMessage(
-        { type: 'setHeight', height },
-        '*' // Zum Testen: Später solltest du den Origin einschränken
-      );
+      const height = document.body.scrollHeight;
+      console.log('Sending height:', height);
+      window.parent.postMessage({ type: 'setHeight', height }, '*');
     };
-
-    // Sende einmalig die aktuelle Höhe
+ 
+    // Initial send
     sendHeight();
-
-    // Option 1: Nutze ResizeObserver, um bei Änderungen neu zu messen
+ 
+    // Resize Observer for layout changes
     const resizeObserver = new ResizeObserver(() => {
       sendHeight();
     });
-    resizeObserver.observe(document.documentElement);
-
-    // Option 2 (zusätzlich): Bei Fenster-Resize neu senden
+    resizeObserver.observe(document.body);
+ 
+    // Mutation Observer for DOM changes
+    const mutationObserver = new MutationObserver(() => {
+      sendHeight();
+    });
+    mutationObserver.observe(document.body, {
+      attributes: true,
+      childList: true,
+      subtree: true,
+    });
+ 
+    // Window resize
     window.addEventListener('resize', sendHeight);
-
-    // Aufräumen bei unmount
+ 
     return () => {
       resizeObserver.disconnect();
+      mutationObserver.disconnect();
       window.removeEventListener('resize', sendHeight);
     };
   }, []);
-
+ 
   return (
     <Suspense fallback={<div>Lädt...</div>}>
       <SleekArtworkCustomization />
     </Suspense>
-  )
+  );
 }
