@@ -1799,7 +1799,7 @@ export function SleekArtworkCustomization() {
                 </button>
               ))}
             </div>
-            <RadioGroup value={selections.product} onValueChange={(value) => handleSelection('product', value)}>
+            <RadioGroup value={selections.product} onValueChange={(value) => {handleSelection('product', value)}}>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {products
                 .filter((product) => product.category === selectedProductCategory)
@@ -1845,7 +1845,7 @@ export function SleekArtworkCustomization() {
                 ))}
               </div>
             </RadioGroup>
-            <Dialog open={!!productModal} onOpenChange={() => setProductModal(null)}>
+            <Dialog open={!!productModal} onOpenChange={() => {setProductModal(null); window.parent.postMessage({ type: 'modalClosed' }, '*')}}>
               <DialogContent className={`max-w-[90vw] md:max-w-[700px] max-h-[90vh] overflow-y-auto ${syne.className}`}>
                 <DialogHeader>
                   <DialogTitle>{t(productModal?.name ?? '')}</DialogTitle>
@@ -2003,7 +2003,8 @@ export function SleekArtworkCustomization() {
                 ))}
               </div>
             </RadioGroup>
-            <Dialog open={!!imagecarrierModal} onOpenChange={() => setImagecarrierModal(null)}>
+            <Dialog open={!!imagecarrierModal} onOpenChange={() => {setImagecarrierModal(null);   window.parent.postMessage({ type: 'modalClosed' }, '*');
+}}>
             <DialogContent className={`max-w-[90vw] md:max-w-[700px] max-h-[90vh] overflow-y-auto ${syne.className}`}>
               <DialogHeader>
                 <DialogTitle>{t(imagecarrierModal?.name ?? '')}</DialogTitle>
@@ -2190,7 +2191,8 @@ export function SleekArtworkCustomization() {
                 )}
               </div>
             </RadioGroup>
-            <Dialog open={!!frameModal} onOpenChange={() => setFrameModal(null)}>
+            <Dialog open={!!frameModal} onOpenChange={() => {setFrameModal(null);   window.parent.postMessage({ type: 'modalClosed' }, '*');
+}}>
               <DialogContent className={`max-w-[90vw] md:max-w-[700px] max-h-[90vh] overflow-y-auto ${syne.className}`}>
                 <DialogHeader>
                   <DialogTitle>{t(frameModal?.name ?? '')}</DialogTitle>
@@ -2459,7 +2461,8 @@ export function SleekArtworkCustomization() {
                 ))}
               </div>
             </RadioGroup>
-            <Dialog open={!!paperModal} onOpenChange={() => setPaperModal(null)}>
+            <Dialog open={!!paperModal} onOpenChange={() => {setPaperModal(null);   window.parent.postMessage({ type: 'modalClosed' }, '*');
+}}>
               <DialogContent className={`max-w-[90vw] md:max-w-[700px] max-h-[90vh] overflow-y-auto ${syne.className}`}>
                 <DialogHeader>
                   <DialogTitle>{t(paperModal?.name ?? '')}</DialogTitle>
@@ -2906,7 +2909,6 @@ export function SleekArtworkCustomization() {
   const ArtworkPreviewDialog = (recordId, format, physicalWidth, physicalHeight, overallPhysicalWidth, overallPhysicalHeight, newSelections) => {
     const [artworkImages, setArtworkImages] = useState<string[]>([])
     const [currentIndex, setCurrentIndex] = useState<number>(0)
-
     useEffect(() => {
       if (recordId && format) {
         fetchArtwork(recordId, format, physicalWidth, physicalHeight, overallPhysicalWidth, overallPhysicalHeight, newSelections).then(images => {
@@ -2942,6 +2944,7 @@ export function SleekArtworkCustomization() {
               maxWidth: '100%',
               maxHeight: '512px',
             }}
+            onClick={() => window.parent.postMessage({ type: 'modalOpened' }, '*')}
           >
             {artworkImages.length > 0 ? (
               <>
